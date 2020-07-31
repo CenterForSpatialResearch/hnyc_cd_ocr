@@ -35,10 +35,6 @@ To succesfully have this project work in your system, you would require the proc
 
 ## Links
 
-Even though this information can be found inside the project on machine-readable
-format like in a .json file, it's good to include a summary of most useful
-links to humans using your project. You can include links like:
-
 - Project homepage: https://github.com/CenterForSpatialResearch
 - Repository: https://github.com/CenterForSpatialResearch/hnyc_cd_ocr/
 
