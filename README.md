@@ -19,7 +19,7 @@ cd hnyc_cd_ocr/
 npm install -g nypl-spacetime/hocr-detect-columns
 ```
 
-To succesfully have this project work in your system, you would require the procedure (third command above) to detecting columns (and wrapping lines) work in the system. For the process of detecting columns and wrapping lines into valid entries, we have borrowed the process built and graciously open sources by New York Public Library. More details regarding it ![here](http://spacetime.nypl.org/city-directory-meetup/#/), and code ![here](https://github.com/nypl-spacetime/hocr-detect-columns)
+To succesfully have this project work in your system, you would require the procedure (third command above) to detecting columns (and wrapping lines) work in the system. For the process of detecting columns and wrapping lines into valid entries, we have borrowed the process built and graciously open sourced by New York Public Library. More details regarding it ![here](http://spacetime.nypl.org/city-directory-meetup/#/), and code ![here](https://github.com/nypl-spacetime/hocr-detect-columns)
 
 
 
