@@ -23,9 +23,9 @@ To succesfully have this project work in your system, you would require the proc
 
 ## Workflow of the Scripts
 
-* The '.ipynb' file of the corresponding borough and year is present in this repository. This files performs the OCR process of the city directory and outputs the result in 'tess_output' folder's year-named folder. 
-* The extracting_entries.ipynb script converts hOCR format of Tesseract to text
-* The '.ipynb' file named CRF produces the CRF output saved in result json file 
+* The '.ipynb' file (eg: MN_1850-51.ipynb) of the corresponding borough and year is present in this repository. This files performs the OCR process of the city directory and outputs the result in 'tess_output' folder's year-named folder. 
+* The 'extracting_entries.ipynb' script converts hOCR format of Tesseract to text
+* The '.ipynb' file (eg: CRF_1850.ipynb) named CRF produces the CRF output saved in result json file (eg: mn1850_result.json)
 
 
 ## Workflow of the OCR
