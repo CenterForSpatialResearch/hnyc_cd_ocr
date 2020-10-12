@@ -1,6 +1,6 @@
 <b> Image download protocol using NYPL API </b> <br> <br>
-<b> What is this? </b>
-This is a Javascript program used to scrape links from the NYPL website (each link corresponds to each page in the Manhattan city directories)
+<b> What is this? </b> <br>
+This is a Javascript program used to scrape links from the NYPL website (each link corresponds to each page in the Manhattan city directories) <br>
 <b> Files in this directory: </b> <br> 
 - source: contains input json files corresponding to the digitized City Directories from NYPL
 - output: contains output files produced by the Javascript program. Content of the output file include year-wise download links of the TIF files of the corresponding city directory records
