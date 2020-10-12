@@ -53,7 +53,7 @@ To succesfully have this project work in your system, you would require the proc
 <b> Latest Runs: </b> <br>
 
 |  City Directory | OCR  | Data Cleaning  | CRF  |
-|---|---|---|---|---|
+|-----------------|:-----:|---------------:|-----:|
 | MN, 1850-51  | yes  | yes  | yes  | 
 |  MN, 1880-81 | yes  | yes  |   |  
 |  BK, 1850-51 | yes  |   |   |   
