@@ -21,6 +21,11 @@ npm install -g nypl-spacetime/hocr-detect-columns
 
 To succesfully have this project work in your system, you would require the procedure (third command above) to detecting columns (and wrapping lines) work in the system. For the process of detecting columns and wrapping lines into valid entries, we have borrowed the process built and graciously open sourced by New York Public Library. More details regarding it ![here](http://spacetime.nypl.org/city-directory-meetup/#/), and code ![here](https://github.com/nypl-spacetime/hocr-detect-columns)
 
+## Workflow of the Scripts
+
+* The '.ipynb' file of the corresponding borough and year is present in this repository. This files performs the OCR process of the city directory and outputs the result in 'tess_output' folder's year-named folder. 
+* The extracting_entries.ipynb script converts hOCR format of Tesseract to text
+* The '.ipynb' file named CRF produces the CRF output saved in result json file 
 
 
 ## Workflow of the OCR
@@ -30,9 +35,6 @@ To succesfully have this project work in your system, you would require the proc
 * Correcting the orientation (rotating): Depending on the side the page appears in the book (right/left side page), the orientation had to be corrected. This might primarily be because of the cameras that were set up in place for either side of the CD book while capturing the pages. The orientation was same for all pages on a particular side of each book. (usually either 90 or 270). Command used: image.transpose(Image.ROTATE_90).
 * Binary thresholding of the image: After having tried both global thresholding and ![local thresholding](https://scikit-image.org/docs/stable/auto_examples/segmentation/plot_niblack_sauvola.html#:~:text=Niblack%20and%20Sauvola%20thresholds%20are,for%20text%20recognition%201%2C%202.&text=Here%2C%20we%20binarize%20an%20image,a%20common%20global%20thresholding%20technique.) (particularly the Sauvola Thresholding), local thresholding seemed to give better results. It is said to work better for historical documents because of issues such as ink leakage, erosion, etc.
 
-## Workflow of the Scripts
-
-* The '.ipynb. file of the corresponding borough and year is present in this repository. This files performs the OCR process of the city directory and outputs the result in 'tess_output' folder's year-named folder. 
 
 
 ## Links
