@@ -6,14 +6,12 @@
 This work encompasses the use of Tesseract for Optical Character Recognition (OCR) process over historical City Directories (CD) from Manhattan and Brooklyn. 
 
 
-### Initial Configuration
+### Initial Requirements
 
 This project requires the links to Manhattan CD's scraped from the NYPL website's API, and also the individual pages from Brooklyn CD PDFs.
 
-## Developing
+## How to get this project work on your system
 
-Here's a brief intro about what a developer must do in order to start developing
-the project further:
 
 ```shell
 git clone https://github.com/CenterForSpatialResearch/hnyc_cd_ocr/
@@ -21,11 +19,11 @@ cd hnyc_cd_ocr/
 npm install -g nypl-spacetime/hocr-detect-columns
 ```
 
-To succesfully have this project work in your system, you would require the procedure to detecting columns (and wrapping lines) work in the system. For the process of detecting columns and wrapping lines into valid entries, we have used the HOCR format output of Tesseract and followed steps from NY Public Library's effort. More details regarding it ![here](http://spacetime.nypl.org/city-directory-meetup/#/), and code ![here](https://github.com/nypl-spacetime/hocr-detect-columns)
+To succesfully have this project work in your system, you would require the procedure (third command above) to detecting columns (and wrapping lines) work in the system. For the process of detecting columns and wrapping lines into valid entries, we have borrowed the process built and graciously open sources by New York Public Library. More details regarding it ![here](http://spacetime.nypl.org/city-directory-meetup/#/), and code ![here](https://github.com/nypl-spacetime/hocr-detect-columns)
 
 
 
-## Features
+## How the process works
 
 * To ensure no errors come up due to issues with the link, the program first checks that the link is valid and if so proceeds to access the image, using try except block over urllib command
 * Cropping the image: This is an essential step that narrows down the image to what is necessary input. With lesser noisy input, Tesseract gives cleaner output. The process involves finding the 4 locations in the image that form the corners of the cropped image. (calculated as a percentage of current image size + pixel indexing starts from top left corner with (0,0)). Used PILLOW library’s image.crop command: image.crop((left, top, right, bottom))
