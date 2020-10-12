@@ -1,1 +1,1 @@
-This process is borrowed with thanks from a open sourced [project](https://github.com/nypl-spacetime/city-directory-entry-parser#:~:text=city%2Ddirectory%2Dentry%2Dparser%20parses%20lines%20from%20OCR',NYC%20Space%2FTime%20Directory%20project) from New York Public Library. 
+This process is borrowed from a open sourced [project](https://github.com/nypl-spacetime/city-directory-entry-parser#:~:text=city%2Ddirectory%2Dentry%2Dparser%20parses%20lines%20from%20OCR',NYC%20Space%2FTime%20Directory%20project) from New York Public Library. 
