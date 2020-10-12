@@ -1,5 +1,5 @@
 <b> Image download protocol using NYPL API </b> <br> <br>
-<b> What is in this? </b> <br>
+<b> What is in here? </b> <br>
 The Javascript program (program_wget.js) is used to scrape links from the NYPL website (each link corresponds to each page in the Manhattan city directories; input available in source) <br> <br>
 <b> Files in this directory: </b> <br> 
 - source: contains input json files corresponding to the digitized City Directories from NYPL
