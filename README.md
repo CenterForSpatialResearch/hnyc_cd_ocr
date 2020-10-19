@@ -25,7 +25,7 @@ To succesfully have this project work in your system, you would require the proc
 
 * The '.ipynb' file (eg: MN_1850-51.ipynb) of the corresponding borough and year is present in this repository. This files performs the OCR process of the city directory and outputs the result in 'tess_output' folder's year-named folder. 
 * The 'extracting_entries.ipynb' script converts hOCR format of Tesseract to text
-* The '.ipynb' file (eg: CRF_1850.ipynb) named CRF produces the CRF output saved in result json file (eg: mn1850_result.json)
+* The '.ipynb' file (eg: CRF_1850.ipynb) named CRF produces the CRF output saved in result json file inside the CRF output folder (eg: MN_1850_CRF_output.json)
 
 
 ## Workflow of the OCR
@@ -57,5 +57,5 @@ To succesfully have this project work in your system, you would require the proc
 |  City Directory | OCR  | Data Cleaning  | CRF  |
 |-----------------|:-----:|---------------:|-----:|
 | MN, 1850-51  | yes  | yes  | yes  | 
-|  MN, 1880-81 | yes  | yes  |   |  
+|  MN, 1880-81 | yes  | yes  | yes  |  
 |  BK, 1850-51 | yes  |   |   |   
