@@ -1,0 +1,3633 @@
+{
+  "config": {
+    "columnCount": 2,
+    "characterWidth": 25,
+    "minLinesPerColumn": 50
+  },
+  "pages": [
+    {
+      "number": 0,
+      "properties": {
+        "image": "saved.tif",
+        "bbox": [
+          0,
+          0,
+          2354,
+          3557
+        ],
+        "ppageno": 0
+      },
+      "lines": [
+        {
+          "properties": {
+            "bbox": [
+              65,
+              154,
+              851,
+              191
+            ],
+            "baseline": [
+              0,
+              -13
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conklin\n      William,\n      stables,\n      51\n      Christopher,\n      h\n      60",
+          "columnIndex": 0,
+          "nextLineIndex": 1,
+          "completeText": "Conklin\n      William,\n      stables,\n      51\n      Christopher,\n      h\n      60 Sixth\n      av,"
+        },
+        {
+          "properties": {
+            "bbox": [
+              129,
+              188,
+              269,
+              214
+            ],
+            "baseline": [
+              0,
+              -2
+            ],
+            "x_size": 30.523132,
+            "x_descenders": 6.5231323,
+            "x_ascenders": 7
+          },
+          "text": "Sixth\n      av,",
+          "previousLineIndex": 0
+        },
+        {
+          "properties": {
+            "bbox": [
+              64,
+              221,
+              756,
+              252
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conklin\n      William,\n      stonecutter,\n      h\n      416\n      W.\n      29th",
+          "columnIndex": 0,
+          "completeText": "Conklin\n      William,\n      stonecutter,\n      h\n      416\n      W.\n      29th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              255,
+              851,
+              288
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 33,
+            "x_descenders": 7,
+            "x_ascenders": 9
+          },
+          "text": "Conklin\n      William\n      A.\n      manager,\n      Central\n      pk.\n      h\n      255",
+          "columnIndex": 0,
+          "nextLineIndex": 4,
+          "completeText": "Conklin\n      William\n      A.\n      manager,\n      Central\n      pk.\n      h\n      255 E.\n      68th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              127,
+              287,
+              238,
+              313
+            ],
+            "baseline": [
+              0,
+              0
+            ],
+            "x_size": 32.860313,
+            "x_descenders": 6.7113819,
+            "x_ascenders": 8.6583338
+          },
+          "text": "E.\n      68th",
+          "previousLineIndex": 3
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              321,
+              701,
+              352
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 31,
+            "x_descenders": 5,
+            "x_ascenders": 9
+          },
+          "text": "Conklin\n      William\n      B.\n      clerk,\n      h\n      249\n      W.\n      54th",
+          "columnIndex": 0,
+          "completeText": "Conklin\n      William\n      B.\n      clerk,\n      h\n      249\n      W.\n      54th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              355,
+              851,
+              390
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conklin\n      William\n      F.\n      provns.\n      Fulton\n      mkt,\n      h\n      %09",
+          "columnIndex": 0,
+          "nextLineIndex": 7,
+          "completeText": "Conklin\n      William\n      F.\n      provns.\n      Fulton\n      mkt,\n      h\n      %09 Pacific,\n      Bâ€™klyn"
+        },
+        {
+          "properties": {
+            "bbox": [
+              128,
+              388,
+              355,
+              419
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "Pacific,\n      Bâ€™klyn",
+          "previousLineIndex": 6
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              422,
+              694,
+              453
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conklin\n      William\n      G.\n      notary,\n      h\n      212\n      E.\n      53d",
+          "columnIndex": 0,
+          "completeText": "Conklin\n      William\n      G.\n      notary,\n      h\n      212\n      E.\n      53d"
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              455,
+              677,
+              485
+            ],
+            "baseline": [
+              0,
+              -4
+            ],
+            "x_size": 31,
+            "x_descenders": 5,
+            "x_ascenders": 9
+          },
+          "text": "Conklin\n      William\n      H.\n      clerk,\n      h\n      153\n      E.\n      2ist",
+          "columnIndex": 0,
+          "completeText": "Conklin\n      William\n      H.\n      clerk,\n      h\n      153\n      E.\n      2ist"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              489,
+              850,
+              520
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 32,
+            "x_descenders": 6,
+            "x_ascenders": 9
+          },
+          "text": "Conklin\n      William\n      H.\n      grocer,\n      474\n      Tenth\n      av.\n      h\n      457",
+          "columnIndex": 0,
+          "nextLineIndex": 11,
+          "completeText": "Conklin\n      William\n      H.\n      grocer,\n      474\n      Tenth\n      av.\n      h\n      457 W,\n      Sith"
+        },
+        {
+          "properties": {
+            "bbox": [
+              127,
+              521,
+              246,
+              548
+            ],
+            "baseline": [
+              0,
+              -3
+            ],
+            "x_size": 32.860313,
+            "x_descenders": 6.7113819,
+            "x_ascenders": 8.6583338
+          },
+          "text": "W,\n      Sith",
+          "previousLineIndex": 10
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              554,
+              848,
+              590
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 34,
+            "x_descenders": 8,
+            "x_ascenders": 9
+          },
+          "text": "Conklin\n      Wiliam\n      H.\n      insp.\n      1\n      Moore\n      &\n      ft.\n      W.\n      60th,",
+          "columnIndex": 0,
+          "nextLineIndex": 13,
+          "completeText": "Conklin\n      Wiliam\n      H.\n      insp.\n      1\n      Moore\n      &\n      ft.\n      W.\n      60th, h\n      347\n      W,\n      28th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              127,
+              587,
+              340,
+              613
+            ],
+            "baseline": [
+              0,
+              -1
+            ],
+            "x_size": 32.860313,
+            "x_descenders": 6.7113819,
+            "x_ascenders": 8.6583338
+          },
+          "text": "h\n      347\n      W,\n      28th",
+          "previousLineIndex": 12
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              621,
+              683,
+              655
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conklin\n      William\n      H.\n      janitor,\n      h\n      14\n      Bway",
+          "columnIndex": 0,
+          "completeText": "Conklin\n      William\n      H.\n      janitor,\n      h\n      14\n      Bway"
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              655,
+              783,
+              690
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 29,
+            "x_descenders": 4,
+            "x_ascenders": 8
+          },
+          "text": "Conklin\n      Wm.\n      S.\n      clerk,\n      14\n      Maiden\n      la.\n      h\n      Bâ€™klyn",
+          "columnIndex": 0,
+          "completeText": "Conklin\n      Wm.\n      S.\n      clerk,\n      14\n      Maiden\n      la.\n      h\n      Bâ€™klyn"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              687,
+              715,
+              720
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conklin\n      J.\n      &\n      Co,\n      weighers,\n      16\n      S.\n      William",
+          "columnIndex": 0,
+          "completeText": "Conklin\n      J.\n      &\n      Co,\n      weighers,\n      16\n      S.\n      William"
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              721,
+              647,
+              753
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conklin\n      &\n      Co.\n      stables,\n      51\n      Christopher",
+          "columnIndex": 0,
+          "completeText": "Conklin\n      &\n      Co.\n      stables,\n      51\n      Christopher"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              754,
+              719,
+              787
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 30,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "Conklin\n      &\n      Kipp,\n      carpenters,\n      r\n      119\n      W.\n      33a",
+          "columnIndex": 0,
+          "completeText": "Conklin\n      &\n      Kipp,\n      carpenters,\n      r\n      119\n      W.\n      33a"
+        },
+        {
+          "properties": {
+            "bbox": [
+              65,
+              788,
+              720,
+              819
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "Conklinâ€™s\n      J.\n      B.,\n      Son,\n      provns.\n      Fulton\n      mkt.",
+          "columnIndex": 0,
+          "completeText": "Conklinâ€™s\n      J.\n      B.,\n      Son,\n      provns.\n      Fulton\n      mkt."
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              821,
+              846,
+              855
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 33,
+            "x_descenders": 7,
+            "x_ascenders": 9
+          },
+          "text": "Conkling\n      Alfred\n      R,\n      lawyer,\n      120\n      B'way,\n      h\n      27\n      BE.\n      10th",
+          "columnIndex": 0,
+          "completeText": "Conkling\n      Alfred\n      R,\n      lawyer,\n      120\n      B'way,\n      h\n      27\n      BE.\n      10th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              853,
+              826,
+              889
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 32,
+            "x_descenders": 6,
+            "x_ascenders": 9
+          },
+          "text": "Conkling\n      Benj.\n      F.\n      printer,\n      102\n      Fulton,\n      h\n      Bâ€™klyn.",
+          "columnIndex": 0,
+          "completeText": "Conkling\n      Benj.\n      F.\n      printer,\n      102\n      Fulton,\n      h\n      Bâ€™klyn."
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              887,
+              761,
+              919
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 32,
+            "x_descenders": 6,
+            "x_ascenders": 9
+          },
+          "text": "Conkling\n      Catharine,\n      dressmkr.\n      h\n      247\n      KE.\n      36th",
+          "columnIndex": 0,
+          "completeText": "Conkling\n      Catharine,\n      dressmkr.\n      h\n      247\n      KE.\n      36th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              921,
+              580,
+              950
+            ],
+            "baseline": [
+              0,
+              -4
+            ],
+            "x_size": 29,
+            "x_descenders": 4,
+            "x_ascenders": 8
+          },
+          "text": "Conkling\n      Emma,\n      h\n      r\n      156\n      Broome",
+          "columnIndex": 0,
+          "completeText": "Conkling\n      Emma,\n      h\n      r\n      156\n      Broome"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              954,
+              845,
+              989
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 34,
+            "x_descenders": 8,
+            "x_ascenders": 9
+          },
+          "text": "Conkling\n      Frederick\n      A.\n      ins.\n      170\n      B'way,\n      h\n      27\n      E.\n      10th",
+          "columnIndex": 0,
+          "completeText": "Conkling\n      Frederick\n      A.\n      ins.\n      170\n      B'way,\n      h\n      27\n      E.\n      10th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              987,
+              844,
+              1021
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conkling\n      Howard,\n      clerk,\n      155\n      Mercer,\n      h\n      27\n      E.\n      10th",
+          "columnIndex": 0,
+          "completeText": "Conkling\n      Howard,\n      clerk,\n      155\n      Mercer,\n      h\n      27\n      E.\n      10th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              1021,
+              773,
+              1055
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conkling\n      Jerome\n      B,\n      lawyer,\n      78\n      Astor,\n      h\n      L.\n      I.'",
+          "columnIndex": 0,
+          "completeText": "Conkling\n      Jerome\n      B,\n      lawyer,\n      78\n      Astor,\n      h\n      L.\n      I.'"
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              1054,
+              618,
+              1086
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conkling\n      John,\n      driver,\n      h\n      257\n      Av.\n      B",
+          "columnIndex": 0,
+          "completeText": "Conkling\n      John,\n      driver,\n      h\n      257\n      Av.\n      B"
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              1086,
+              613,
+              1122
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 32,
+            "x_descenders": 6,
+            "x_ascenders": 9
+          },
+          "text": "Conkling\n      John\n      pedlar,\n      45\n      Mulberry",
+          "columnIndex": 0,
+          "completeText": "Conkling\n      John\n      pedlar,\n      45\n      Mulberry"
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              1121,
+              777,
+              1153
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 5,
+            "x_ascenders": 9
+          },
+          "text": "Conkling\n      John,\n      printer,\n      h\n      Boston\n      av.\n      n\n      165th",
+          "columnIndex": 0,
+          "completeText": "Conkling\n      John,\n      printer,\n      h\n      Boston\n      av.\n      n\n      165th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              1154,
+              778,
+              1184
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conkling\n      Leonard\n      D.\n      engineer.\n      h\n      620\n      W.\n      46th",
+          "columnIndex": 0,
+          "completeText": "Conkling\n      Leonard\n      D.\n      engineer.\n      h\n      620\n      W.\n      46th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              1188,
+              745,
+              1221
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 33,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Conkling\n      Nathaniel\n      W.\n      (Rev.)\n      h\n      112\n      E.\n      31st",
+          "columnIndex": 0,
+          "completeText": "Conkling\n      Nathaniel\n      W.\n      (Rev.)\n      h\n      112\n      E.\n      31st"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              1221,
+              704,
+              1252
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conkling\n      Richard,\n      laborer,\n      h\n      338\n      E.\n      36th",
+          "columnIndex": 0,
+          "completeText": "Conkling\n      Richard,\n      laborer,\n      h\n      338\n      E.\n      36th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              1254,
+              662,
+              1287
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conkling\n      Robert,\n      clerk,\n      h\n      174\n      E.\n      113th",
+          "columnIndex": 0,
+          "completeText": "Conkling\n      Robert,\n      clerk,\n      h\n      174\n      E.\n      113th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              1288,
+              844,
+              1320
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 32,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conkling\n      Thomas\n      W.\n      mats,\n      Mott\n      av.\n      n\n      138th.\n      h",
+          "columnIndex": 0,
+          "nextLineIndex": 35,
+          "completeText": "Conkling\n      Thomas\n      W.\n      mats,\n      Mott\n      av.\n      n\n      138th.\n      h 149th\n      c\n      Mott\n      av."
+        },
+        {
+          "properties": {
+            "bbox": [
+              126,
+              1320,
+              454,
+              1355
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 34,
+            "x_descenders": 9,
+            "x_ascenders": 8
+          },
+          "text": "149th\n      c\n      Mott\n      av.",
+          "previousLineIndex": 34
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              1354,
+              844,
+              1389
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 33,
+            "x_descenders": 7,
+            "x_ascenders": 9
+          },
+          "text": "Conkling\n      Timothy\n      O.\n      eatingh,\n      1223\n      B'way,\n      h\n      844",
+          "columnIndex": 0,
+          "nextLineIndex": 37,
+          "completeText": "Conkling\n      Timothy\n      O.\n      eatingh,\n      1223\n      B'way,\n      h\n      844 Eighth\n      ay,"
+        },
+        {
+          "properties": {
+            "bbox": [
+              126,
+              1388,
+              290,
+              1417
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Eighth\n      ay,",
+          "previousLineIndex": 36
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              1421,
+              712,
+              1452
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 32,
+            "x_descenders": 6,
+            "x_ascenders": 9
+          },
+          "text": "Conkling\n      William,\n      fireman.\n      h\n      314\n      Broome",
+          "columnIndex": 0,
+          "completeText": "Conkling\n      William,\n      fireman.\n      h\n      314\n      Broome"
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              1455,
+              844,
+              1490
+            ],
+            "baseline": [
+              0,
+              -12
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "CONKLING\n      WILLIAM\n      H.\n      drygds,\n      809\n      Bway,\n      h",
+          "columnIndex": 0,
+          "nextLineIndex": 40,
+          "completeText": "CONKLING\n      WILLIAM\n      H.\n      drygds,\n      809\n      Bway,\n      h Mt.\n      Vernon"
+        },
+        {
+          "properties": {
+            "bbox": [
+              125,
+              1488,
+              303,
+              1512
+            ],
+            "baseline": [
+              0,
+              0
+            ],
+            "x_size": 30.523132,
+            "x_descenders": 6.5231323,
+            "x_ascenders": 7
+          },
+          "text": "Mt.\n      Vernon",
+          "previousLineIndex": 39
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              1521,
+              662,
+              1554
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "CONKLING\n      &\n      CO.\n      drygds,\n      809\n      B'way",
+          "columnIndex": 0,
+          "completeText": "CONKLING\n      &\n      CO.\n      drygds,\n      809\n      B'way"
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              1554,
+              844,
+              1589
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 34,
+            "x_descenders": 8,
+            "x_ascenders": 9
+          },
+          "text": "Conklyn\n      Horatio\n      G.\n      builder,\n      Tenth\n      av,\n      n\n      180th,\n      h",
+          "columnIndex": 0,
+          "nextLineIndex": 43,
+          "completeText": "Conklyn\n      Horatio\n      G.\n      builder,\n      Tenth\n      av,\n      n\n      180th,\n      h Tenth\n      av.\n      n\n      179th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              126,
+              1588,
+              406,
+              1613
+            ],
+            "baseline": [
+              0,
+              -2
+            ],
+            "x_size": 31.523132,
+            "x_descenders": 6.5231323,
+            "x_ascenders": 8
+          },
+          "text": "Tenth\n      av.\n      n\n      179th",
+          "previousLineIndex": 42
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              1621,
+              677,
+              1653
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conlan\n      Andrew,\n      laborer,\n      h\n      427\n      W.\n      3%th",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      Andrew,\n      laborer,\n      h\n      427\n      W.\n      3%th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              1654,
+              733,
+              1686
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conlan\n      Ann,\n      wid.\n      John,\n      h\n      313\n      Seventh\n      av.",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      Ann,\n      wid.\n      John,\n      h\n      313\n      Seventh\n      av."
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              1687,
+              706,
+              1720
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conlan\n      Anna,\n      wid.\n      John,\n      h\n      449\n      Sixth\n      av.",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      Anna,\n      wid.\n      John,\n      h\n      449\n      Sixth\n      av."
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              1721,
+              683,
+              1751
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 32,
+            "x_descenders": 6,
+            "x_ascenders": 9
+          },
+          "text": "Conlan\n      Charles,\n      shoemkr.\n      h\n      509\n      E.\n      15th",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      Charles,\n      shoemkr.\n      h\n      509\n      E.\n      15th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              1754,
+              480,
+              1780
+            ],
+            "baseline": [
+              0,
+              -2
+            ],
+            "x_size": 31.13942,
+            "x_descenders": 6.1394186,
+            "x_ascenders": 9
+          },
+          "text": "Conlan\n      David,\n      h\n      180\n      White",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      David,\n      h\n      180\n      White"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              1787,
+              844,
+              1822
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 35,
+            "x_descenders": 8,
+            "x_ascenders": 10
+          },
+          "text": "Conlan\n      David,\n      teas,\n      75\n      Pearl,\n      &\n      billiards,\n      91\n      Can-",
+          "columnIndex": 0,
+          "nextLineIndex": 50,
+          "completeText": "Conlan\n      David,\n      teas,\n      75\n      Pearl,\n      &\n      billiards,\n      91\n      Cannon,\n      h\n      239\n      E.\n      110th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              126,
+              1820,
+              427,
+              1850
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 30,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "non,\n      h\n      239\n      E.\n      110th",
+          "previousLineIndex": 49
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              1854,
+              641,
+              1885
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 30,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "Conlan\n      Edward,\n      gilder,\n      h\n      343\n      E.\n      36th",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      Edward,\n      gilder,\n      h\n      343\n      E.\n      36th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              1888,
+              634,
+              1918
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conlan\n      Francis,\n      laborer,\n      h\n      193\n      Av.\n      O",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      Francis,\n      laborer,\n      h\n      193\n      Av.\n      O"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              1921,
+              633,
+              1954
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 33,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Conlan\n      Francis,\n      mason,\n      189\n      Seventh",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      Francis,\n      mason,\n      189\n      Seventh"
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              1954,
+              613,
+              1984
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 29,
+            "x_descenders": 4,
+            "x_ascenders": 8
+          },
+          "text": "Conlan\n      James,\n      driver,\n      h\n      76\n      Charles",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      James,\n      driver,\n      h\n      76\n      Charles"
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              1987,
+              661,
+              2019
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 6,
+            "x_ascenders": 9
+          },
+          "text": "Conlan\n      James,\n      laborer,\n      h\n      r152\n      EF.\n      39th",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      James,\n      laborer,\n      h\n      r152\n      EF.\n      39th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              2021,
+              802,
+              2051
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conlan\n      James,\n      stonecutter,\n      h\n      Willis\n      av.\n      n\n      147th",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      James,\n      stonecutter,\n      h\n      Willis\n      av.\n      n\n      147th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              2053,
+              844,
+              2087
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "Conlan\n      Jas,\n      F,\n      carpenter,\n      118\n      Maiden\n      la,\n      h\n      Bâ€™klyn",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      Jas,\n      F,\n      carpenter,\n      118\n      Maiden\n      la,\n      h\n      Bâ€™klyn"
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              2087,
+              814,
+              2119
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "Conlan\n      John\n      F,\n      stereotyper,\n      h\n      91\n      Cannon\n      :",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      John\n      F,\n      stereotyper,\n      h\n      91\n      Cannon\n      :"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              2120,
+              636,
+              2151
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 32,
+            "x_descenders": 6,
+            "x_ascenders": 9
+          },
+          "text": "Conlan\n      Joseph,\n      driver,\n      h\n      408\n      E,\n      11th",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      Joseph,\n      driver,\n      h\n      408\n      E,\n      11th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              2153,
+              842,
+              2186
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 6,
+            "x_ascenders": 9
+          },
+          "text": "Conlan\n      Lewis\n      J.\n      lawyer,\n      160\n      Fult:\n      9,\n      h126\n      EB.\n      10th",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      Lewis\n      J.\n      lawyer,\n      160\n      Fult:\n      9,\n      h126\n      EB.\n      10th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              2187,
+              702,
+              2218
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "Conlan\n      Michael,\n      bartender,\n      h\n      326k,\n      21st",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      Michael,\n      bartender,\n      h\n      326k,\n      21st"
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              2220,
+              808,
+              2253
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conlan\n      Michael,\n      joiner,\n      293\n      Front,\n      h\n      29\n      Rutgers",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      Michael,\n      joiner,\n      293\n      Front,\n      h\n      29\n      Rutgers"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              2253,
+              712,
+              2285
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conlan\n      Michael,\n      painter,\n      h\n      r\n      156\n      W.\n      28th",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      Michael,\n      painter,\n      h\n      r\n      156\n      W.\n      28th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              2286,
+              682,
+              2320
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 33,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Conlan\n      Michael,\n      pediar,\n      h\n      r\n      548\n      Broome",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      Michael,\n      pediar,\n      h\n      r\n      548\n      Broome"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              2319,
+              726,
+              2351
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conlan\n      Michael,\n      produce,\n      W.\n      Washn.\n      mkt",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      Michael,\n      produce,\n      W.\n      Washn.\n      mkt"
+        },
+        {
+          "properties": {
+            "bbox": [
+              64,
+              2353,
+              651,
+              2383
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 30,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "Conlan\n      Michael,\n      shoemkr.\n      441\n      E,\n      18th",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      Michael,\n      shoemkr.\n      441\n      E,\n      18th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              64,
+              2386,
+              638,
+              2417
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "Conlan\n      Morris,\n      laborer,\n      h\n      464\n      Gâ€™wich",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      Morris,\n      laborer,\n      h\n      464\n      Gâ€™wich"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              2419,
+              634,
+              2449
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 29,
+            "x_descenders": 5,
+            "x_ascenders": 7
+          },
+          "text": "Conlan\n      Patrick,\n      shoemkr,\n      h\n      86\n      King",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      Patrick,\n      shoemkr,\n      h\n      86\n      King"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              2452,
+              721,
+              2484
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 33,
+            "x_descenders": 7,
+            "x_ascenders": 9
+          },
+          "text": "Conlan\n      Richard,\n      bartender,\n      h\n      410\n      W,\n      56th",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      Richard,\n      bartender,\n      h\n      410\n      W,\n      56th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              2485,
+              599,
+              2518
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 33,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Conlan\n      Sarah,\n      grocer.\n      425\n      W.\n      44th",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      Sarah,\n      grocer.\n      425\n      W.\n      44th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              2518,
+              651,
+              2549
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 29,
+            "x_descenders": 4,
+            "x_ascenders": 8
+          },
+          "text": "Conlan\n      Thomas,\n      calker,\n      h\n      234\n      Clinton",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      Thomas,\n      calker,\n      h\n      234\n      Clinton"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              2551,
+              619,
+              2584
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conlan\n      Thomas,\n      driver,\n      h\n      22\n      Dover",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      Thomas,\n      driver,\n      h\n      22\n      Dover"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              2584,
+              671,
+              2615
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 29,
+            "x_descenders": 4,
+            "x_ascenders": 8
+          },
+          "text": "Conlan\n      William,\n      waiter,\n      h\n      111\n      Orchard",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      William,\n      waiter,\n      h\n      111\n      Orchard"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              2618,
+              666,
+              2650
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 29,
+            "x_descenders": 4,
+            "x_ascenders": 8
+          },
+          "text": "Conlan\n      &\n      McCrea,\n      lawyers,\n      160\n      Fulton",
+          "columnIndex": 0,
+          "completeText": "Conlan\n      &\n      McCrea,\n      lawyers,\n      160\n      Fulton"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              2651,
+              635,
+              2683
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conley\n      Barclay,\n      laborer,\n      h\n      313\n      Water",
+          "columnIndex": 0,
+          "completeText": "Conley\n      Barclay,\n      laborer,\n      h\n      313\n      Water"
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              2685,
+              849,
+              2717
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 33,
+            "x_descenders": 7,
+            "x_ascenders": 9
+          },
+          "text": "Conley\n      Bartholomew,\n      mason,\n      102\n      W.\n      21st,\n      bh\n      269\n      W.",
+          "columnIndex": 0,
+          "nextLineIndex": 77,
+          "completeText": "Conley\n      Bartholomew,\n      mason,\n      102\n      W.\n      21st,\n      bh\n      269\n      W. 22d"
+        },
+        {
+          "properties": {
+            "bbox": [
+              126,
+              2718,
+              178,
+              2743
+            ],
+            "baseline": [
+              0,
+              -1
+            ],
+            "x_size": 32.860313,
+            "x_descenders": 6.7113819,
+            "x_ascenders": 8.6583338
+          },
+          "text": "22d",
+          "previousLineIndex": 76
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              2751,
+              836,
+              2783
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conley\n      Catharine,\n      wid,\n      Michael,\n      h\n      30\n      Hamilton\n      ,",
+          "columnIndex": 0,
+          "completeText": "Conley\n      Catharine,\n      wid,\n      Michael,\n      h\n      30\n      Hamilton\n      ,"
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              2784,
+              637,
+              2816
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conley\n      Charles,\n      mason,\n      h\n      449\n      W.\n      32d",
+          "columnIndex": 0,
+          "completeText": "Conley\n      Charles,\n      mason,\n      h\n      449\n      W.\n      32d"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              2817,
+              642,
+              2851
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 33,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Conley\n      Edward,\n      driver,\n      h\n      192\n      W.\n      4th",
+          "columnIndex": 0,
+          "completeText": "Conley\n      Edward,\n      driver,\n      h\n      192\n      W.\n      4th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              2850,
+              628,
+              2883
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conley\n      Frank,\n      driver,\n      h\n      65\n      Mulberry",
+          "columnIndex": 0,
+          "completeText": "Conley\n      Frank,\n      driver,\n      h\n      65\n      Mulberry"
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              2884,
+              604,
+              2916
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "Conley\n      James,\n      clerk,\n      h\n      2S\n      Vandam",
+          "columnIndex": 0,
+          "completeText": "Conley\n      James,\n      clerk,\n      h\n      2S\n      Vandam"
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              2917,
+              851,
+              2956
+            ],
+            "baseline": [
+              0,
+              -15
+            ],
+            "x_size": 31,
+            "x_descenders": 5,
+            "x_ascenders": 9
+          },
+          "text": "Conley\n      James,\n      laborer,\n      h\n      311\n      E.\n      44th\n      .",
+          "columnIndex": 0,
+          "completeText": "Conley\n      James,\n      laborer,\n      h\n      311\n      E.\n      44th\n      ."
+        },
+        {
+          "properties": {
+            "bbox": [
+              63,
+              2947,
+              851,
+              2983
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 34,
+            "x_descenders": 7,
+            "x_ascenders": 10
+          },
+          "text": "Conley\n      Jas.\n      F.\n      painter,\n      122\n      Park\n      av.\n      h\n      136\n      E.\n      dist;",
+          "columnIndex": 0,
+          "completeText": "Conley\n      Jas.\n      F.\n      painter,\n      122\n      Park\n      av.\n      h\n      136\n      E.\n      dist;"
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              2983,
+              769,
+              3015
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conley\n      James\n      J.\n      segars,\n      131\n      Water,\n      h\n      Bâ€™klyn",
+          "columnIndex": 0,
+          "completeText": "Conley\n      James\n      J.\n      segars,\n      131\n      Water,\n      h\n      Bâ€™klyn"
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              3016,
+              594,
+              3048
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conley\n      Jeremiah,\n      insp.\n      Custom\n      h.",
+          "columnIndex": 0,
+          "completeText": "Conley\n      Jeremiah,\n      insp.\n      Custom\n      h."
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              3049,
+              519,
+              3084
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 34,
+            "x_descenders": 9,
+            "x_ascenders": 8
+          },
+          "text": "Conley\n      John,\n      h\n      &5\n      Rivington",
+          "columnIndex": 0,
+          "completeText": "Conley\n      John,\n      h\n      &5\n      Rivington"
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              3082,
+              590,
+              3117
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 35,
+            "x_descenders": 9,
+            "x_ascenders": 9
+          },
+          "text": "Conley\n      John,\n      driver,\n      h\n      252\n      E.\n      43d",
+          "columnIndex": 0,
+          "completeText": "Conley\n      John,\n      driver,\n      h\n      252\n      E.\n      43d"
+        },
+        {
+          "properties": {
+            "bbox": [
+              62,
+              3115,
+              618,
+              3150
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 34,
+            "x_descenders": 8,
+            "x_ascenders": 9
+          },
+          "text": "Conley\n      John,\n      driver,\n      h\n      345\n      W.\n      17th",
+          "columnIndex": 0,
+          "completeText": "Conley\n      John,\n      driver,\n      h\n      345\n      W.\n      17th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              888,
+              161,
+              1490,
+              196
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conley\n      John,\n      grocer,\n      662\n      Eleventh\n      av.",
+          "columnIndex": 1,
+          "completeText": "Conley\n      John,\n      grocer,\n      662\n      Eleventh\n      av."
+        },
+        {
+          "properties": {
+            "bbox": [
+              887,
+              194,
+              1301,
+              228
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conley\n      John,\n      insp.\n      6\n      State",
+          "columnIndex": 1,
+          "completeText": "Conley\n      John,\n      insp.\n      6\n      State"
+        },
+        {
+          "properties": {
+            "bbox": [
+              886,
+              227,
+              1393,
+              262
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conley\n      John,\n      janitor,\n      h\n      34\n      New",
+          "columnIndex": 1,
+          "completeText": "Conley\n      John,\n      janitor,\n      h\n      34\n      New"
+        },
+        {
+          "properties": {
+            "bbox": [
+              886,
+              260,
+              1471,
+              296
+            ],
+            "baseline": [
+              0,
+              -12
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "Conley\n      John,\n      laborer,\n      h\n      623\n      First\n      av,",
+          "columnIndex": 1,
+          "completeText": "Conley\n      John,\n      laborer,\n      h\n      623\n      First\n      av,"
+        },
+        {
+          "properties": {
+            "bbox": [
+              886,
+              293,
+              1475,
+              333
+            ],
+            "baseline": [
+              0,
+              -16
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conley\n      John,\n      laborer,\n      h\n      230\n      Mulberry",
+          "columnIndex": 1,
+          "completeText": "Conley\n      John,\n      laborer,\n      h\n      230\n      Mulberry"
+        },
+        {
+          "properties": {
+            "bbox": [
+              886,
+              327,
+              1441,
+              362
+            ],
+            "baseline": [
+              0,
+              -12
+            ],
+            "x_size": 34,
+            "x_descenders": 9,
+            "x_ascenders": 8
+          },
+          "text": "Conley\n      John,\n      laborer,\n      h\n      12Â°\n      Pelham",
+          "columnIndex": 1,
+          "completeText": "Conley\n      John,\n      laborer,\n      h\n      12Â°\n      Pelham"
+        },
+        {
+          "properties": {
+            "bbox": [
+              885,
+              360,
+              1521,
+              396
+            ],
+            "baseline": [
+              0,
+              -12
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "Conley\n      John,\n      mason,\n      h\n      756\n      Eleventh\n      ay.",
+          "columnIndex": 1,
+          "completeText": "Conley\n      John,\n      mason,\n      h\n      756\n      Eleventh\n      ay."
+        },
+        {
+          "properties": {
+            "bbox": [
+              885,
+              393,
+              1428,
+              426
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conley\n      John,\n      painter,\n      h\n      126\n      White",
+          "columnIndex": 1,
+          "completeText": "Conley\n      John,\n      painter,\n      h\n      126\n      White"
+        },
+        {
+          "properties": {
+            "bbox": [
+              885,
+              426,
+              1491,
+              461
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 33,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Conley\n      John,\n      tinfoilmkr.\n      h\n      121\n      BE,\n      12th",
+          "columnIndex": 1,
+          "completeText": "Conley\n      John,\n      tinfoilmkr.\n      h\n      121\n      BE,\n      12th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              884,
+              460,
+              1669,
+              498
+            ],
+            "baseline": [
+              0,
+              -14
+            ],
+            "x_size": 32,
+            "x_descenders": 6,
+            "x_ascenders": 9
+          },
+          "text": "Conley\n      John\n      R.\n      mason,\n      102\n      W.\n      21st,\n      h\n      269\n      W,\n      22a",
+          "columnIndex": 1,
+          "completeText": "Conley\n      John\n      R.\n      mason,\n      102\n      W.\n      21st,\n      h\n      269\n      W,\n      22a"
+        },
+        {
+          "properties": {
+            "bbox": [
+              884,
+              493,
+              1502,
+              528
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "Conley\n      John\n      J.\n      meat,\n      h\n      2265\n      Second\n      av.",
+          "columnIndex": 1,
+          "completeText": "Conley\n      John\n      J.\n      meat,\n      h\n      2265\n      Second\n      av."
+        },
+        {
+          "properties": {
+            "bbox": [
+              884,
+              526,
+              1593,
+              561
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 30,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "Conley\n      Joseph,\n      carpenter,\n      h\n      Third\n      av.\n      n\n      1494",
+          "columnIndex": 1,
+          "completeText": "Conley\n      Joseph,\n      carpenter,\n      h\n      Third\n      av.\n      n\n      1494"
+        },
+        {
+          "properties": {
+            "bbox": [
+              883,
+              559,
+              1474,
+              594
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conley\n      Joseph,\n      cartman,\n      h\n      36\n      Horatio",
+          "columnIndex": 1,
+          "completeText": "Conley\n      Joseph,\n      cartman,\n      h\n      36\n      Horatio"
+        },
+        {
+          "properties": {
+            "bbox": [
+              884,
+              593,
+              1505,
+              629
+            ],
+            "baseline": [
+              0,
+              -12
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conley\n      Mary,\n      wid.\n      Bernard,\n      h\n      78\n      Lewis",
+          "columnIndex": 1,
+          "completeText": "Conley\n      Mary,\n      wid.\n      Bernard,\n      h\n      78\n      Lewis"
+        },
+        {
+          "properties": {
+            "bbox": [
+              883,
+              626,
+              1497,
+              661
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "Conley\n      Mary,\n      wid.\n      James,\n      h\n      35\n      Norfolk",
+          "columnIndex": 1,
+          "completeText": "Conley\n      Mary,\n      wid.\n      James,\n      h\n      35\n      Norfolk"
+        },
+        {
+          "properties": {
+            "bbox": [
+              884,
+              659,
+              1488,
+              694
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conley\n      Michael,\n      laborer,\n      h\n      307\n      E.\n      44th",
+          "columnIndex": 1,
+          "completeText": "Conley\n      Michael,\n      laborer,\n      h\n      307\n      E.\n      44th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              883,
+              693,
+              1488,
+              727
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conley\n      Michael,\n      laborer,\n      h\n      240\n      E.\n      45th",
+          "columnIndex": 1,
+          "completeText": "Conley\n      Michael,\n      laborer,\n      h\n      240\n      E.\n      45th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              883,
+              726,
+              1525,
+              765
+            ],
+            "baseline": [
+              0,
+              -15
+            ],
+            "x_size": 29,
+            "x_descenders": 5,
+            "x_ascenders": 7
+          },
+          "text": "Conley\n      Michael,\n      laborer,\n      h\n      r\n      89\n      Mulberry",
+          "columnIndex": 1,
+          "completeText": "Conley\n      Michael,\n      laborer,\n      h\n      r\n      89\n      Mulberry"
+        },
+        {
+          "properties": {
+            "bbox": [
+              883,
+              759,
+              1372,
+              792
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 33,
+            "x_descenders": 7,
+            "x_ascenders": 9
+          },
+          "text": "Conley\n      Patrick,\n      h\n      r\n      518\n      E.\n      14th",
+          "columnIndex": 1,
+          "completeText": "Conley\n      Patrick,\n      h\n      r\n      518\n      E.\n      14th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              882,
+              793,
+              1437,
+              828
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 33,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Conley\n      Patrick,\n      laborer,\n      h\n      809\n      Mott",
+          "columnIndex": 1,
+          "completeText": "Conley\n      Patrick,\n      laborer,\n      h\n      809\n      Mott"
+        },
+        {
+          "properties": {
+            "bbox": [
+              881,
+              826,
+              1405,
+              859
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 9
+          },
+          "text": "Conley\n      Peter,\n      eatingh.\n      103\n      BE.\n      43a",
+          "columnIndex": 1,
+          "completeText": "Conley\n      Peter,\n      eatingh.\n      103\n      BE.\n      43a"
+        },
+        {
+          "properties": {
+            "bbox": [
+              880,
+              860,
+              1463,
+              893
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conley\n      Thomas,\n      porter,\n      h\n      224\n      EB.\n      41st",
+          "columnIndex": 1,
+          "completeText": "Conley\n      Thomas,\n      porter,\n      h\n      224\n      EB.\n      41st"
+        },
+        {
+          "properties": {
+            "bbox": [
+              881,
+              893,
+              1421,
+              926
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conley\n      William,\n      janitor,\n      h\n      34\n      New",
+          "columnIndex": 1,
+          "completeText": "Conley\n      William,\n      janitor,\n      h\n      34\n      New"
+        },
+        {
+          "properties": {
+            "bbox": [
+              880,
+              927,
+              1474,
+              961
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 33,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Conley\n      B.\n      &\n      Son,\n      masons,\n      102\n      W.\n      21st",
+          "columnIndex": 1,
+          "completeText": "Conley\n      B.\n      &\n      Son,\n      masons,\n      102\n      W.\n      21st"
+        },
+        {
+          "properties": {
+            "bbox": [
+              881,
+              960,
+              1601,
+              992
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 30,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "Conlin\n      Catharine,\n      wid.\n      Patrick,\n      h\n      91\n      Vandam",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      Catharine,\n      wid.\n      Patrick,\n      h\n      91\n      Vandam"
+        },
+        {
+          "properties": {
+            "bbox": [
+              880,
+              993,
+              1479,
+              1026
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 33,
+            "x_descenders": 7,
+            "x_ascenders": 9
+          },
+          "text": "Conlin\n      Edward,\n      chairs,\n      h\n      164\n      BE.\n      117th",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      Edward,\n      chairs,\n      h\n      164\n      BE.\n      117th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              880,
+              1026,
+              1443,
+              1059
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conlin\n      Edward,\n      grocer,\n      553\n      W.\n      36th",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      Edward,\n      grocer,\n      553\n      W.\n      36th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              879,
+              1060,
+              1485,
+              1092
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conlin\n      Francis\n      A.\n      driver,\n      h\n      508\n      W.\n      33d",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      Francis\n      A.\n      driver,\n      h\n      508\n      W.\n      33d"
+        },
+        {
+          "properties": {
+            "bbox": [
+              879,
+              1094,
+              1403,
+              1125
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conlin\n      Henry,\n      laborer,\n      h\n      31\n      Park",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      Henry,\n      laborer,\n      h\n      31\n      Park"
+        },
+        {
+          "properties": {
+            "bbox": [
+              880,
+              1127,
+              1527,
+              1159
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conlin\n      James,\n      bartender,\n      h\n      553\n      W.\n      36th\n      -",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      James,\n      bartender,\n      h\n      553\n      W.\n      36th\n      -"
+        },
+        {
+          "properties": {
+            "bbox": [
+              881,
+              1160,
+              1450,
+              1193
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 29,
+            "x_descenders": 4,
+            "x_ascenders": 8
+          },
+          "text": "Conlin\n      James,\n      tailor,\n      h\n      567\n      First\n      av.",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      James,\n      tailor,\n      h\n      567\n      First\n      av."
+        },
+        {
+          "properties": {
+            "bbox": [
+              879,
+              1193,
+              1666,
+              1229
+            ],
+            "baseline": [
+              0,
+              -12
+            ],
+            "x_size": 32,
+            "x_descenders": 5,
+            "x_ascenders": 10
+          },
+          "text": "Conlin\n      James\n      Â§.\n      shooting,\n      1222\n      Bâ€™way,\n      h\n      432",
+          "columnIndex": 1,
+          "nextLineIndex": 122,
+          "completeText": "Conlin\n      James\n      Â§.\n      shooting,\n      1222\n      Bâ€™way,\n      h\n      432 -Highth\n      ay.\n      :"
+        },
+        {
+          "properties": {
+            "bbox": [
+              939,
+              1227,
+              1507,
+              1256
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 29,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "-Highth\n      ay.\n      :",
+          "previousLineIndex": 121
+        },
+        {
+          "properties": {
+            "bbox": [
+              879,
+              1260,
+              1424,
+              1292
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conlin\n      Jchn,\n      driver,\n      h\n      558\n      W.\n      54th",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      Jchn,\n      driver,\n      h\n      558\n      W.\n      54th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              879,
+              1293,
+              1435,
+              1325
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Contin\n      John,\n      laborer,\n      h\n      811\n      E,\n      35th",
+          "columnIndex": 1,
+          "completeText": "Contin\n      John,\n      laborer,\n      h\n      811\n      E,\n      35th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              879,
+              1326,
+              1456,
+              1358
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "Conlin\n      John\n      J.\n      driver,\n      h\n      546\n      Broome",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      John\n      J.\n      driver,\n      h\n      546\n      Broome"
+        },
+        {
+          "properties": {
+            "bbox": [
+              879,
+              1360,
+              1455,
+              1393
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 33,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Conlin\n      Kate,\n      widow,\n      h\n      r\n      256\n      W.\n      35th",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      Kate,\n      widow,\n      h\n      r\n      256\n      W.\n      35th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              879,
+              1393,
+              1532,
+              1425
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conlin\n      Lawrence,\n      sponger,\n      h\n      189\n      Madison",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      Lawrence,\n      sponger,\n      h\n      189\n      Madison"
+        },
+        {
+          "properties": {
+            "bbox": [
+              878,
+              1426,
+              1434,
+              1460
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 34,
+            "x_descenders": 9,
+            "x_ascenders": 8
+          },
+          "text": "Conlin\n      Luke,\n      laborer,\n      h\n      36\n      Bethune",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      Luke,\n      laborer,\n      h\n      36\n      Bethune"
+        },
+        {
+          "properties": {
+            "bbox": [
+              879,
+              1460,
+              1437,
+              1491
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "Conlin\n      Maria,\n      grocer,\n      1\n      Congress\n      pl.",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      Maria,\n      grocer,\n      1\n      Congress\n      pl."
+        },
+        {
+          "properties": {
+            "bbox": [
+              879,
+              1493,
+              1482,
+              1526
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 33,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Conlin\n      Martin\n      F.\n      potice,\n      h\n      100\n      Monroe",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      Martin\n      F.\n      potice,\n      h\n      100\n      Monroe"
+        },
+        {
+          "properties": {
+            "bbox": [
+              879,
+              1525,
+              1656,
+              1559
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 35,
+            "x_descenders": 8,
+            "x_ascenders": 10
+          },
+          "text": "Conlin\n      Matthew,\n      beer,\n      363\n      Hudson,\n      h\n      294\n      W.",
+          "columnIndex": 1,
+          "nextLineIndex": 132,
+          "completeText": "Conlin\n      Matthew,\n      beer,\n      363\n      Hudson,\n      h\n      294\n      W. Houston"
+        },
+        {
+          "properties": {
+            "bbox": [
+              944,
+              1560,
+              1076,
+              1584
+            ],
+            "baseline": [
+              0,
+              -1
+            ],
+            "x_size": 30.78672,
+            "x_descenders": 6.7867193,
+            "x_ascenders": 7
+          },
+          "text": "Houston",
+          "previousLineIndex": 131
+        },
+        {
+          "properties": {
+            "bbox": [
+              879,
+              1592,
+              1468,
+              1625
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 33,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Conlin\n      Matthew,\n      tailor,\n      h\n      413\n      Hudson",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      Matthew,\n      tailor,\n      h\n      413\n      Hudson"
+        },
+        {
+          "properties": {
+            "bbox": [
+              879,
+              1626,
+              1450,
+              1658
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "Conlin\n      Michael,\n      clerk,\n      h\n      10\n      Attorney",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      Michael,\n      clerk,\n      h\n      10\n      Attorney"
+        },
+        {
+          "properties": {
+            "bbox": [
+              879,
+              1659,
+              1568,
+              1692
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conlin\n      Michael,\n      coal,\n      25\n      East,\n      h\n      10\n      Attorney",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      Michael,\n      coal,\n      25\n      East,\n      h\n      10\n      Attorney"
+        },
+        {
+          "properties": {
+            "bbox": [
+              879,
+              1692,
+              1451,
+              1725
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 33,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Conlin\n      Owen,\n      laborer,\n      h\n      627\n      W.\n      46th",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      Owen,\n      laborer,\n      h\n      627\n      W.\n      46th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              879,
+              1725,
+              1300,
+              1757
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conlin\n      Patrick,\n      h\n      60\n      Leroy",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      Patrick,\n      h\n      60\n      Leroy"
+        },
+        {
+          "properties": {
+            "bbox": [
+              879,
+              1759,
+              1468,
+              1789
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 31,
+            "x_descenders": 5,
+            "x_ascenders": 9
+          },
+          "text": "Conlin\n      Patrick,\n      driver,\n      h\n      238\n      W.19th",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      Patrick,\n      driver,\n      h\n      238\n      W.19th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              879,
+              1792,
+              1539,
+              1824
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 6,
+            "x_ascenders": 9
+          },
+          "text": "Conlin\n      Patrick\n      J.\n      printer,\n      h\n      20\n      Rutgers\n      pl.",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      Patrick\n      J.\n      printer,\n      h\n      20\n      Rutgers\n      pl."
+        },
+        {
+          "properties": {
+            "bbox": [
+              879,
+              1825,
+              1455,
+              1857
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conlin\n      Peter,\n      clerk,\n      -h\n      8\n      City\n      Hall\n      pi.",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      Peter,\n      clerk,\n      -h\n      8\n      City\n      Hall\n      pi."
+        },
+        {
+          "properties": {
+            "bbox": [
+              879,
+              1858,
+              1428,
+              1889
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conlin\n      Peter,\n      police,\n      h\n      218\n      BH.\n      118th",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      Peter,\n      police,\n      h\n      218\n      BH.\n      118th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              880,
+              1891,
+              1428,
+              1923
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 33,
+            "x_descenders": 7,
+            "x_ascenders": 10
+          },
+          "text": "Conlin\n      Philip,\n      ostler,\n      h\n      118\n      W,\n      52a",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      Philip,\n      ostler,\n      h\n      118\n      W,\n      52a"
+        },
+        {
+          "properties": {
+            "bbox": [
+              880,
+              1924,
+              1451,
+              1955
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conlin\n      Richard,\n      laborer,\n      h\n      5\n      Pelham",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      Richard,\n      laborer,\n      h\n      5\n      Pelham"
+        },
+        {
+          "properties": {
+            "bbox": [
+              881,
+              1958,
+              1479,
+              1988
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "Conlin\n      Thomas,\n      laborer,\n      h\n      33\n      Sullivan",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      Thomas,\n      laborer,\n      h\n      33\n      Sullivan"
+        },
+        {
+          "properties": {
+            "bbox": [
+              880,
+              1990,
+              1506,
+              2024
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conlin\n      William,\n      tailor,\n      h\n      r\n      113\n      Mulberry",
+          "columnIndex": 1,
+          "completeText": "Conlin\n      William,\n      tailor,\n      h\n      r\n      113\n      Mulberry"
+        },
+        {
+          "properties": {
+            "bbox": [
+              880,
+              2023,
+              1468,
+              2056
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conlisk\n      John,\n      laborer,\n      h\n      r\n      595\n      Gwich",
+          "columnIndex": 1,
+          "completeText": "Conlisk\n      John,\n      laborer,\n      h\n      r\n      595\n      Gwich"
+        },
+        {
+          "properties": {
+            "bbox": [
+              881,
+              2057,
+              1490,
+              2089
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "Conliss\n      Bernard,\n      painter,\n      h\n      337\n      E.\n      54th",
+          "columnIndex": 1,
+          "completeText": "Conliss\n      Bernard,\n      painter,\n      h\n      337\n      E.\n      54th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              880,
+              2090,
+              1464,
+              2121
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conlon\n      Bernard,\n      clerk,\n      h\n      363\n      Washn.",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      Bernard,\n      clerk,\n      h\n      363\n      Washn."
+        },
+        {
+          "properties": {
+            "bbox": [
+              881,
+              2123,
+              1581,
+              2155
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "Conlon\n      Catharine,\n      wid.\n      Michael,\n      h\n      40\n      Spring",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      Catharine,\n      wid.\n      Michael,\n      h\n      40\n      Spring"
+        },
+        {
+          "properties": {
+            "bbox": [
+              881,
+              2156,
+              1605,
+              2185
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 28,
+            "x_descenders": 4,
+            "x_ascenders": 8
+          },
+          "text": "Conlon\n      Catharine,\n      wid.\n      Patri:k,\n      h\n      430\n      E.\n      15th",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      Catharine,\n      wid.\n      Patri:k,\n      h\n      430\n      E.\n      15th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              881,
+              2189,
+              1639,
+              2222
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conlon\n      Christopher\n      J.\n      smith,\n      115\n      Wall,\n      h\n      Bâ€™klyn",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      Christopher\n      J.\n      smith,\n      115\n      Wall,\n      h\n      Bâ€™klyn"
+        },
+        {
+          "properties": {
+            "bbox": [
+              882,
+              2222,
+              1436,
+              2253
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 9
+          },
+          "text": "Conlon\n      Edward,\n      builder,\n      229\n      E.\n      93d",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      Edward,\n      builder,\n      229\n      E.\n      93d"
+        },
+        {
+          "properties": {
+            "bbox": [
+              882,
+              2255,
+              1441,
+              2288
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conlon\n      Ellen,\n      sewing,\n      h\n      349\n      W.\n      43d",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      Ellen,\n      sewing,\n      h\n      349\n      W.\n      43d"
+        },
+        {
+          "properties": {
+            "bbox": [
+              883,
+              2288,
+              1500,
+              2319
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "Conlon\n      Fannie\n      T.\n      feygds,\n      567\n      Ninth\n      av.",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      Fannie\n      T.\n      feygds,\n      567\n      Ninth\n      av."
+        },
+        {
+          "properties": {
+            "bbox": [
+              882,
+              2321,
+              1458,
+              2353
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Conlon\n      Frank,\n      clerk,\n      h\n      r\n      224\n      W.\n      11th",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      Frank,\n      clerk,\n      h\n      r\n      224\n      W.\n      11th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              882,
+              2354,
+              1447,
+              2385
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conlon\n      George,\n      laborer,\n      h\n      1\n      Carlisle",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      George,\n      laborer,\n      h\n      1\n      Carlisle"
+        },
+        {
+          "properties": {
+            "bbox": [
+              883,
+              2387,
+              1452,
+              2420
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conlon\n      Henry,\n      baker,\n      h\n      432\n      W.\n      46th",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      Henry,\n      baker,\n      h\n      432\n      W.\n      46th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              884,
+              2420,
+              1653,
+              2457
+            ],
+            "baseline": [
+              0,
+              -12
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "Conlon\n      Honora,\n      wid.\n      William,\n      h\n      154\n      Christopher\n      _",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      Honora,\n      wid.\n      William,\n      h\n      154\n      Christopher\n      _"
+        },
+        {
+          "properties": {
+            "bbox": [
+              884,
+              2454,
+              1291,
+              2484
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "Conlon\n      James,\n      h\n      62\n      Leroy",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      James,\n      h\n      62\n      Leroy"
+        },
+        {
+          "properties": {
+            "bbox": [
+              884,
+              2486,
+              1516,
+              2519
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 33,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Conlon\n      James,\n      carpenter,\n      h\n      90\n      Delancey",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      James,\n      carpenter,\n      h\n      90\n      Delancey"
+        },
+        {
+          "properties": {
+            "bbox": [
+              884,
+              2518,
+              1492,
+              2551
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conlon\n      James,\n      engineer,\n      h\n      363\n      Washn.",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      James,\n      engineer,\n      h\n      363\n      Washn."
+        },
+        {
+          "properties": {
+            "bbox": [
+              884,
+              2550,
+              1667,
+              2583
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 32,
+            "x_descenders": 6,
+            "x_ascenders": 9
+          },
+          "text": "Conion\n      James,\n      grocer,\n      583\n      Ninth\n      av.\n      h\n      401\n      W.\n      42a",
+          "columnIndex": 1,
+          "completeText": "Conion\n      James,\n      grocer,\n      583\n      Ninth\n      av.\n      h\n      401\n      W.\n      42a"
+        },
+        {
+          "properties": {
+            "bbox": [
+              884,
+              2584,
+              1502,
+              2616
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conlon\n      James,\n      laborer,\n      h\n      r\n      127\n      W.\n      19th",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      James,\n      laborer,\n      h\n      r\n      127\n      W.\n      19th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              886,
+              2617,
+              1437,
+              2648
+            ],
+            "baseline": [
+              0,
+              -4
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 9
+          },
+          "text": "Conlon\n      James,\n      ostler,\n      h\n      301\n      E,\n      31st",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      James,\n      ostler,\n      h\n      301\n      E,\n      31st"
+        },
+        {
+          "properties": {
+            "bbox": [
+              885,
+              2650,
+              1526,
+              2683
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conlon\n      James,\n      silver,\n      h\n      62\n      W.\n      Washn.\n      pl.",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      James,\n      silver,\n      h\n      62\n      W.\n      Washn.\n      pl."
+        },
+        {
+          "properties": {
+            "bbox": [
+              886,
+              2683,
+              1436,
+              2715
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conlon\n      James,\n      smith,\n      h\n      456\n      W.\n      82d",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      James,\n      smith,\n      h\n      456\n      W.\n      82d"
+        },
+        {
+          "properties": {
+            "bbox": [
+              886,
+              2716,
+              1501,
+              2747
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "Coulon\n      James,\n      soapmkr.\n      h\n      506\n      W.\n      39th",
+          "columnIndex": 1,
+          "completeText": "Coulon\n      James,\n      soapmkr.\n      h\n      506\n      W.\n      39th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              886,
+              2749,
+              1556,
+              2779
+            ],
+            "baseline": [
+              0,
+              -3
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "Conlon\n      James\n      &\n      Co.\n      grocers,\n      583\n      Ninth\n      av.",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      James\n      &\n      Co.\n      grocers,\n      583\n      Ninth\n      av."
+        },
+        {
+          "properties": {
+            "bbox": [
+              886,
+              2782,
+              1663,
+              2812
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 30,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "Conlon\n      Jas.\n      F.\n      carpenter,\n      h\n      E.\n      112th\n      c\n      Second\n      av.",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      Jas.\n      F.\n      carpenter,\n      h\n      E.\n      112th\n      c\n      Second\n      av."
+        },
+        {
+          "properties": {
+            "bbox": [
+              886,
+              2814,
+              1665,
+              2846
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 32,
+            "x_descenders": 6,
+            "x_ascenders": 9
+          },
+          "text": "Conlon\n      James\n      J.\n      grocer,\n      583\n      Ninth\n      av.\n      h\n      401\n      W,",
+          "columnIndex": 1,
+          "nextLineIndex": 171,
+          "completeText": "Conlon\n      James\n      J.\n      grocer,\n      583\n      Ninth\n      av.\n      h\n      401\n      W, 42a\n      :"
+        },
+        {
+          "properties": {
+            "bbox": [
+              952,
+              2849,
+              1270,
+              2874
+            ],
+            "baseline": [
+              0,
+              0
+            ],
+            "x_size": 32.865959,
+            "x_descenders": 6.9584837,
+            "x_ascenders": 8.4772253
+          },
+          "text": "42a\n      :",
+          "previousLineIndex": 170
+        },
+        {
+          "properties": {
+            "bbox": [
+              886,
+              2880,
+              1405,
+              2912
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conlon\n      John,\n      agent,\n      h\n      47\n      Norfolk",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      John,\n      agent,\n      h\n      47\n      Norfolk"
+        },
+        {
+          "properties": {
+            "bbox": [
+              885,
+              2913,
+              1391,
+              2944
+            ],
+            "baseline": [
+              0,
+              -4
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Conlon\n      John,\n      cutter,\n      h\n      44\n      Av.\n      D",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      John,\n      cutter,\n      h\n      44\n      Av.\n      D"
+        },
+        {
+          "properties": {
+            "bbox": [
+              885,
+              2946,
+              1491,
+              2976
+            ],
+            "baseline": [
+              0,
+              -3
+            ],
+            "x_size": 30,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "Conlon\n      John,\n      doorkeeper,\n      h\n      16\n      Norfolk",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      John,\n      doorkeeper,\n      h\n      16\n      Norfolk"
+        },
+        {
+          "properties": {
+            "bbox": [
+              885,
+              2979,
+              1451,
+              3011
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conlon\n      John,\n      fireman,\n      h\n      443\n      BE.\n      74th",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      John,\n      fireman,\n      h\n      443\n      BE.\n      74th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              885,
+              3012,
+              1439,
+              3041
+            ],
+            "baseline": [
+              0,
+              -2
+            ],
+            "x_size": 29,
+            "x_descenders": 4,
+            "x_ascenders": 9
+          },
+          "text": "Conlon\n      John,\n      laborer,\n      h\n      344\n      E.\n      31st",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      John,\n      laborer,\n      h\n      344\n      E.\n      31st"
+        },
+        {
+          "properties": {
+            "bbox": [
+              884,
+              3045,
+              1435,
+              3075
+            ],
+            "baseline": [
+              0,
+              -4
+            ],
+            "x_size": 29,
+            "x_descenders": 4,
+            "x_ascenders": 9
+          },
+          "text": "Conlon\n      John,\n      laborer,\n      h\n      556\n      W.\n      43d",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      John,\n      laborer,\n      h\n      556\n      W.\n      43d"
+        },
+        {
+          "properties": {
+            "bbox": [
+              884,
+              3078,
+              1443,
+              3109
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Conlon\n      John,\n      machinist,\n      h\n      318\n      Mott",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      John,\n      machinist,\n      h\n      318\n      Mott"
+        },
+        {
+          "properties": {
+            "bbox": [
+              883,
+              3111,
+              1490,
+              3144
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 34,
+            "x_descenders": 8,
+            "x_ascenders": 9
+          },
+          "text": "Conlon\n      John,\n      watchman,\n      h\n      311\n      E.\n      21st",
+          "columnIndex": 1,
+          "completeText": "Conlon\n      John,\n      watchman,\n      h\n      311\n      E.\n      21st"
+        }
+      ],
+      "columns": [
+        63,
+        879
+      ],
+      "linesPerColumn": [
+        79,
+        87
+      ],
+      "minLinesPerColumn": true
+    }
+  ]
+}

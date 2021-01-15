@@ -1,0 +1,3449 @@
+{
+  "config": {
+    "columnCount": 2,
+    "characterWidth": 25,
+    "minLinesPerColumn": 50
+  },
+  "pages": [
+    {
+      "number": 0,
+      "properties": {
+        "image": "saved.tif",
+        "bbox": [
+          0,
+          0,
+          1872,
+          3089
+        ],
+        "ppageno": 0
+      },
+      "lines": [
+        {
+          "properties": {
+            "bbox": [
+              199,
+              126,
+              307,
+              163
+            ],
+            "baseline": [
+              0,
+              0
+            ],
+            "x_size": 49,
+            "x_descenders": 12.25,
+            "x_ascenders": 12.25
+          },
+          "text": "LED"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              200,
+              639,
+              235
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "John,\n      hosiery,\n      248\n      Bowery,\n      h,\n      248\n      Bowery",
+          "columnIndex": 0,
+          "completeText": "John,\n      hosiery,\n      248\n      Bowery,\n      h,\n      248\n      Bowery"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              233,
+              672,
+              266
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 29,
+            "x_descenders": 4,
+            "x_ascenders": 9
+          },
+          "text": "Michael,\n      shoemaker,\n      70\n      Willett,\n      h.70\n      Willett",
+          "columnIndex": 0,
+          "completeText": "Michael,\n      shoemaker,\n      70\n      Willett,\n      h.70\n      Willett"
+        },
+        {
+          "properties": {
+            "bbox": [
+              1,
+              265,
+              557,
+              299
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 30,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "Peter,\n      wheelwright,\n      Av.\n      3\n      n.\n      KE.\n      29th",
+          "columnIndex": 0,
+          "completeText": "Peter,\n      wheelwright,\n      Av.\n      3\n      n.\n      KE.\n      29th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              296,
+              547,
+              329
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "aft\n      Anthony,\n      carman,\n      8\n      Gansevoort",
+          "columnIndex": 0,
+          "completeText": "aft\n      Anthony,\n      carman,\n      8\n      Gansevoort"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              329,
+              512,
+              361
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 30,
+            "x_descenders": 5,
+            "x_ascenders": 9
+          },
+          "text": "aft\n      Gamaliel,\n      carman,\n      167\n      Varick",
+          "columnIndex": 0,
+          "completeText": "aft\n      Gamaliel,\n      carman,\n      167\n      Varick"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              360,
+              672,
+              394
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "aft\n      Gertrude,\n      widow\n      of\n      Robert,\n      274\n      Bowery",
+          "columnIndex": 0,
+          "completeText": "aft\n      Gertrude,\n      widow\n      of\n      Robert,\n      274\n      Bowery"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              393,
+              545,
+              426
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "aft\n      John\n      K.\n      shoemaker,\n      294\n      W.\n      17th",
+          "columnIndex": 0,
+          "completeText": "aft\n      John\n      K.\n      shoemaker,\n      294\n      W.\n      17th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              425,
+              486,
+              460
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "aft\n      John\n      M.\n      clerk,\n      139\n      Attorney",
+          "columnIndex": 0,
+          "completeText": "aft\n      John\n      M.\n      clerk,\n      139\n      Attorney"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              458,
+              453,
+              491
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "aft\n      Richard,\n      178\n      Franklin\n      __",
+          "columnIndex": 0,
+          "completeText": "aft\n      Richard,\n      178\n      Franklin\n      __"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              490,
+              514,
+              521
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "aft\n      William,\n      tinman,\n      h.19\n      BE.\n      11th",
+          "columnIndex": 0,
+          "completeText": "aft\n      William,\n      tinman,\n      h.19\n      BE.\n      11th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              522,
+              672,
+              555
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 7
+          },
+          "text": "bee\n      Jane,\n      widow\n      of\n      John,\n      washing,\n      r.\n      W.",
+          "columnIndex": 0,
+          "completeText": "bee\n      Jane,\n      widow\n      of\n      John,\n      washing,\n      r.\n      W."
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              555,
+              168,
+              579
+            ],
+            "baseline": [
+              0,
+              -3
+            ],
+            "x_size": 27.867186,
+            "x_descenders": 5.8671856,
+            "x_ascenders": 7.2081914
+          },
+          "text": "hn.\n      Av.\n      10",
+          "columnIndex": 0,
+          "completeText": "hn.\n      Av.\n      10"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              587,
+              545,
+              618
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Manual,\n      cabinetmaker,\n      476\n      Hudson",
+          "columnIndex": 0,
+          "completeText": "Manual,\n      cabinetmaker,\n      476\n      Hudson"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              618,
+              656,
+              650
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "ier\n      Adolphus,\n      banker,\n      67\n      Wall,\n      h.\n      14\n      Av.\n      6",
+          "columnIndex": 0,
+          "completeText": "ier\n      Adolphus,\n      banker,\n      67\n      Wall,\n      h.\n      14\n      Av.\n      6"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              650,
+              672,
+              684
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "Julius\n      N.\n      drugs,\n      30\n      Orange,\n      h.\n      175\n      Chatham",
+          "columnIndex": 0,
+          "completeText": "Julius\n      N.\n      drugs,\n      30\n      Orange,\n      h.\n      175\n      Chatham"
+        },
+        {
+          "properties": {
+            "bbox": [
+              1,
+              682,
+              590,
+              712
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 28,
+            "x_descenders": 4,
+            "x_ascenders": 7
+          },
+          "text": "n\n      Bartlett,\n      com,\n      55\n      Pine,\n      h:\n      583\n      Hudson",
+          "columnIndex": 0,
+          "completeText": "n\n      Bartlett,\n      com,\n      55\n      Pine,\n      h:\n      583\n      Hudson"
+        },
+        {
+          "properties": {
+            "bbox": [
+              1,
+              716,
+              380,
+              741
+            ],
+            "baseline": [
+              0,
+              -3
+            ],
+            "x_size": 29.743067,
+            "x_descenders": 6.7430663,
+            "x_ascenders": 6
+          },
+          "text": "n\n      C.\n      B.\n      com.\n      mer.\n      55\n      Pine",
+          "columnIndex": 0,
+          "completeText": "n\n      C.\n      B.\n      com.\n      mer.\n      55\n      Pine"
+        },
+        {
+          "properties": {
+            "bbox": [
+              9,
+              747,
+              443,
+              779
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Edwin,\n      gilder,\n      h.\n      43\n      Forsyth",
+          "columnIndex": 0,
+          "completeText": "Edwin,\n      gilder,\n      h.\n      43\n      Forsyth"
+        },
+        {
+          "properties": {
+            "bbox": [
+              9,
+              777,
+              567,
+              809
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Lewis,\n      books,\n      219\n      Av.\n      8.\n      h.\n      219\n      Av.\n      8",
+          "columnIndex": 0,
+          "completeText": "Lewis,\n      books,\n      219\n      Av.\n      8.\n      h.\n      219\n      Av.\n      8"
+        },
+        {
+          "properties": {
+            "bbox": [
+              10,
+              810,
+              536,
+              844
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 7
+          },
+          "text": "O.\n      Hathaway,\n      gilder,\n      r.\n      79\n      Forsyth",
+          "columnIndex": 0,
+          "completeText": "O.\n      Hathaway,\n      gilder,\n      r.\n      79\n      Forsyth"
+        },
+        {
+          "properties": {
+            "bbox": [
+              17,
+              840,
+              673,
+              873
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Nathaniel\n      P.\n      scales,\n      46\n      Eldridge,\n      h,\n      177",
+          "columnIndex": 0,
+          "completeText": "Nathaniel\n      P.\n      scales,\n      46\n      Eldridge,\n      h,\n      177"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              875,
+              84,
+              899
+            ],
+            "baseline": [
+              0,
+              -1
+            ],
+            "x_size": 30.743067,
+            "x_descenders": 6.7430663,
+            "x_ascenders": 7
+          },
+          "text": "chard",
+          "columnIndex": 0,
+          "completeText": "chard"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              906,
+              463,
+              938
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 33,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "charles,\n      locksmith,\n      234\n      Spruce",
+          "columnIndex": 0,
+          "completeText": "charles,\n      locksmith,\n      234\n      Spruce"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              937,
+              457,
+              968
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 28,
+            "x_descenders": 4,
+            "x_ascenders": 7
+          },
+          "text": "Jacob,\n      shoemaker,\n      107\n      Willett",
+          "columnIndex": 0,
+          "completeText": "Jacob,\n      shoemaker,\n      107\n      Willett"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              969,
+              491,
+              1003
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 33,
+            "x_descenders": 9,
+            "x_ascenders": 7
+          },
+          "text": "1utt\n      Isaac,\n      drygoods,\n      263\n      Second",
+          "columnIndex": 0,
+          "completeText": "1utt\n      Isaac,\n      drygoods,\n      263\n      Second"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1002,
+              467,
+              1031
+            ],
+            "baseline": [
+              0,
+              -4
+            ],
+            "x_size": 29,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "hon\n      John\n      L.\n      merchant,\n      43\n      New",
+          "columnIndex": 0,
+          "completeText": "hon\n      John\n      L.\n      merchant,\n      43\n      New"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1032,
+              610,
+              1065
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 29,
+            "x_descenders": 5,
+            "x_ascenders": 7
+          },
+          "text": "â€˜veau\n      Aaron,\n      carpenter,\n      E.\n      26th\n      n.\n      Av.\n      3",
+          "columnIndex": 0,
+          "completeText": "â€˜veau\n      Aaron,\n      carpenter,\n      E.\n      26th\n      n.\n      Av.\n      3"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1063,
+              663,
+              1098
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 29,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "illier\n      Charles,\n      drygoods,\n      58\n      Canal,\n      h.\n      Phila.",
+          "columnIndex": 0,
+          "completeText": "illier\n      Charles,\n      drygoods,\n      58\n      Canal,\n      h.\n      Phila."
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1096,
+              675,
+              1129
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 7
+          },
+          "text": "tillier\n      Thomas,\n      drygoods,\n      58\n      Canal,\n      h.\n      110",
+          "columnIndex": 0,
+          "completeText": "tillier\n      Thomas,\n      drygoods,\n      58\n      Canal,\n      h.\n      110"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1133,
+              88,
+              1154
+            ],
+            "baseline": [
+              0,
+              0
+            ],
+            "x_size": 27.346416,
+            "x_descenders": 6.3464155,
+            "x_ascenders": 5
+          },
+          "text": "ooster",
+          "columnIndex": 0,
+          "completeText": "ooster"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1158,
+              675,
+              1192
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 31.609865,
+            "x_descenders": 6.6551723,
+            "x_ascenders": 8.1762819
+          },
+          "text": "JTILLIER\n      BROTHERS,\n      drygoods,\n      58\n      Canal",
+          "columnIndex": 0,
+          "completeText": "JTILLIER\n      BROTHERS,\n      drygoods,\n      58\n      Canal"
+        },
+        {
+          "properties": {
+            "bbox": [
+              3,
+              1192,
+              612,
+              1224
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "ht\n      Francis\n      jr.\n      bootmaker,\n      314\n      Rivington",
+          "columnIndex": 0,
+          "completeText": "ht\n      Francis\n      jr.\n      bootmaker,\n      314\n      Rivington"
+        },
+        {
+          "properties": {
+            "bbox": [
+              19,
+              1223,
+              675,
+              1254
+            ],
+            "baseline": [
+              0,
+              -4
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "Louis\n      J.\n      coachtrimmer,\n      105\n      Walker,\n      h.",
+          "columnIndex": 0,
+          "completeText": "Louis\n      J.\n      coachtrimmer,\n      105\n      Walker,\n      h."
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1258,
+              174,
+              1290
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 30.346416,
+            "x_descenders": 6.3464155,
+            "x_ascenders": 8
+          },
+          "text": "liamsburg",
+          "columnIndex": 0,
+          "completeText": "liamsburg"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1287,
+              518,
+              1321
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "1\n      Eugenia,\n      dressmaker,\n      12\n      Walker",
+          "columnIndex": 0,
+          "completeText": "1\n      Eugenia,\n      dressmaker,\n      12\n      Walker"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1320,
+              461,
+              1350
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "1)\n      John\n      J.\n      collector,\n      375\n      Cherry",
+          "columnIndex": 0,
+          "completeText": "1)\n      John\n      J.\n      collector,\n      375\n      Cherry"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1351,
+              649,
+              1384
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 29,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "1\n      Josephine\n      N.\n      widow,\n      milliner,\n      556\n      B.way",
+          "columnIndex": 0,
+          "completeText": "1\n      Josephine\n      N.\n      widow,\n      milliner,\n      556\n      B.way"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1383,
+              482,
+              1415
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 29,
+            "x_descenders": 5,
+            "x_ascenders": 7
+          },
+          "text": "1r\n      Gotthard,\n      cooper,\n      111\n      Willett",
+          "columnIndex": 0,
+          "completeText": "1r\n      Gotthard,\n      cooper,\n      111\n      Willett"
+        },
+        {
+          "properties": {
+            "bbox": [
+              3,
+              1415,
+              549,
+              1446
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "r\n      Jacob,\n      cabinetmaker,\n      263\n      Division",
+          "columnIndex": 0,
+          "completeText": "r\n      Jacob,\n      cabinetmaker,\n      263\n      Division"
+        },
+        {
+          "properties": {
+            "bbox": [
+              2,
+              1447,
+              643,
+              1480
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 8,
+            "x_ascenders": 7
+          },
+          "text": "recker\n      Henry,\n      coppersmith,\n      h.\n      103\n      Cherry",
+          "columnIndex": 0,
+          "completeText": "recker\n      Henry,\n      coppersmith,\n      h.\n      103\n      Cherry"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1478,
+              526,
+              1511
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Charles\n      C.\n      copyist,\n      78\n      Hamersley",
+          "columnIndex": 0,
+          "completeText": "Charles\n      C.\n      copyist,\n      78\n      Hamersley"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1510,
+              675,
+              1545
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "-\n      Francis,\n      grocer,\n      132\n      Chrystie\n      &\n      168\n      Eliza-",
+          "columnIndex": 0,
+          "completeText": "-\n      Francis,\n      grocer,\n      132\n      Chrystie\n      &\n      168\n      Eliza-"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1544,
+              293,
+              1574
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 29,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "h,\n      h.\n      168\n      Elizabeth",
+          "columnIndex": 0,
+          "completeText": "h,\n      h.\n      168\n      Elizabeth"
+        },
+        {
+          "properties": {
+            "bbox": [
+              2,
+              1575,
+              644,
+              1606
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 7
+          },
+          "text": "r\n      Andrew\n      R.\n      butter,\n      190\n      G.wich,\n      h.\n      41\n      Jay",
+          "columnIndex": 0,
+          "completeText": "r\n      Andrew\n      R.\n      butter,\n      190\n      G.wich,\n      h.\n      41\n      Jay"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1607,
+              589,
+              1638
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "â€˜e\n      John,\n      furrier,\n      584\n      Av.\n      6,\n      h.\n      584\n      Av.\n      6",
+          "columnIndex": 0,
+          "completeText": "â€˜e\n      John,\n      furrier,\n      584\n      Av.\n      6,\n      h.\n      584\n      Av.\n      6"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1639,
+              535,
+              1670
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "2\n      Louis,\n      late\n      importer,\n      h.\n      99\n      Varick",
+          "columnIndex": 0,
+          "completeText": "2\n      Louis,\n      late\n      importer,\n      h.\n      99\n      Varick"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1669,
+              677,
+              1701
+            ],
+            "baseline": [
+              0,
+              -4
+            ],
+            "x_size": 28,
+            "x_descenders": 5,
+            "x_ascenders": 7
+          },
+          "text": "2\n      Thomas,\n      furrier,\n      64\n      Houston,\n      h.\n      686\n      Fourth",
+          "columnIndex": 0,
+          "completeText": "2\n      Thomas,\n      furrier,\n      64\n      Houston,\n      h.\n      686\n      Fourth"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1702,
+              582,
+              1736
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 28,
+            "x_descenders": 5,
+            "x_ascenders": 7
+          },
+          "text": "|\n      Jules,\n      instrumentmaker,\n      132\n      Leonard",
+          "columnIndex": 0,
+          "completeText": "|\n      Jules,\n      instrumentmaker,\n      132\n      Leonard"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1735,
+              574,
+              1767
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 31,
+            "x_descenders": 8,
+            "x_ascenders": 7
+          },
+          "text": "pte\n      Lucy,\n      widow,\n      2\n      Abingdon\n      square",
+          "columnIndex": 0,
+          "completeText": "pte\n      Lucy,\n      widow,\n      2\n      Abingdon\n      square"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1765,
+              677,
+              1797
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 29,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "te\n      Nicholas,\n      confectionery,\n      224\n      Greenwich,",
+          "columnIndex": 0,
+          "completeText": "te\n      Nicholas,\n      confectionery,\n      224\n      Greenwich,"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1799,
+              228,
+              1824
+            ],
+            "baseline": [
+              0,
+              0
+            ],
+            "x_size": 29.346416,
+            "x_descenders": 6.3464155,
+            "x_ascenders": 7
+          },
+          "text": "224\n      Greenwich",
+          "columnIndex": 0,
+          "completeText": "224\n      Greenwich"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1829,
+              502,
+              1860
+            ],
+            "baseline": [
+              0,
+              -4
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "te\n      Stillman,\n      starcher,\n      21\n      W.\n      20th",
+          "columnIndex": 0,
+          "completeText": "te\n      Stillman,\n      starcher,\n      21\n      W.\n      20th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1860,
+              678,
+              1892
+            ],
+            "baseline": [
+              0,
+              -4
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "te\n      Vincent,\n      confectioner,\n      290\n      Greenwich,\n      h.",
+          "columnIndex": 0,
+          "completeText": "te\n      Vincent,\n      confectioner,\n      290\n      Greenwich,\n      h."
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1895,
+              190,
+              1920
+            ],
+            "baseline": [
+              0,
+              -1
+            ],
+            "x_size": 29.346416,
+            "x_descenders": 6.3464155,
+            "x_ascenders": 7
+          },
+          "text": ")\n      Greenwich",
+          "columnIndex": 0,
+          "completeText": ")\n      Greenwich"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1925,
+              284,
+              1956
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "e\n      John,\n      46\n      Walker",
+          "columnIndex": 0,
+          "completeText": "e\n      John,\n      46\n      Walker"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1957,
+              394,
+              1990
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 28,
+            "x_descenders": 5,
+            "x_ascenders": 7
+          },
+          "text": "it\n      Francis,\n      gilder,\n      32\n      First",
+          "columnIndex": 0,
+          "completeText": "it\n      Francis,\n      gilder,\n      32\n      First"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              1989,
+              289,
+              2019
+            ],
+            "baseline": [
+              0,
+              -4
+            ],
+            "x_size": 29,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "it\n      John,\n      46\n      Walker",
+          "columnIndex": 0,
+          "completeText": "it\n      John,\n      46\n      Walker"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              2019,
+              679,
+              2052
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "it\n      John,\n      wheelwright,165\n      Chrystie,h.94\n      Allen",
+          "columnIndex": 0,
+          "completeText": "it\n      John,\n      wheelwright,165\n      Chrystie,h.94\n      Allen"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              2052,
+              526,
+              2085
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 31,
+            "x_descenders": 8,
+            "x_ascenders": 7
+          },
+          "text": "it\n      John\n      jr.\n      late\n      grocer,\n      256\n      Broome",
+          "columnIndex": 0,
+          "completeText": "it\n      John\n      jr.\n      late\n      grocer,\n      256\n      Broome"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              2083,
+              552,
+              2116
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 28,
+            "x_descenders": 4,
+            "x_ascenders": 7
+          },
+          "text": "it\n      John\n      R.\n      late\n      grocer,\n      h.\n      457\n      Grand",
+          "columnIndex": 0,
+          "completeText": "it\n      John\n      R.\n      late\n      grocer,\n      h.\n      457\n      Grand"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              2115,
+              472,
+              2149
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "it\n      Joseph,\n      mason,\n      h.\n      58\n      Ludlow",
+          "columnIndex": 0,
+          "completeText": "it\n      Joseph,\n      mason,\n      h.\n      58\n      Ludlow"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              2147,
+              489,
+              2179
+            ],
+            "baseline": [
+              0,
+              -4
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "it\n      Thomas,\n      cabs,\n      r.\n      325\n      Madison",
+          "columnIndex": 0,
+          "completeText": "it\n      Thomas,\n      cabs,\n      r.\n      325\n      Madison"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              2179,
+              373,
+              2209
+            ],
+            "baseline": [
+              0,
+              -2
+            ],
+            "x_size": 30.346416,
+            "x_descenders": 6.3464155,
+            "x_ascenders": 8
+          },
+          "text": "it\n      William\n      V.\n      457\n      Grand",
+          "columnIndex": 0,
+          "completeText": "it\n      William\n      V.\n      457\n      Grand"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              2210,
+              599,
+              2243
+            ],
+            "baseline": [
+              0,
+              -4
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 7
+          },
+          "text": "it\n      &\n      Ward,\n      wheelwrights,\n      165\n      Chrystie",
+          "columnIndex": 0,
+          "completeText": "it\n      &\n      Ward,\n      wheelwrights,\n      165\n      Chrystie"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              2242,
+              678,
+              2277
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 7
+          },
+          "text": "-\n      Adolphus,\n      watchease\n      polisher,\n      r.\n      216\n      Wil-",
+          "columnIndex": 0,
+          "completeText": "-\n      Adolphus,\n      watchease\n      polisher,\n      r.\n      216\n      Wil-"
+        },
+        {
+          "properties": {
+            "bbox": [
+              2,
+              2277,
+              273,
+              2308
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 29,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "m,\n      h.\n      216\n      William",
+          "columnIndex": 0,
+          "completeText": "m,\n      h.\n      216\n      William"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              2351,
+              34,
+              2367
+            ],
+            "baseline": [
+              0,
+              -1
+            ],
+            "x_size": 32.323036,
+            "x_descenders": 6.983871,
+            "x_ascenders": 8.0446424
+          },
+          "text": "Se",
+          "columnIndex": 0,
+          "completeText": "Se"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              2371,
+              446,
+              2406
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 7
+          },
+          "text": "ier\n      George,\n      55\n      W.\n      Broadway",
+          "columnIndex": 0,
+          "completeText": "ier\n      George,\n      55\n      W.\n      Broadway"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              2401,
+              494,
+              2437
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 28,
+            "x_descenders": 5,
+            "x_ascenders": 7
+          },
+          "text": "er\n      Thomas,\n      engraver,\n      39\n      E.\n      24th",
+          "columnIndex": 0,
+          "completeText": "er\n      Thomas,\n      engraver,\n      39\n      E.\n      24th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              2434,
+              432,
+              2467
+            ],
+            "baseline": [
+              0,
+              -4
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "1\n      Patrick,\n      mason,\n      257\n      E.\n      25th",
+          "columnIndex": 0,
+          "completeText": "1\n      Patrick,\n      mason,\n      257\n      E.\n      25th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              8,
+              2467,
+              409,
+              2497
+            ],
+            "baseline": [
+              0,
+              -2
+            ],
+            "x_size": 29,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "Bernard,\n      tailor,\n      180\n      Prince",
+          "columnIndex": 0,
+          "completeText": "Bernard,\n      tailor,\n      180\n      Prince"
+        },
+        {
+          "properties": {
+            "bbox": [
+              8,
+              2501,
+              329,
+              2532
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 9
+          },
+          "text": "John,\n      tailor,\n      38\n      Av.\n      3",
+          "columnIndex": 0,
+          "completeText": "John,\n      tailor,\n      38\n      Av.\n      3"
+        },
+        {
+          "properties": {
+            "bbox": [
+              7,
+              2528,
+              614,
+              2567
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 34,
+            "x_descenders": 9,
+            "x_ascenders": 8
+          },
+          "text": "Bridget,\n      widow\n      of\n      John,\n      r.\n      252\n      Delancy",
+          "columnIndex": 0,
+          "completeText": "Bridget,\n      widow\n      of\n      John,\n      r.\n      252\n      Delancy"
+        },
+        {
+          "properties": {
+            "bbox": [
+              14,
+              2562,
+              678,
+              2599
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "Bridget,\n      widow\n      of\n      Terry,\n      washing,\n      r.\n      199",
+          "columnIndex": 0,
+          "completeText": "Bridget,\n      widow\n      of\n      Terry,\n      washing,\n      r.\n      199"
+        },
+        {
+          "properties": {
+            "bbox": [
+              2,
+              2599,
+              84,
+              2623
+            ],
+            "baseline": [
+              0,
+              0
+            ],
+            "x_size": 28.063545,
+            "x_descenders": 6.0635452,
+            "x_ascenders": 6.984529
+          },
+          "text": ".\n      25th",
+          "columnIndex": 0,
+          "completeText": ".\n      25th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              9,
+              2625,
+              457,
+              2662
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 7
+          },
+          "text": "John,\n      porterhouse,\n      81\n      E.\n      11th",
+          "columnIndex": 0,
+          "completeText": "John,\n      porterhouse,\n      81\n      E.\n      11th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              9,
+              2659,
+              545,
+              2695
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 29,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "John,\n      laborer,\n      h.\n      413\n      Cherry\n      ;",
+          "columnIndex": 0,
+          "completeText": "John,\n      laborer,\n      h.\n      413\n      Cherry\n      ;"
+        },
+        {
+          "properties": {
+            "bbox": [
+              20,
+              2688,
+              678,
+              2726
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 33,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Margaret,\n      widow\n      of\n      William,\n      liquor,\n      17",
+          "columnIndex": 0,
+          "completeText": "Margaret,\n      widow\n      of\n      William,\n      liquor,\n      17"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              2725,
+              432,
+              2759
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 33,
+            "x_descenders": 9,
+            "x_ascenders": 8
+          },
+          "text": "se,\n      h.\n      17\n      Rose\n      ,\n      /",
+          "columnIndex": 0,
+          "completeText": "se,\n      h.\n      17\n      Rose\n      ,\n      /"
+        },
+        {
+          "properties": {
+            "bbox": [
+              12,
+              2752,
+              680,
+              2790
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 34,
+            "x_descenders": 9,
+            "x_ascenders": 8
+          },
+          "text": "Patrick,\n      drygoods,\n      195\n      G.wich,\n      h.213\n      Fulton",
+          "columnIndex": 0,
+          "completeText": "Patrick,\n      drygoods,\n      195\n      G.wich,\n      h.213\n      Fulton"
+        },
+        {
+          "properties": {
+            "bbox": [
+              9,
+              2785,
+              654,
+              2822
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 33,
+            "x_descenders": 9,
+            "x_ascenders": 7
+          },
+          "text": "&\n      Sheridan,\n      drygoods,\n      193\n      Greenwich",
+          "columnIndex": 0,
+          "completeText": "&\n      Sheridan,\n      drygoods,\n      193\n      Greenwich"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              2816,
+              679,
+              2853
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 34,
+            "x_descenders": 9,
+            "x_ascenders": 8
+          },
+          "text": "oer\n      B.\n      druggist,\n      127\n      Christopher,\n      h.\n      127\n      Chris.",
+          "columnIndex": 0,
+          "completeText": "oer\n      B.\n      druggist,\n      127\n      Christopher,\n      h.\n      127\n      Chris."
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              2853,
+              64,
+              2883
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 29,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "pher",
+          "columnIndex": 0,
+          "completeText": "pher"
+        },
+        {
+          "properties": {
+            "bbox": [
+              0,
+              2882,
+              443,
+              2915
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 32,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": ".o\n      John,\n      musician,\n      194\n      Second",
+          "columnIndex": 0,
+          "completeText": ".o\n      John,\n      musician,\n      194\n      Second"
+        },
+        {
+          "properties": {
+            "bbox": [
+              1030,
+              114,
+              1843,
+              189
+            ],
+            "baseline": [
+              0,
+              -23
+            ],
+            "x_size": 62,
+            "x_descenders": 11,
+            "x_ascenders": 15
+          },
+          "text": "LEE\n      ."
+        },
+        {
+          "properties": {
+            "bbox": [
+              698,
+              231,
+              1837,
+              268
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Lederer\n      Wolf,\n      drygoods,\n      704\n      Av.\n      B\n      i",
+          "columnIndex": 1,
+          "completeText": "Lederer\n      Wolf,\n      drygoods,\n      704\n      Av.\n      B\n      i"
+        },
+        {
+          "properties": {
+            "bbox": [
+              698,
+              265,
+              1850,
+              297
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "Lederman\n      Volantine,\n      barber,\n      119\n      Lewis\n      ms",
+          "columnIndex": 1,
+          "completeText": "Lederman\n      Volantine,\n      barber,\n      119\n      Lewis\n      ms"
+        },
+        {
+          "properties": {
+            "bbox": [
+              698,
+              297,
+              1301,
+              328
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "Leders\n      Frederick,\n      pedler,\n      h.\n      304\n      Second",
+          "columnIndex": 1,
+          "completeText": "Leders\n      Frederick,\n      pedler,\n      h.\n      304\n      Second"
+        },
+        {
+          "properties": {
+            "bbox": [
+              699,
+              329,
+              1256,
+              361
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 28,
+            "x_descenders": 5,
+            "x_ascenders": 7
+          },
+          "text": "Ledger\n      John,\n      carpenter,\n      41\n      Clarkson",
+          "columnIndex": 1,
+          "completeText": "Ledger\n      John,\n      carpenter,\n      41\n      Clarkson"
+        },
+        {
+          "properties": {
+            "bbox": [
+              699,
+              361,
+              1319,
+              395
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 7
+          },
+          "text": "Ledig\n      George\n      P.\n      bootmaker,\n      23\n      Peck\n      slip",
+          "columnIndex": 1,
+          "completeText": "Ledig\n      George\n      P.\n      bootmaker,\n      23\n      Peck\n      slip"
+        },
+        {
+          "properties": {
+            "bbox": [
+              699,
+              392,
+              1348,
+              428
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 7
+          },
+          "text": "Ledley\n      James\n      T.\n      tobacconist,\n      227\n      Delancey",
+          "columnIndex": 1,
+          "completeText": "Ledley\n      James\n      T.\n      tobacconist,\n      227\n      Delancey"
+        },
+        {
+          "properties": {
+            "bbox": [
+              699,
+              423,
+              1851,
+              455
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 31,
+            "x_descenders": 5,
+            "x_ascenders": 9
+          },
+          "text": "Ledley\n      William,\n      tailor,\n      17\n      Elizabeth\n      â€œal.",
+          "columnIndex": 1,
+          "completeText": "Ledley\n      William,\n      tailor,\n      17\n      Elizabeth\n      â€œal."
+        },
+        {
+          "properties": {
+            "bbox": [
+              699,
+              456,
+              1240,
+              489
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 28,
+            "x_descenders": 5,
+            "x_ascenders": 7
+          },
+          "text": "Ledoux\n      Joseph,\n      sawyer,\n      68\n      Mangin",
+          "columnIndex": 1,
+          "completeText": "Ledoux\n      Joseph,\n      sawyer,\n      68\n      Mangin"
+        },
+        {
+          "properties": {
+            "bbox": [
+              699,
+              488,
+              1817,
+              522
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 30,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "Ledwith\n      Christopher,\n      grocer,\n      131\n      Anthony\n      :",
+          "columnIndex": 1,
+          "completeText": "Ledwith\n      Christopher,\n      grocer,\n      131\n      Anthony\n      :"
+        },
+        {
+          "properties": {
+            "bbox": [
+              699,
+              519,
+              1832,
+              554
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 28,
+            "x_descenders": 4,
+            "x_ascenders": 8
+          },
+          "text": "Ledwith\n      Edward,\n      laborer,\n      r.\n      225\n      W.\n      26th\n      a",
+          "columnIndex": 1,
+          "completeText": "Ledwith\n      Edward,\n      laborer,\n      r.\n      225\n      W.\n      26th\n      a"
+        },
+        {
+          "properties": {
+            "bbox": [
+              699,
+              552,
+              1834,
+              582
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 28,
+            "x_descenders": 5,
+            "x_ascenders": 7
+          },
+          "text": "Ledwith\n      James,\n      carpenter,\n      244\n      EF.\n      20th\n      '",
+          "columnIndex": 1,
+          "completeText": "Ledwith\n      James,\n      carpenter,\n      244\n      EF.\n      20th\n      '"
+        },
+        {
+          "properties": {
+            "bbox": [
+              699,
+              583,
+              1477,
+              614
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 9
+          },
+          "text": "Ledwith\n      James,\n      liquors,494\n      Twelfth,\n      h.484\n      Twelfth",
+          "columnIndex": 1,
+          "completeText": "Ledwith\n      James,\n      liquors,494\n      Twelfth,\n      h.484\n      Twelfth"
+        },
+        {
+          "properties": {
+            "bbox": [
+              699,
+              603,
+              1838,
+              653
+            ],
+            "baseline": [
+              0,
+              -14
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Ledwith\n      Margaret,\n      widow\n      of\n      James,\n      milliner,\n      274\n      |",
+          "columnIndex": 1,
+          "nextLineIndex": 99,
+          "completeText": "Ledwith\n      Margaret,\n      widow\n      of\n      James,\n      milliner,\n      274\n      | Division\n      vit"
+        },
+        {
+          "properties": {
+            "bbox": [
+              762,
+              647,
+              1852,
+              678
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 32.533306,
+            "x_descenders": 6.5333071,
+            "x_ascenders": 10
+          },
+          "text": "Division\n      vit",
+          "previousLineIndex": 98
+        },
+        {
+          "properties": {
+            "bbox": [
+              700,
+              677,
+              1852,
+              714
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 32,
+            "x_descenders": 4,
+            "x_ascenders": 12
+          },
+          "text": "Ledwith\n      Michael,\n      liquors,\n      65\n      G.wich\n      Av.\n      h.1\n      Perry\n      i",
+          "columnIndex": 1,
+          "completeText": "Ledwith\n      Michael,\n      liquors,\n      65\n      G.wich\n      Av.\n      h.1\n      Perry\n      i"
+        },
+        {
+          "properties": {
+            "bbox": [
+              702,
+              710,
+              1823,
+              740
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Ledwith\n      Michael,\n      carman,\n      W.\n      27th\n      n.\n      Av.7\n      â€˜",
+          "columnIndex": 1,
+          "completeText": "Ledwith\n      Michael,\n      carman,\n      W.\n      27th\n      n.\n      Av.7\n      â€˜"
+        },
+        {
+          "properties": {
+            "bbox": [
+              700,
+              743,
+              1289,
+              773
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 28,
+            "x_descenders": 4,
+            "x_ascenders": 8
+          },
+          "text": "Ledwith\n      Thomas,\n      cooper,\n      85\n      Columbia",
+          "columnIndex": 1,
+          "completeText": "Ledwith\n      Thomas,\n      cooper,\n      85\n      Columbia"
+        },
+        {
+          "properties": {
+            "bbox": [
+              700,
+              774,
+              1476,
+              810
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 33,
+            "x_descenders": 9,
+            "x_ascenders": 7
+          },
+          "text": "Ledyard\n      Daniel\n      J.\n      manhattan\n      bank,\n      h,\n      283\n      Jay,",
+          "columnIndex": 1,
+          "nextLineIndex": 104,
+          "completeText": "Ledyard\n      Daniel\n      J.\n      manhattan\n      bank,\n      h,\n      283\n      Jay, Brooklyn\n      :"
+        },
+        {
+          "properties": {
+            "bbox": [
+              763,
+              808,
+              1832,
+              838
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 28,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Brooklyn\n      :",
+          "previousLineIndex": 103
+        },
+        {
+          "properties": {
+            "bbox": [
+              700,
+              838,
+              1855,
+              870
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 4,
+            "x_ascenders": 11
+          },
+          "text": "Ledyard\n      John,\n      lumber,\n      Av.\n      10\n      c.\n      W.\n      14th,\n      h.\n      Av.\n      10\n      :",
+          "columnIndex": 1,
+          "nextLineIndex": 106,
+          "completeText": "Ledyard\n      John,\n      lumber,\n      Av.\n      10\n      c.\n      W.\n      14th,\n      h.\n      Av.\n      10\n      : co.\n      W.\n      14th\n      Ho"
+        },
+        {
+          "properties": {
+            "bbox": [
+              763,
+              871,
+              1854,
+              895
+            ],
+            "baseline": [
+              0,
+              0
+            ],
+            "x_size": 31.910704,
+            "x_descenders": 6.8511238,
+            "x_ascenders": 8.28125
+          },
+          "text": "co.\n      W.\n      14th\n      Ho",
+          "previousLineIndex": 105
+        },
+        {
+          "properties": {
+            "bbox": [
+              701,
+              902,
+              1839,
+              937
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "Ledyard\n      William\n      8.\n      34\n      Broadway,\n      h.\n      150\n      Hicks,\n      a",
+          "columnIndex": 1,
+          "nextLineIndex": 108,
+          "completeText": "Ledyard\n      William\n      8.\n      34\n      Broadway,\n      h.\n      150\n      Hicks,\n      a Brooklyn"
+        },
+        {
+          "properties": {
+            "bbox": [
+              764,
+              936,
+              891,
+              964
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 28,
+            "x_descenders": 5,
+            "x_ascenders": 7
+          },
+          "text": "Brooklyn",
+          "previousLineIndex": 107
+        },
+        {
+          "properties": {
+            "bbox": [
+              702,
+              965,
+              1860,
+              999
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 4,
+            "x_ascenders": 11
+          },
+          "text": "Lee\n      Abijah,\n      carman,\n      E.\n      33d\n      n.\n      Av.\n      2\n      i",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Abijah,\n      carman,\n      E.\n      33d\n      n.\n      Av.\n      2\n      i"
+        },
+        {
+          "properties": {
+            "bbox": [
+              702,
+              993,
+              1839,
+              1027
+            ],
+            "baseline": [
+              0,
+              -4
+            ],
+            "x_size": 29,
+            "x_descenders": 5,
+            "x_ascenders": 7
+          },
+          "text": "Lee\n      Ann,\n      widow\n      216\n      Elizabeth\n      |",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Ann,\n      widow\n      216\n      Elizabeth\n      |"
+        },
+        {
+          "properties": {
+            "bbox": [
+              702,
+              1030,
+              1839,
+              1063
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      Benjamin\n      F.\n      india\n      rubber,\n      98\n      Broadway,\n      h.\n      57\n      :",
+          "columnIndex": 1,
+          "nextLineIndex": 112,
+          "completeText": "Lee\n      Benjamin\n      F.\n      india\n      rubber,\n      98\n      Broadway,\n      h.\n      57\n      : E,\n      16th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              765,
+              1063,
+              875,
+              1087
+            ],
+            "baseline": [
+              0,
+              0
+            ],
+            "x_size": 28.014654,
+            "x_descenders": 6.0146546,
+            "x_ascenders": 7.270174
+          },
+          "text": "E,\n      16th",
+          "previousLineIndex": 111
+        },
+        {
+          "properties": {
+            "bbox": [
+              703,
+              1094,
+              1463,
+              1128
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 33,
+            "x_descenders": 9,
+            "x_ascenders": 7
+          },
+          "text": "Lee\n      Benjamin\n      C.\n      merchant,\n      36\n      New,\n      h.\n      685\n      B.way",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Benjamin\n      C.\n      merchant,\n      36\n      New,\n      h.\n      685\n      B.way"
+        },
+        {
+          "properties": {
+            "bbox": [
+              703,
+              1127,
+              1194,
+              1159
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      Bernard,\n      grocer,\n      194\n      EK.\n      11th",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Bernard,\n      grocer,\n      194\n      EK.\n      11th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              703,
+              1159,
+              1193,
+              1189
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 30,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "Lee\n      Bernard,\n      tailor,\n      185\n      W.\n      18th",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Bernard,\n      tailor,\n      185\n      W.\n      18th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              703,
+              1191,
+              1457,
+              1220
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 28,
+            "x_descenders": 5,
+            "x_ascenders": 7
+          },
+          "text": "Lee\n      Catharine,\n      widow\n      of\n      John,\n      nurse,\n      110\n      E.\n      27th",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Catharine,\n      widow\n      of\n      John,\n      nurse,\n      110\n      E.\n      27th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              703,
+              1222,
+              1278,
+              1255
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 29,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      Charles,\n      blacking,\n      1\n      John,\n      h.\n      L.\n      I.",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Charles,\n      blacking,\n      1\n      John,\n      h.\n      L.\n      I."
+        },
+        {
+          "properties": {
+            "bbox": [
+              703,
+              1255,
+              1394,
+              1285
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "Lee\n      Charles\n      (colâ€™d)\n      whitewasher,\n      46\n      Carmine",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Charles\n      (colâ€™d)\n      whitewasher,\n      46\n      Carmine"
+        },
+        {
+          "properties": {
+            "bbox": [
+              703,
+              1287,
+              1258,
+              1318
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      Charles\n      A.\n      physician,\n      82\n      Fourth",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Charles\n      A.\n      physician,\n      82\n      Fourth"
+        },
+        {
+          "properties": {
+            "bbox": [
+              704,
+              1318,
+              1837,
+              1350
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      Daniel,\n      com.\n      gen.\n      30\n      Franklin\n      if",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Daniel,\n      com.\n      gen.\n      30\n      Franklin\n      if"
+        },
+        {
+          "properties": {
+            "bbox": [
+              703,
+              1350,
+              1479,
+              1380
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      Daniel\n      F.\n      wireshades,\n      309\n      Bleecker,\n      h.\n      309",
+          "columnIndex": 1,
+          "nextLineIndex": 122,
+          "completeText": "Lee\n      Daniel\n      F.\n      wireshades,\n      309\n      Bleecker,\n      h.\n      309 Bleecker"
+        },
+        {
+          "properties": {
+            "bbox": [
+              767,
+              1382,
+              903,
+              1406
+            ],
+            "baseline": [
+              0,
+              -1
+            ],
+            "x_size": 29.533306,
+            "x_descenders": 6.5333071,
+            "x_ascenders": 7
+          },
+          "text": "Bleecker",
+          "previousLineIndex": 121
+        },
+        {
+          "properties": {
+            "bbox": [
+              704,
+              1413,
+              1373,
+              1446
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 30,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      David,\n      late\n      merchant,\n      h.\n      27\n      Union\n      place",
+          "columnIndex": 1,
+          "completeText": "Lee\n      David,\n      late\n      merchant,\n      h.\n      27\n      Union\n      place"
+        },
+        {
+          "properties": {
+            "bbox": [
+              704,
+              1446,
+              1260,
+              1477
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      David\n      F.\n      carman,\n      82\n      Christopher",
+          "columnIndex": 1,
+          "completeText": "Lee\n      David\n      F.\n      carman,\n      82\n      Christopher"
+        },
+        {
+          "properties": {
+            "bbox": [
+              705,
+              1478,
+              1225,
+              1507
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 29,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      David\n      F.\n      tailor,\n      r.\n      234\n      Broome",
+          "columnIndex": 1,
+          "completeText": "Lee\n      David\n      F.\n      tailor,\n      r.\n      234\n      Broome"
+        },
+        {
+          "properties": {
+            "bbox": [
+              705,
+              1510,
+              1211,
+              1539
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 29,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      Deborah\n      J.\n      nurse,\n      310\n      Second",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Deborah\n      J.\n      nurse,\n      310\n      Second"
+        },
+        {
+          "properties": {
+            "bbox": [
+              705,
+              1541,
+              1344,
+              1571
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 30,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      Eliza,\n      widow\n      of\n      Charles,\n      87\n      Beekman",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Eliza,\n      widow\n      of\n      Charles,\n      87\n      Beekman"
+        },
+        {
+          "properties": {
+            "bbox": [
+              704,
+              1574,
+              1282,
+              1603
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      Frank,\n      cutter,\n      h.\n      W.\n      4ist\n      n.\n      Av.\n      9",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Frank,\n      cutter,\n      h.\n      W.\n      4ist\n      n.\n      Av.\n      9"
+        },
+        {
+          "properties": {
+            "bbox": [
+              705,
+              1605,
+              1310,
+              1637
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      Franklin\n      V.\n      mason,\n      3\n      Minetta\n      place",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Franklin\n      V.\n      mason,\n      3\n      Minetta\n      place"
+        },
+        {
+          "properties": {
+            "bbox": [
+              705,
+              1638,
+              1482,
+              1671
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 33,
+            "x_descenders": 8,
+            "x_ascenders": 9
+          },
+          "text": "Lee\n      Frederick\n      A.\n      drygoods,\n      22\n      Cortlandt,\n      h.\n      Bklyn",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Frederick\n      A.\n      drygoods,\n      22\n      Cortlandt,\n      h.\n      Bklyn"
+        },
+        {
+          "properties": {
+            "bbox": [
+              705,
+              1670,
+              1481,
+              1703
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      Frederick\n      R.\n      hardware,\n      245\n      Bowery,\n      h.\n      245",
+          "columnIndex": 1,
+          "nextLineIndex": 132,
+          "completeText": "Lee\n      Frederick\n      R.\n      hardware,\n      245\n      Bowery,\n      h.\n      245 Bowery"
+        },
+        {
+          "properties": {
+            "bbox": [
+              768,
+              1702,
+              886,
+              1732
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 30,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "Bowery",
+          "previousLineIndex": 131
+        },
+        {
+          "properties": {
+            "bbox": [
+              706,
+              1733,
+              1211,
+              1765
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 29,
+            "x_descenders": 5,
+            "x_ascenders": 7
+          },
+          "text": "Lee\n      George,\n      carman,\n      297\n      W.\n      18th",
+          "columnIndex": 1,
+          "completeText": "Lee\n      George,\n      carman,\n      297\n      W.\n      18th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              705,
+              1765,
+              1275,
+              1797
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 33,
+            "x_descenders": 9,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      George\n      W.\n      machinist,\n      46\n      Norfolk",
+          "columnIndex": 1,
+          "completeText": "Lee\n      George\n      W.\n      machinist,\n      46\n      Norfolk"
+        },
+        {
+          "properties": {
+            "bbox": [
+              706,
+              1797,
+              1481,
+              1828
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 6,
+            "x_ascenders": 10
+          },
+          "text": "Lee\n      George\n      W.\n      broker,\n      240\n      Division,\n      h.\n      22\n      Norfolk",
+          "columnIndex": 1,
+          "completeText": "Lee\n      George\n      W.\n      broker,\n      240\n      Division,\n      h.\n      22\n      Norfolk"
+        },
+        {
+          "properties": {
+            "bbox": [
+              706,
+              1829,
+              1248,
+              1860
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      Henry,\n      blacksmith,\n      330\n      Monroe",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Henry,\n      blacksmith,\n      330\n      Monroe"
+        },
+        {
+          "properties": {
+            "bbox": [
+              706,
+              1861,
+              1307,
+              1892
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 31,
+            "x_descenders": 8,
+            "x_ascenders": 7
+          },
+          "text": "Lee\n      Henry\n      T.\n      trunkmaker,\n      267\n      Division",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Henry\n      T.\n      trunkmaker,\n      267\n      Division"
+        },
+        {
+          "properties": {
+            "bbox": [
+              706,
+              1892,
+              1478,
+              1925
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      Henry\n      M.\n      whiting\n      manufacturer,\n      179\n      William,",
+          "columnIndex": 1,
+          "nextLineIndex": 139,
+          "completeText": "Lee\n      Henry\n      M.\n      whiting\n      manufacturer,\n      179\n      William, h.\n      113\n      Sands,\n      Brooklyn"
+        },
+        {
+          "properties": {
+            "bbox": [
+              769,
+              1923,
+              1102,
+              1955
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "h.\n      113\n      Sands,\n      Brooklyn",
+          "previousLineIndex": 138
+        },
+        {
+          "properties": {
+            "bbox": [
+              706,
+              1956,
+              1209,
+              1985
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 29,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      James,\n      feed,\n      Av.\n      An.\n      E.\n      13th",
+          "columnIndex": 1,
+          "completeText": "Lee\n      James,\n      feed,\n      Av.\n      An.\n      E.\n      13th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              706,
+              1988,
+              1449,
+              2021
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 9
+          },
+          "text": "Lee\n      James,\n      oysters,\n      194\n      Stanton,\n      h.\n      r.\n      154\n      Norfolk",
+          "columnIndex": 1,
+          "completeText": "Lee\n      James,\n      oysters,\n      194\n      Stanton,\n      h.\n      r.\n      154\n      Norfolk"
+        },
+        {
+          "properties": {
+            "bbox": [
+              706,
+              2020,
+              1481,
+              2053
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "LEE\n      JAMES\n      &\n      CO.\n      importers,\n      36\n      New,\n      h.\n      685",
+          "columnIndex": 1,
+          "nextLineIndex": 143,
+          "completeText": "LEE\n      JAMES\n      &\n      CO.\n      importers,\n      36\n      New,\n      h.\n      685 Broadway"
+        },
+        {
+          "properties": {
+            "bbox": [
+              768,
+              2052,
+              922,
+              2083
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Broadway",
+          "previousLineIndex": 142
+        },
+        {
+          "properties": {
+            "bbox": [
+              706,
+              2083,
+              1466,
+              2117
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 7
+          },
+          "text": "Lee\n      James\n      C.\n      physician,\n      175\n      Spring\n      ,",
+          "columnIndex": 1,
+          "completeText": "Lee\n      James\n      C.\n      physician,\n      175\n      Spring\n      ,"
+        },
+        {
+          "properties": {
+            "bbox": [
+              706,
+              2115,
+              1238,
+              2146
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "Lee\n      John,\n      chairmaker,\n      355\n      Twelfth",
+          "columnIndex": 1,
+          "completeText": "Lee\n      John,\n      chairmaker,\n      355\n      Twelfth"
+        },
+        {
+          "properties": {
+            "bbox": [
+              706,
+              2147,
+              1355,
+              2181
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 9
+          },
+          "text": "Lee\n      John,\n      silkfringe,\n      h.\n      r.\n      W,\n      35th\n      n.\n      Av\n      9",
+          "columnIndex": 1,
+          "completeText": "Lee\n      John,\n      silkfringe,\n      h.\n      r.\n      W,\n      35th\n      n.\n      Av\n      9"
+        },
+        {
+          "properties": {
+            "bbox": [
+              706,
+              2179,
+              1156,
+              2210
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 30,
+            "x_descenders": 7,
+            "x_ascenders": 6
+          },
+          "text": "Lee\n      John,\n      mariner,\n      428\n      Water",
+          "columnIndex": 1,
+          "completeText": "Lee\n      John,\n      mariner,\n      428\n      Water"
+        },
+        {
+          "properties": {
+            "bbox": [
+              706,
+              2211,
+              1139,
+              2243
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      John,\n      produce,\n      95\n      Av.\n      A",
+          "columnIndex": 1,
+          "completeText": "Lee\n      John,\n      produce,\n      95\n      Av.\n      A"
+        },
+        {
+          "properties": {
+            "bbox": [
+              705,
+              2243,
+              1182,
+              2273
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 9
+          },
+          "text": "Lee\n      John,\n      laborer,\n      195\n      Franklin",
+          "columnIndex": 1,
+          "completeText": "Lee\n      John,\n      laborer,\n      195\n      Franklin"
+        },
+        {
+          "properties": {
+            "bbox": [
+              706,
+              2275,
+              1128,
+              2306
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      John,\n      cooper,\n      28\n      Sheriff",
+          "columnIndex": 1,
+          "completeText": "Lee\n      John,\n      cooper,\n      28\n      Sheriff"
+        },
+        {
+          "properties": {
+            "bbox": [
+              705,
+              2307,
+              1202,
+              2338
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "Lee\n      John,\n      porterhouse,\n      64\n      Centre",
+          "columnIndex": 1,
+          "completeText": "Lee\n      John,\n      porterhouse,\n      64\n      Centre"
+        },
+        {
+          "properties": {
+            "bbox": [
+              705,
+              2339,
+              1237,
+              2373
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 33,
+            "x_descenders": 9,
+            "x_ascenders": 7
+          },
+          "text": "Lee\n      John\n      (colâ€™d)\n      market,\n      3\n      Factory",
+          "columnIndex": 1,
+          "completeText": "Lee\n      John\n      (colâ€™d)\n      market,\n      3\n      Factory"
+        },
+        {
+          "properties": {
+            "bbox": [
+              705,
+              2371,
+              1419,
+              2402
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      John\n      jr.\n      pickles,\n      217\n      Water,\n      h.\n      497\n      Hudson",
+          "columnIndex": 1,
+          "completeText": "Lee\n      John\n      jr.\n      pickles,\n      217\n      Water,\n      h.\n      497\n      Hudson"
+        },
+        {
+          "properties": {
+            "bbox": [
+              705,
+              2402,
+              1362,
+              2438
+            ],
+            "baseline": [
+              0,
+              -12
+            ],
+            "x_size": 29,
+            "x_descenders": 5,
+            "x_ascenders": 7
+          },
+          "text": "Lee\n      John\n      D.\n      soap,\n      137\n      Wooster,\n      h.\n      34\n      Vesey",
+          "columnIndex": 1,
+          "completeText": "Lee\n      John\n      D.\n      soap,\n      137\n      Wooster,\n      h.\n      34\n      Vesey"
+        },
+        {
+          "properties": {
+            "bbox": [
+              705,
+              2434,
+              1263,
+              2466
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "Lee\n      John\n      V.\n      pianomaker,\n      259\n      E.\n      25th",
+          "columnIndex": 1,
+          "completeText": "Lee\n      John\n      V.\n      pianomaker,\n      259\n      E.\n      25th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              705,
+              2467,
+              1419,
+              2498
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 29,
+            "x_descenders": 4,
+            "x_ascenders": 9
+          },
+          "text": "Lee\n      John\n      H.\n      lawyer,\n      15\n      Centre,\n      h.\n      109\n      Bleecker",
+          "columnIndex": 1,
+          "completeText": "Lee\n      John\n      H.\n      lawyer,\n      15\n      Centre,\n      h.\n      109\n      Bleecker"
+        },
+        {
+          "properties": {
+            "bbox": [
+              705,
+              2499,
+              1235,
+              2529
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 29,
+            "x_descenders": 5,
+            "x_ascenders": 7
+          },
+          "text": "Lee\n      Johnson\n      P.\n      merchant,\n      44\n      Cedar",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Johnson\n      P.\n      merchant,\n      44\n      Cedar"
+        },
+        {
+          "properties": {
+            "bbox": [
+              706,
+              2531,
+              1480,
+              2562
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 30,
+            "x_descenders": 5,
+            "x_ascenders": 9
+          },
+          "text": "LEE\n      JOSEPH,\n      tailor,\n      3\n      Nassau,\n      h.\n      E.\n      13th\n      n.\n      Av.\n      2",
+          "columnIndex": 1,
+          "completeText": "LEE\n      JOSEPH,\n      tailor,\n      3\n      Nassau,\n      h.\n      E.\n      13th\n      n.\n      Av.\n      2"
+        },
+        {
+          "properties": {
+            "bbox": [
+              705,
+              2563,
+              1310,
+              2597
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      Joseph,\n      tailor,\n      171\n      Fulton,\n      h.\n      30\n      Dey",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Joseph,\n      tailor,\n      171\n      Fulton,\n      h.\n      30\n      Dey"
+        },
+        {
+          "properties": {
+            "bbox": [
+              705,
+              2594,
+              1453,
+              2629
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 29,
+            "x_descenders": 5,
+            "x_ascenders": 7
+          },
+          "text": "Lee\n      Leonard,\n      broker,\n      62\n      Mers.\n      Ex.\n      h.\n      348\n      Bowery",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Leonard,\n      broker,\n      62\n      Mers.\n      Ex.\n      h.\n      348\n      Bowery"
+        },
+        {
+          "properties": {
+            "bbox": [
+              706,
+              2627,
+              1243,
+              2660
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      Leonard,\n      porter,\n      r.\n      192\n      Delancy",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Leonard,\n      porter,\n      r.\n      192\n      Delancy"
+        },
+        {
+          "properties": {
+            "bbox": [
+              705,
+              2658,
+              1424,
+              2692
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      Luther\n      (Rev.)\n      editor,\n      5\n      Spruce,\n      h.\n      80\n      Third",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Luther\n      (Rev.)\n      editor,\n      5\n      Spruce,\n      h.\n      80\n      Third"
+        },
+        {
+          "properties": {
+            "bbox": [
+              706,
+              2690,
+              1385,
+              2722
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      Martha,\n      widow\n      of\n      Moore,\n      h.\n      17\n      Harrison",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Martha,\n      widow\n      of\n      Moore,\n      h.\n      17\n      Harrison"
+        },
+        {
+          "properties": {
+            "bbox": [
+              706,
+              2722,
+              1127,
+              2754
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 31,
+            "x_descenders": 8,
+            "x_ascenders": 6
+          },
+          "text": "Lee\n      Mary\n      A.\n      r.\n      190\n      Wooster",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Mary\n      A.\n      r.\n      190\n      Wooster"
+        },
+        {
+          "properties": {
+            "bbox": [
+              706,
+              2754,
+              1478,
+              2787
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      Mary\n      Eliza,\n      widow\n      of\n      John,\n      fancystore,\n      362",
+          "columnIndex": 1,
+          "nextLineIndex": 166,
+          "completeText": "Lee\n      Mary\n      Eliza,\n      widow\n      of\n      John,\n      fancystore,\n      362 Bower"
+        },
+        {
+          "properties": {
+            "bbox": [
+              769,
+              2786,
+              866,
+              2810
+            ],
+            "baseline": [
+              0,
+              -1
+            ],
+            "x_size": 29.533306,
+            "x_descenders": 6.5333071,
+            "x_ascenders": 7
+          },
+          "text": "Bower",
+          "previousLineIndex": 165
+        },
+        {
+          "properties": {
+            "bbox": [
+              707,
+              2817,
+              1150,
+              2849
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "Lee\n      Michael,\n      tailor,\n      2\n      Pelham",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Michael,\n      tailor,\n      2\n      Pelham"
+        },
+        {
+          "properties": {
+            "bbox": [
+              707,
+              2849,
+              1265,
+              2883
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 33,
+            "x_descenders": 8,
+            "x_ascenders": 9
+          },
+          "text": "Lee\n      Michael,\n      blacksmith,\n      316\n      Eighth",
+          "columnIndex": 1,
+          "completeText": "Lee\n      Michael,\n      blacksmith,\n      316\n      Eighth"
+        },
+        {
+          "properties": {
+            "bbox": [
+              707,
+              2881,
+              1200,
+              2914
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "Lee\n      Michael,\n      waiter,\n      r.\n      63\n      Ridge",
+          "columnIndex": 1,
+          "nextLineIndex": 170,
+          "completeText": "Lee\n      Michael,\n      waiter,\n      r.\n      63\n      Ridge *"
+        },
+        {
+          "properties": {
+            "bbox": [
+              887,
+              2929,
+              895,
+              2937
+            ],
+            "baseline": [
+              0,
+              0
+            ],
+            "x_size": 20,
+            "x_descenders": 5,
+            "x_ascenders": 5
+          },
+          "text": "*",
+          "previousLineIndex": 169
+        }
+      ],
+      "columns": [
+        0,
+        706
+      ],
+      "linesPerColumn": [
+        84,
+        74
+      ],
+      "minLinesPerColumn": true
+    }
+  ]
+}

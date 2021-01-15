@@ -1,0 +1,6 @@
+1- Tesseract-on-input: Script takes all inputs (images) and produces json file corresponding to each page with tesseract text output
+
+2- tess-output has script for collecting test data from all json files, and cleaning them.
+
+3- parsin-folder has code for running parsing process customized for the directory.
+

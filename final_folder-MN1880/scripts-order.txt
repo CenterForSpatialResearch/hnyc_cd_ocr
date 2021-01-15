@@ -1,0 +1,16 @@
+1- Tesseract-on-input: Script MN1880-81 takes all inputs and produces json file corresponding to each page with tesseract text output
+
+2- tess-output has sciprt for collecting test data from all json files, and cleaning them.
+
+3- city-directory-entry-parser has code for running parsing process customized for the directory.
+
+hocr-detect-columns has code that is used by tesseract process for work with indendation of text
+
+input-data-for-CRF has training and validation data for training CRF (customized to each directory)
+
+MN_scrapedlinks has all links scraped from NYPL website
+
+linksindexing is a spreadsheet with links used for indexing of pages (after removing unwanted pages such as for ads, book covers)
+
+
+

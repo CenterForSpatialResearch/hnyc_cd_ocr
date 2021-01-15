@@ -1,0 +1,2773 @@
+{
+  "config": {
+    "columnCount": 2,
+    "characterWidth": 25,
+    "minLinesPerColumn": 50
+  },
+  "pages": [
+    {
+      "number": 0,
+      "properties": {
+        "image": "saved.tif",
+        "bbox": [
+          0,
+          0,
+          1679,
+          2716
+        ],
+        "ppageno": 0
+      },
+      "lines": [
+        {
+          "properties": {
+            "bbox": [
+              86,
+              253,
+              677,
+              285
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarren\n      Michael,\n      liquors,\n      429\n      Warren",
+          "columnIndex": 0,
+          "completeText": "McCarren\n      Michael,\n      liquors,\n      429\n      Warren"
+        },
+        {
+          "properties": {
+            "bbox": [
+              86,
+              283,
+              697,
+              317
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 9
+          },
+          "text": "McCarren\n      Patrick\n      H.\n      cooper,\n      h\n      77\n      N.\n      4th",
+          "columnIndex": 0,
+          "completeText": "McCarren\n      Patrick\n      H.\n      cooper,\n      h\n      77\n      N.\n      4th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              86,
+              316,
+              738,
+              349
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "MecCarrick\n      Francis,\n      lab.\n      h\n      200\n      Hamilton\n      av",
+          "columnIndex": 0,
+          "completeText": "MecCarrick\n      Francis,\n      lab.\n      h\n      200\n      Hamilton\n      av"
+        },
+        {
+          "properties": {
+            "bbox": [
+              86,
+              348,
+              642,
+              381
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarrick\n      John,\n      florist,\n      h\n      74\n      Carroll",
+          "columnIndex": 0,
+          "completeText": "McCarrick\n      John,\n      florist,\n      h\n      74\n      Carroll"
+        },
+        {
+          "properties": {
+            "bbox": [
+              85,
+              380,
+              752,
+              414
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarrick\n      John,\n      shipwright,\n      13\n      Summit,\n      h",
+          "columnIndex": 0,
+          "nextLineIndex": 5,
+          "completeText": "McCarrick\n      John,\n      shipwright,\n      13\n      Summit,\n      h 43\n      Woodhull"
+        },
+        {
+          "properties": {
+            "bbox": [
+              150,
+              413,
+              341,
+              437
+            ],
+            "baseline": [
+              0,
+              -1
+            ],
+            "x_size": 30.471495,
+            "x_descenders": 7.4714952,
+            "x_ascenders": 8
+          },
+          "text": "43\n      Woodhull",
+          "previousLineIndex": 4
+        },
+        {
+          "properties": {
+            "bbox": [
+              86,
+              443,
+              627,
+              476
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarroll\n      Owen,\n      oils,\n      h\n      98\n      Oakland",
+          "columnIndex": 0,
+          "completeText": "McCarroll\n      Owen,\n      oils,\n      h\n      98\n      Oakland"
+        },
+        {
+          "properties": {
+            "bbox": [
+              85,
+              475,
+              753,
+              508
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 9
+          },
+          "text": "McCarroll\n      Owen,\n      peddler,\n      h\n      14\n      Vanderbilt\n      av",
+          "columnIndex": 0,
+          "completeText": "McCarroll\n      Owen,\n      peddler,\n      h\n      14\n      Vanderbilt\n      av"
+        },
+        {
+          "properties": {
+            "bbox": [
+              86,
+              508,
+              627,
+              540
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "McCarroll\n      Thomas,\n      lab.\n      bh\n      r\n      39\n      Gold",
+          "columnIndex": 0,
+          "completeText": "McCarroll\n      Thomas,\n      lab.\n      bh\n      r\n      39\n      Gold"
+        },
+        {
+          "properties": {
+            "bbox": [
+              87,
+              540,
+              723,
+              573
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarron\n      Daniel,\n      driver,\n      h\n      322\n      Plymouth",
+          "columnIndex": 0,
+          "completeText": "McCarron\n      Daniel,\n      driver,\n      h\n      322\n      Plymouth"
+        },
+        {
+          "properties": {
+            "bbox": [
+              86,
+              572,
+              754,
+              606
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarron\n      Hugh,\n      engineer,\n      h\n      566\n      Manhat-",
+          "columnIndex": 0,
+          "nextLineIndex": 11,
+          "completeText": "McCarron\n      Hugh,\n      engineer,\n      h\n      566\n      Manhattan\n      avâ€�"
+        },
+        {
+          "properties": {
+            "bbox": [
+              151,
+              606,
+              266,
+              630
+            ],
+            "baseline": [
+              0,
+              -1
+            ],
+            "x_size": 30.969595,
+            "x_descenders": 7.969595,
+            "x_ascenders": 7
+          },
+          "text": "tan\n      avâ€�",
+          "previousLineIndex": 10
+        },
+        {
+          "properties": {
+            "bbox": [
+              86,
+              636,
+              674,
+              670
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 33,
+            "x_descenders": 8,
+            "x_ascenders": 9
+          },
+          "text": "McCarron\n      James,\n      driver,\n      h\n      $0\n      Tremont",
+          "columnIndex": 0,
+          "completeText": "McCarron\n      James,\n      driver,\n      h\n      $0\n      Tremont"
+        },
+        {
+          "properties": {
+            "bbox": [
+              86,
+              669,
+              612,
+              702
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 33,
+            "x_descenders": 8,
+            "x_ascenders": 9
+          },
+          "text": "McCarron\n      James,\n      lab.\n      h\n      179\n      Water",
+          "columnIndex": 0,
+          "completeText": "McCarron\n      James,\n      lab.\n      h\n      179\n      Water"
+        },
+        {
+          "properties": {
+            "bbox": [
+              86,
+              701,
+              611,
+              735
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarron\n      Patrick,\n      tailor,\n      19\n      Hicks",
+          "columnIndex": 0,
+          "completeText": "McCarron\n      Patrick,\n      tailor,\n      19\n      Hicks"
+        },
+        {
+          "properties": {
+            "bbox": [
+              86,
+              734,
+              752,
+              768
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 7
+          },
+          "text": "McCart\n      Alexander,\n      livery,\n      221\n      Washington,",
+          "columnIndex": 0,
+          "nextLineIndex": 16,
+          "completeText": "McCart\n      Alexander,\n      livery,\n      221\n      Washington, h\n      10\n      Tillary"
+        },
+        {
+          "properties": {
+            "bbox": [
+              150,
+              767,
+              327,
+              799
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 33.371246,
+            "x_descenders": 8.25,
+            "x_ascenders": 8.5582962
+          },
+          "text": "h\n      10\n      Tillary",
+          "previousLineIndex": 15
+        },
+        {
+          "properties": {
+            "bbox": [
+              86,
+              797,
+              575,
+              831
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 33,
+            "x_descenders": 8,
+            "x_ascenders": 9
+          },
+          "text": "McCart\n      Patrick,\n      lab.\n      h\n      170\n      West",
+          "columnIndex": 0,
+          "completeText": "McCart\n      Patrick,\n      lab.\n      h\n      170\n      West"
+        },
+        {
+          "properties": {
+            "bbox": [
+              85,
+              830,
+              751,
+              864
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCartee\n      Peter,\n      hardware,\n      79\n      Chambers\n      N,",
+          "columnIndex": 0,
+          "nextLineIndex": 19,
+          "completeText": "McCartee\n      Peter,\n      hardware,\n      79\n      Chambers\n      N, Y.\n      h\n      10\n      Pineapple"
+        },
+        {
+          "properties": {
+            "bbox": [
+              152,
+              864,
+              416,
+              896
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "Y.\n      h\n      10\n      Pineapple",
+          "previousLineIndex": 18
+        },
+        {
+          "properties": {
+            "bbox": [
+              87,
+              895,
+              707,
+              929
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarten\n      Annie,\n      wid.\n      Frank,\n      h\n      [29\n      15th",
+          "columnIndex": 0,
+          "completeText": "McCarten\n      Annie,\n      wid.\n      Frank,\n      h\n      [29\n      15th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              86,
+              927,
+              753,
+              961
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 7
+          },
+          "text": "McCarter\n      James,\n      machinist,\n      bh\n      33\n      N.\n      Port-",
+          "columnIndex": 0,
+          "nextLineIndex": 22,
+          "completeText": "McCarter\n      James,\n      machinist,\n      bh\n      33\n      N.\n      PortJand\n      av"
+        },
+        {
+          "properties": {
+            "bbox": [
+              151,
+              960,
+              269,
+              985
+            ],
+            "baseline": [
+              0,
+              -2
+            ],
+            "x_size": 30.969595,
+            "x_descenders": 7.969595,
+            "x_ascenders": 7
+          },
+          "text": "Jand\n      av",
+          "previousLineIndex": 21
+        },
+        {
+          "properties": {
+            "bbox": [
+              86,
+              991,
+              753,
+              1026
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 34,
+            "x_descenders": 9,
+            "x_ascenders": 8
+          },
+          "text": "McCarter\n      John,\n      grocer,\n      47\n      Reade\n      N.Y.\n      h\n      615",
+          "columnIndex": 0,
+          "nextLineIndex": 24,
+          "completeText": "McCarter\n      John,\n      grocer,\n      47\n      Reade\n      N.Y.\n      h\n      615 Carlton\n      av"
+        },
+        {
+          "properties": {
+            "bbox": [
+              151,
+              1025,
+              311,
+              1049
+            ],
+            "baseline": [
+              0,
+              -1
+            ],
+            "x_size": 31.969595,
+            "x_descenders": 7.969595,
+            "x_ascenders": 8
+          },
+          "text": "Carlton\n      av",
+          "previousLineIndex": 23
+        },
+        {
+          "properties": {
+            "bbox": [
+              84,
+              1056,
+              633,
+              1089
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCartey\n      Patrick,\n      lab.\n      h\n      701\n      Butler",
+          "columnIndex": 0,
+          "completeText": "McCartey\n      Patrick,\n      lab.\n      h\n      701\n      Butler"
+        },
+        {
+          "properties": {
+            "bbox": [
+              85,
+              1088,
+              754,
+              1122
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Abagail,\n      wid.\n      Cornelius,\n      intelli-",
+          "columnIndex": 0,
+          "nextLineIndex": 27,
+          "completeText": "McCarthy\n      Abagail,\n      wid.\n      Cornelius,\n      intelligence,\n      51\n      Taylor"
+        },
+        {
+          "properties": {
+            "bbox": [
+              150,
+              1122,
+              403,
+              1153
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "gence,\n      51\n      Taylor",
+          "previousLineIndex": 26
+        },
+        {
+          "properties": {
+            "bbox": [
+              86,
+              1153,
+              751,
+              1186
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Adeline,\n      wid.\n      Chas.\n      h\n      446\n      Adelphi",
+          "columnIndex": 0,
+          "completeText": "McCarthy\n      Adeline,\n      wid.\n      Chas.\n      h\n      446\n      Adelphi"
+        },
+        {
+          "properties": {
+            "bbox": [
+              86,
+              1185,
+              752,
+              1219
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Ann,\n      wid.\n      Florence,\n      hr\n      412\n      War-",
+          "columnIndex": 0,
+          "nextLineIndex": 30,
+          "completeText": "McCarthy\n      Ann,\n      wid.\n      Florence,\n      hr\n      412\n      Warren"
+        },
+        {
+          "properties": {
+            "bbox": [
+              151,
+              1225,
+              199,
+              1242
+            ],
+            "baseline": [
+              0,
+              -1
+            ],
+            "x_size": 33.371246,
+            "x_descenders": 8.25,
+            "x_ascenders": 8.5582962
+          },
+          "text": "ren",
+          "previousLineIndex": 29
+        },
+        {
+          "properties": {
+            "bbox": [
+              86,
+              1249,
+              754,
+              1282
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Benjamin,\n      furrier,\n      h\n      118\n      Sandford",
+          "columnIndex": 0,
+          "completeText": "McCarthy\n      Benjamin,\n      furrier,\n      h\n      118\n      Sandford"
+        },
+        {
+          "properties": {
+            "bbox": [
+              86,
+              1281,
+              696,
+              1315
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Benjamin\n      F.\n      lab.\n      h\n      21\n      Maujer",
+          "columnIndex": 0,
+          "completeText": "McCarthy\n      Benjamin\n      F.\n      lab.\n      h\n      21\n      Maujer"
+        },
+        {
+          "properties": {
+            "bbox": [
+              87,
+              1313,
+              600,
+              1346
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Bernard,\n      agt.\n      h\n      65\n      16th",
+          "columnIndex": 0,
+          "completeText": "McCarthy\n      Bernard,\n      agt.\n      h\n      65\n      16th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              86,
+              1345,
+              751,
+              1380
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 33,
+            "x_descenders": 8,
+            "x_ascenders": 9
+          },
+          "text": "MeCarthy\n      Catharine,\n      wid.\n      Florence,\n      h\n      224",
+          "columnIndex": 0,
+          "nextLineIndex": 35,
+          "completeText": "MeCarthy\n      Catharine,\n      wid.\n      Florence,\n      h\n      224 4th\n      E.D."
+        },
+        {
+          "properties": {
+            "bbox": [
+              151,
+              1379,
+              277,
+              1402
+            ],
+            "baseline": [
+              0,
+              0
+            ],
+            "x_size": 33.371246,
+            "x_descenders": 8.25,
+            "x_ascenders": 8.5582962
+          },
+          "text": "4th\n      E.D.",
+          "previousLineIndex": 34
+        },
+        {
+          "properties": {
+            "bbox": [
+              86,
+              1409,
+              751,
+              1444
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Catharine\n      E.\n      wid.\n      Patrick,\n      baker,",
+          "columnIndex": 0,
+          "nextLineIndex": 37,
+          "completeText": "McCarthy\n      Catharine\n      E.\n      wid.\n      Patrick,\n      baker, h\n      195\n      Tillary"
+        },
+        {
+          "properties": {
+            "bbox": [
+              152,
+              1442,
+              343,
+              1473
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 9
+          },
+          "text": "h\n      195\n      Tillary",
+          "previousLineIndex": 36
+        },
+        {
+          "properties": {
+            "bbox": [
+              86,
+              1474,
+              726,
+              1506
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Charles,\n      carpenter,\n      h\n      477\n      Grand",
+          "columnIndex": 0,
+          "completeText": "McCarthy\n      Charles,\n      carpenter,\n      h\n      477\n      Grand"
+        },
+        {
+          "properties": {
+            "bbox": [
+              86,
+              1506,
+              716,
+              1537
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 30,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Charles,\n      lab.\n      h\n      32\n      Front\n      .",
+          "columnIndex": 0,
+          "completeText": "McCarthy\n      Charles,\n      lab.\n      h\n      32\n      Front\n      ."
+        },
+        {
+          "properties": {
+            "bbox": [
+              85,
+              1536,
+              597,
+              1568
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Charles,\n      lab.\n      h\n      39\n      Gold",
+          "columnIndex": 0,
+          "completeText": "McCarthy\n      Charles,\n      lab.\n      h\n      39\n      Gold"
+        },
+        {
+          "properties": {
+            "bbox": [
+              85,
+              1568,
+              721,
+              1601
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 30,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "McCarthy\n      Charles,\n      molder,\n      h\n      20\n      Seabring",
+          "columnIndex": 0,
+          "completeText": "McCarthy\n      Charles,\n      molder,\n      h\n      20\n      Seabring"
+        },
+        {
+          "properties": {
+            "bbox": [
+              84,
+              1599,
+              751,
+              1633
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Charles\n      E.\n      principal,\n      224\n      Leonard,",
+          "columnIndex": 0,
+          "nextLineIndex": 43,
+          "completeText": "McCarthy\n      Charles\n      E.\n      principal,\n      224\n      Leonard, h\n      48\n      Columbia\n      hets\n      x"
+        },
+        {
+          "properties": {
+            "bbox": [
+              149,
+              1632,
+              715,
+              1664
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 31,
+            "x_descenders": 8,
+            "x_ascenders": 7
+          },
+          "text": "h\n      48\n      Columbia\n      hets\n      x",
+          "previousLineIndex": 42
+        },
+        {
+          "properties": {
+            "bbox": [
+              83,
+              1663,
+              752,
+              1695
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Charles\n      (Rev.)\n      h\n      Hopkinson\n      av\n      n",
+          "columnIndex": 0,
+          "nextLineIndex": 45,
+          "completeText": "McCarthy\n      Charles\n      (Rev.)\n      h\n      Hopkinson\n      av\n      n McDonough"
+        },
+        {
+          "properties": {
+            "bbox": [
+              149,
+              1696,
+              330,
+              1727
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 31,
+            "x_descenders": 8,
+            "x_ascenders": 7
+          },
+          "text": "McDonough",
+          "previousLineIndex": 44
+        },
+        {
+          "properties": {
+            "bbox": [
+              83,
+              1726,
+              709,
+              1758
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Cornelius,\n      cooper,\n      h\n      112\n      N.\n      6th",
+          "columnIndex": 0,
+          "completeText": "McCarthy\n      Cornelius,\n      cooper,\n      h\n      112\n      N.\n      6th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              83,
+              1759,
+              752,
+              1790
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 30,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "McCarthy\n      Cornelius,\n      lab.\n      h\n      196\n      Hamilton\n      av",
+          "columnIndex": 0,
+          "completeText": "McCarthy\n      Cornelius,\n      lab.\n      h\n      196\n      Hamilton\n      av"
+        },
+        {
+          "properties": {
+            "bbox": [
+              82,
+              1790,
+              751,
+              1822
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Cornelius\n      J.\n      envelopecutter,\n      h\n      36",
+          "columnIndex": 0,
+          "nextLineIndex": 49,
+          "completeText": "McCarthy\n      Cornelius\n      J.\n      envelopecutter,\n      h\n      36 Hudson\n      av"
+        },
+        {
+          "properties": {
+            "bbox": [
+              147,
+              1822,
+              309,
+              1846
+            ],
+            "baseline": [
+              0,
+              -1
+            ],
+            "x_size": 30.312786,
+            "x_descenders": 7.3127871,
+            "x_ascenders": 7
+          },
+          "text": "Hudson\n      av",
+          "previousLineIndex": 48
+        },
+        {
+          "properties": {
+            "bbox": [
+              83,
+              1853,
+              570,
+              1886
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 9
+          },
+          "text": "McCarthy\n      Daniel,\n      h\n      9\n      Sycamore",
+          "columnIndex": 0,
+          "completeText": "McCarthy\n      Daniel,\n      h\n      9\n      Sycamore"
+        },
+        {
+          "properties": {
+            "bbox": [
+              83,
+              1886,
+              673,
+              1918
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Daniel,\n      driver,\n      h\n      304\n      Maujer",
+          "columnIndex": 0,
+          "completeText": "McCarthy\n      Daniel,\n      driver,\n      h\n      304\n      Maujer"
+        },
+        {
+          "properties": {
+            "bbox": [
+              83,
+              1918,
+              750,
+              1952
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "McCarthy\n      Daniel,\n      grocer,\n      244\n      Smith,\n      h\n      177",
+          "columnIndex": 0,
+          "nextLineIndex": 53,
+          "completeText": "McCarthy\n      Daniel,\n      grocer,\n      244\n      Smith,\n      h\n      177 Smith"
+        },
+        {
+          "properties": {
+            "bbox": [
+              149,
+              1951,
+              238,
+              1975
+            ],
+            "baseline": [
+              0,
+              0
+            ],
+            "x_size": 32.49823,
+            "x_descenders": 7.5604396,
+            "x_ascenders": 8.3959389
+          },
+          "text": "Smith",
+          "previousLineIndex": 52
+        },
+        {
+          "properties": {
+            "bbox": [
+              83,
+              1983,
+              751,
+              2016
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 7
+          },
+          "text": "McCarthy\n      Danâ€™l,\n      harnessmkr.\n      58\n      Chauncey",
+          "columnIndex": 0,
+          "completeText": "McCarthy\n      Danâ€™l,\n      harnessmkr.\n      58\n      Chauncey"
+        },
+        {
+          "properties": {
+            "bbox": [
+              84,
+              2015,
+              640,
+              2048
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Daniel,\n      lab.\n      h\n      50\n      Congress",
+          "columnIndex": 0,
+          "completeText": "McCarthy\n      Daniel,\n      lab.\n      h\n      50\n      Congress"
+        },
+        {
+          "properties": {
+            "bbox": [
+              83,
+              2047,
+              692,
+              2081
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Dennis,\n      shipwright,\n      h\n      312\n      7th",
+          "columnIndex": 0,
+          "completeText": "McCarthy\n      Dennis,\n      shipwright,\n      h\n      312\n      7th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              83,
+              2079,
+              737,
+              2112
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 7,
+            "x_ascenders": 9
+          },
+          "text": "McCarthy\n      Dennis\n      F.\n      barkfr.\n      h\n      165\n      Devoe\n      |",
+          "columnIndex": 0,
+          "completeText": "McCarthy\n      Dennis\n      F.\n      barkfr.\n      h\n      165\n      Devoe\n      |"
+        },
+        {
+          "properties": {
+            "bbox": [
+              84,
+              2112,
+              510,
+              2144
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "McCarthy\n      Ellen,\n      h\n      68\n      Union",
+          "columnIndex": 0,
+          "completeText": "McCarthy\n      Ellen,\n      h\n      68\n      Union"
+        },
+        {
+          "properties": {
+            "bbox": [
+              82,
+              2144,
+              750,
+              2178
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "MeCarthy\n      Ellen,\n      wid.\n      Jeremâ€™h,\n      h\n      3d\n      av\n      c8th",
+          "columnIndex": 0,
+          "completeText": "MeCarthy\n      Ellen,\n      wid.\n      Jeremâ€™h,\n      h\n      3d\n      av\n      c8th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              82,
+              2176,
+              749,
+              2207
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Ellen\n      wid.\n      William.\n      h\n      66\n      Jackson",
+          "columnIndex": 0,
+          "completeText": "McCarthy\n      Ellen\n      wid.\n      William.\n      h\n      66\n      Jackson"
+        },
+        {
+          "properties": {
+            "bbox": [
+              82,
+              2209,
+              671,
+              2241
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Eugene,\n      miller,\n      b\n      57\n      Sackett",
+          "columnIndex": 0,
+          "completeText": "McCarthy\n      Eugene,\n      miller,\n      b\n      57\n      Sackett"
+        },
+        {
+          "properties": {
+            "bbox": [
+              82,
+              2242,
+              686,
+              2274
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "MeCarthy\n      Felix,\n      lab.\n      h\n      353\n      Lafayette\n      av",
+          "columnIndex": 0,
+          "completeText": "MeCarthy\n      Felix,\n      lab.\n      h\n      353\n      Lafayette\n      av"
+        },
+        {
+          "properties": {
+            "bbox": [
+              83,
+              2274,
+              676,
+              2307
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Felix,\n      produce,\n      h\n      78\n      Degraw",
+          "columnIndex": 0,
+          "completeText": "McCarthy\n      Felix,\n      produce,\n      h\n      78\n      Degraw"
+        },
+        {
+          "properties": {
+            "bbox": [
+              81,
+              2306,
+              749,
+              2339
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Felix,\n      tankbidr.\n      h\n      Morse\n      n\n      Bridg-",
+          "columnIndex": 0,
+          "nextLineIndex": 65,
+          "completeText": "McCarthy\n      Felix,\n      tankbidr.\n      h\n      Morse\n      n\n      Bridgwater"
+        },
+        {
+          "properties": {
+            "bbox": [
+              146,
+              2340,
+              232,
+              2362
+            ],
+            "baseline": [
+              0,
+              0
+            ],
+            "x_size": 27.855738,
+            "x_descenders": 6.8557377,
+            "x_ascenders": 6
+          },
+          "text": "water",
+          "previousLineIndex": 64
+        },
+        {
+          "properties": {
+            "bbox": [
+              81,
+              2369,
+              630,
+              2402
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Florence,\n      lab.\n      h\n      566\n      3d\n      av",
+          "columnIndex": 0,
+          "completeText": "McCarthy\n      Florence,\n      lab.\n      h\n      566\n      3d\n      av"
+        },
+        {
+          "properties": {
+            "bbox": [
+              82,
+              2402,
+              732,
+              2432
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Francis,\n      lab.\n      h\n      143\n      Bushwick\n      av",
+          "columnIndex": 0,
+          "completeText": "McCarthy\n      Francis,\n      lab.\n      h\n      143\n      Bushwick\n      av"
+        },
+        {
+          "properties": {
+            "bbox": [
+              780,
+              254,
+              1449,
+              286
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Francis,\n      liquors,\n      245\n      Hoyt,\n      h\n      148",
+          "columnIndex": 1,
+          "nextLineIndex": 69,
+          "completeText": "McCarthy\n      Francis,\n      liquors,\n      245\n      Hoyt,\n      h\n      148 Butler"
+        },
+        {
+          "properties": {
+            "bbox": [
+              843,
+              287,
+              940,
+              311
+            ],
+            "baseline": [
+              0,
+              -1
+            ],
+            "x_size": 30.487991,
+            "x_descenders": 7.4879904,
+            "x_ascenders": 7
+          },
+          "text": "Butler",
+          "previousLineIndex": 68
+        },
+        {
+          "properties": {
+            "bbox": [
+              780,
+              317,
+              1412,
+              349
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Francis,\n      mason,\n      h\n      121\n      Wyckoff",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      Francis,\n      mason,\n      h\n      121\n      Wyckoff"
+        },
+        {
+          "properties": {
+            "bbox": [
+              780,
+              349,
+              1342,
+              381
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      F.\n      (Rev.)\n      h\n      495\n      Humboldt",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      F.\n      (Rev.)\n      h\n      495\n      Humboldt"
+        },
+        {
+          "properties": {
+            "bbox": [
+              779,
+              382,
+              1258,
+              414
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 28,
+            "x_descenders": 4,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      George,\n      h\n      66\n      Jackson",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      George,\n      h\n      66\n      Jackson"
+        },
+        {
+          "properties": {
+            "bbox": [
+              780,
+              414,
+              1294,
+              446
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      George,\n      clk.\n      h\n      26\n      Front",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      George,\n      clk.\n      h\n      26\n      Front"
+        },
+        {
+          "properties": {
+            "bbox": [
+              780,
+              445,
+              1417,
+              477
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      George,\n      clk.\n      h\n      33\n      Lexington\n      av",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      George,\n      clk.\n      h\n      33\n      Lexington\n      av"
+        },
+        {
+          "properties": {
+            "bbox": [
+              780,
+              475,
+              1448,
+              509
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      George,\n      trunkmkr.\n      Johnson\n      Â¢'Ful-",
+          "columnIndex": 1,
+          "nextLineIndex": 76,
+          "completeText": "McCarthy\n      George,\n      trunkmkr.\n      Johnson\n      Â¢'Fulton,\n      h\n      366\n      Pearl"
+        },
+        {
+          "properties": {
+            "bbox": [
+              843,
+              510,
+              1083,
+              539
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 29,
+            "x_descenders": 5,
+            "x_ascenders": 8
+          },
+          "text": "ton,\n      h\n      366\n      Pearl",
+          "previousLineIndex": 75
+        },
+        {
+          "properties": {
+            "bbox": [
+              780,
+              541,
+              1432,
+              573
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Hanuah,\n      wid.\n      John,\n      h\n      23\n      Ainslie",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      Hanuah,\n      wid.\n      John,\n      h\n      23\n      Ainslie"
+        },
+        {
+          "properties": {
+            "bbox": [
+              780,
+              574,
+              1456,
+              606
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Hanorah,\n      wid.\n      Cornelius,\n      h\n      25!",
+          "columnIndex": 1,
+          "nextLineIndex": 79,
+          "completeText": "McCarthy\n      Hanorah,\n      wid.\n      Cornelius,\n      h\n      25! Columbia"
+        },
+        {
+          "properties": {
+            "bbox": [
+              844,
+              606,
+              989,
+              631
+            ],
+            "baseline": [
+              0,
+              0
+            ],
+            "x_size": 31.487991,
+            "x_descenders": 7.4879904,
+            "x_ascenders": 8
+          },
+          "text": "Columbia",
+          "previousLineIndex": 78
+        },
+        {
+          "properties": {
+            "bbox": [
+              780,
+              639,
+              1257,
+              669
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      James,\n      clk.\n      h\n      3\n      Dean",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      James,\n      clk.\n      h\n      3\n      Dean"
+        },
+        {
+          "properties": {
+            "bbox": [
+              781,
+              671,
+              1353,
+              702
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 30,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "McCarthy\n      James,\n      cooper,\n      h\n      63\n      Canton",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      James,\n      cooper,\n      h\n      63\n      Canton"
+        },
+        {
+          "properties": {
+            "bbox": [
+              780,
+              703,
+              1337,
+              735
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 30,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "McCarthy\n      James,\n      driver,\n      h\n      232\n      Bond",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      James,\n      driver,\n      h\n      232\n      Bond"
+        },
+        {
+          "properties": {
+            "bbox": [
+              781,
+              734,
+              1390,
+              767
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "McCarthy\n      James,\n      driver,\n      h\n      242\n      Franklin",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      James,\n      driver,\n      h\n      242\n      Franklin"
+        },
+        {
+          "properties": {
+            "bbox": [
+              780,
+              768,
+              1414,
+              799
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      James,\n      fireman,\n      h\n      175\n      Harrison",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      James,\n      fireman,\n      h\n      175\n      Harrison"
+        },
+        {
+          "properties": {
+            "bbox": [
+              781,
+              799,
+              1456,
+              832
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      James,\n      horseshoer,\n      h\n      Ralph\n      av\n      c}",
+          "columnIndex": 1,
+          "nextLineIndex": 86,
+          "completeText": "McCarthy\n      James,\n      horseshoer,\n      h\n      Ralph\n      av\n      c} Hamburg\n      av"
+        },
+        {
+          "properties": {
+            "bbox": [
+              844,
+              833,
+              1036,
+              864
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 8,
+            "x_ascenders": 7
+          },
+          "text": "Hamburg\n      av",
+          "previousLineIndex": 85
+        },
+        {
+          "properties": {
+            "bbox": [
+              780,
+              864,
+              1289,
+              896
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      James,\n      lab.\n      h\n      374\n      Bond",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      James,\n      lab.\n      h\n      374\n      Bond"
+        },
+        {
+          "properties": {
+            "bbox": [
+              781,
+              896,
+              1347,
+              928
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      James,\n      lab.\n      b\n      121\n      Harrison",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      James,\n      lab.\n      b\n      121\n      Harrison"
+        },
+        {
+          "properties": {
+            "bbox": [
+              781,
+              929,
+              1310,
+              960
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      James,\n      lab.\n      h\n      85\n      Sackett",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      James,\n      lab.\n      h\n      85\n      Sackett"
+        },
+        {
+          "properties": {
+            "bbox": [
+              780,
+              961,
+              1401,
+              993
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 8,
+            "x_ascenders": 7
+          },
+          "text": "McCarthy\n      James,\n      lab.\n      h\n      Sutton\n      n\n      Nassau",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      James,\n      lab.\n      h\n      Sutton\n      n\n      Nassau"
+        },
+        {
+          "properties": {
+            "bbox": [
+              780,
+              993,
+              1362,
+              1024
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "McCarthy\n      James,\n      lab.\n      h\n      133\n      Wythe\n      av",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      James,\n      lab.\n      h\n      133\n      Wythe\n      av"
+        },
+        {
+          "properties": {
+            "bbox": [
+              780,
+              1026,
+              1304,
+              1056
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      James,\n      lab,\n      h\n      234-N.\n      5th",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      James,\n      lab,\n      h\n      234-N.\n      5th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              780,
+              1058,
+              1330,
+              1089
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      James,\n      lab.\n      h\n      400\n      Ist\n      E.D.",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      James,\n      lab.\n      h\n      400\n      Ist\n      E.D."
+        },
+        {
+          "properties": {
+            "bbox": [
+              780,
+              1090,
+              1274,
+              1121
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      James,\n      lab.\n      bh\n      605\n      16th",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      James,\n      lab.\n      bh\n      605\n      16th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              780,
+              1121,
+              1385,
+              1154
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      James,\n      machinist,\n      h\n      196\n      York",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      James,\n      machinist,\n      h\n      196\n      York"
+        },
+        {
+          "properties": {
+            "bbox": [
+              781,
+              1154,
+              1383,
+              1186
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      James,\n      printer,\n      h\n      76\n      Ryerson",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      James,\n      printer,\n      h\n      76\n      Ryerson"
+        },
+        {
+          "properties": {
+            "bbox": [
+              781,
+              1186,
+              1401,
+              1218
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      James\n      I.\n      printer,\n      h\n      136\n      Bridge",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      James\n      I.\n      printer,\n      h\n      136\n      Bridge"
+        },
+        {
+          "properties": {
+            "bbox": [
+              780,
+              1218,
+              1415,
+              1250
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Jeremiah,\n      carman,\n      h\n      420\n      Baltic",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      Jeremiah,\n      carman,\n      h\n      420\n      Baltic"
+        },
+        {
+          "properties": {
+            "bbox": [
+              780,
+              1250,
+              1456,
+              1283
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Jeremiah,\n      cooper,\n      h\n      174\n      Hamil-|",
+          "columnIndex": 1,
+          "nextLineIndex": 100,
+          "completeText": "McCarthy\n      Jeremiah,\n      cooper,\n      h\n      174\n      Hamil-| ton\n      av\n      :"
+        },
+        {
+          "properties": {
+            "bbox": [
+              843,
+              1285,
+              1335,
+              1307
+            ],
+            "baseline": [
+              0,
+              0
+            ],
+            "x_size": 29.019991,
+            "x_descenders": 7.0199909,
+            "x_ascenders": 7
+          },
+          "text": "ton\n      av\n      :",
+          "previousLineIndex": 99
+        },
+        {
+          "properties": {
+            "bbox": [
+              781,
+              1314,
+              1329,
+              1346
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 28,
+            "x_descenders": 4,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Jeremiah,\n      lab.\n      h\n      133\n      Gold",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      Jeremiah,\n      lab.\n      h\n      133\n      Gold"
+        },
+        {
+          "properties": {
+            "bbox": [
+              779,
+              1347,
+              1446,
+              1378
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 30,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "McCarthy\n      Jeremiah,\n      lab.\n      h\n      186\n      MeDougal",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      Jeremiah,\n      lab.\n      h\n      186\n      MeDougal"
+        },
+        {
+          "properties": {
+            "bbox": [
+              780,
+              1378,
+              1384,
+              1410
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Jeremiah,\n      porter,\n      h\n      418\n      Baltic",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      Jeremiah,\n      porter,\n      h\n      418\n      Baltic"
+        },
+        {
+          "properties": {
+            "bbox": [
+              780,
+              1410,
+              1289,
+              1443
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      John,\n      agt.\n      h\n      160\n      N.\n      8th",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      John,\n      agt.\n      h\n      160\n      N.\n      8th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              780,
+              1443,
+              1402,
+              1475
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 30,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "McCarthy\n      John,\n      carpenter,\n      h\n      151\n      Dupont",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      John,\n      carpenter,\n      h\n      151\n      Dupont"
+        },
+        {
+          "properties": {
+            "bbox": [
+              779,
+              1474,
+              1383,
+              1507
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      John,\n      carpenter,\n      h\n      256\n      N.\n      7th",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      John,\n      carpenter,\n      h\n      256\n      N.\n      7th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              779,
+              1507,
+              1446,
+              1538
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 30,
+            "x_descenders": 8,
+            "x_ascenders": 7
+          },
+          "text": "McCarthy\n      John,\n      coachman,\n      h\n      17\n      College\n      pl",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      John,\n      coachman,\n      h\n      17\n      College\n      pl"
+        },
+        {
+          "properties": {
+            "bbox": [
+              780,
+              1537,
+              1387,
+              1569
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      John,\n      cooper,\n      hÂ°375\n      Columbia",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      John,\n      cooper,\n      hÂ°375\n      Columbia"
+        },
+        {
+          "properties": {
+            "bbox": [
+              779,
+              1569,
+              1362,
+              1600
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 30,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "McCarthy\n      John,\n      dockbldr.\n      h\n      52\n      Amity",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      John,\n      dockbldr.\n      h\n      52\n      Amity"
+        },
+        {
+          "properties": {
+            "bbox": [
+              778,
+              1601,
+              1405,
+              1632
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      John,\n      driver,\n      h\n      264\n      Hudson\n      av",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      John,\n      driver,\n      h\n      264\n      Hudson\n      av"
+        },
+        {
+          "properties": {
+            "bbox": [
+              779,
+              1632,
+              1445,
+              1664
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      John,\n      truit,\n      Fulton\n      mkt.\n      N.Y.\n      bh",
+          "columnIndex": 1,
+          "nextLineIndex": 112,
+          "completeText": "McCarthy\n      John,\n      truit,\n      Fulton\n      mkt.\n      N.Y.\n      bh 221\n      Ryerson"
+        },
+        {
+          "properties": {
+            "bbox": [
+              842,
+              1665,
+              1023,
+              1695
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 30,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "221\n      Ryerson",
+          "previousLineIndex": 111
+        },
+        {
+          "properties": {
+            "bbox": [
+              778,
+              1695,
+              1331,
+              1727
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      John,\n      horseshoer,\n      h\n      108\n      3d",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      John,\n      horseshoer,\n      h\n      108\n      3d"
+        },
+        {
+          "properties": {
+            "bbox": [
+              778,
+              1728,
+              1276,
+              1759
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 8,
+            "x_ascenders": 7
+          },
+          "text": "McCarthy\n      John,\n      lab.\n      h\n      450\n      Baltic",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      John,\n      lab.\n      h\n      450\n      Baltic"
+        },
+        {
+          "properties": {
+            "bbox": [
+              779,
+              1760,
+              1288,
+              1790
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 30,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "McCarthy\n      John,\n      lab.\n      h\n      271\n      Water",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      John,\n      lab.\n      h\n      271\n      Water"
+        },
+        {
+          "properties": {
+            "bbox": [
+              778,
+              1791,
+              1287,
+              1822
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 30,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "McCarthy\n      John,\n      lab.\n      h\n      111\n      N.\n      7th",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      John,\n      lab.\n      h\n      111\n      N.\n      7th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              779,
+              1823,
+              1300,
+              1854
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      John,\n      lab.\n      h\n      323\n      3d\n      E.D.",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      John,\n      lab.\n      h\n      323\n      3d\n      E.D."
+        },
+        {
+          "properties": {
+            "bbox": [
+              778,
+              1854,
+              1447,
+              1887
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      John,\n      longshoreman,\n      h\n      349\n      La-",
+          "columnIndex": 1,
+          "nextLineIndex": 119,
+          "completeText": "McCarthy\n      John,\n      longshoreman,\n      h\n      349\n      Lafayette\n      av"
+        },
+        {
+          "properties": {
+            "bbox": [
+              841,
+              1887,
+              995,
+              1918
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "fayette\n      av",
+          "previousLineIndex": 118
+        },
+        {
+          "properties": {
+            "bbox": [
+              778,
+              1918,
+              1444,
+              1950
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      John,\n      marble,\n      141\n      3d,\n      h\n      452\n      Smith",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      John,\n      marble,\n      141\n      3d,\n      h\n      452\n      Smith"
+        },
+        {
+          "properties": {
+            "bbox": [
+              777,
+              1952,
+              1379,
+              1983
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      John,\n      molder,\n      .b\n      279\n      6th\n      E.D.",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      John,\n      molder,\n      .b\n      279\n      6th\n      E.D."
+        },
+        {
+          "properties": {
+            "bbox": [
+              778,
+              1984,
+              1383,
+              2016
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      John,\n      pilot,\n      h\n      166\n      Huntington",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      John,\n      pilot,\n      h\n      166\n      Huntington"
+        },
+        {
+          "properties": {
+            "bbox": [
+              778,
+              2016,
+              1319,
+              2048
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      John,\n      porter,\n      h\n      82\n      Bridge",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      John,\n      porter,\n      h\n      82\n      Bridge"
+        },
+        {
+          "properties": {
+            "bbox": [
+              778,
+              2049,
+              1306,
+              2080
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 30,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "McCarthy\n      John,\n      ropes,\n      bh\n      215\n      Stagg",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      John,\n      ropes,\n      bh\n      215\n      Stagg"
+        },
+        {
+          "properties": {
+            "bbox": [
+              777,
+              2080,
+              1351,
+              2112
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      John,\n      seaman,\n      h\n      232\n      Pacific",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      John,\n      seaman,\n      h\n      232\n      Pacific"
+        },
+        {
+          "properties": {
+            "bbox": [
+              778,
+              2113,
+              1397,
+              2144
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      John,\n      sexton,\n      h\n      13\n      Bainbridge",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      John,\n      sexton,\n      h\n      13\n      Bainbridge"
+        },
+        {
+          "properties": {
+            "bbox": [
+              776,
+              2145,
+              1359,
+              2176
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 30,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "McCarthy\n      John,\n      shoemkr.\n      297\n      Kent\n      ay",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      John,\n      shoemkr.\n      297\n      Kent\n      ay"
+        },
+        {
+          "properties": {
+            "bbox": [
+              777,
+              2177,
+              1413,
+              2209
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 30,
+            "x_descenders": 6,
+            "x_ascenders": 7
+          },
+          "text": "McCarthy\n      John,\n      stonecutter,\n      h\n      174\n      Tillary",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      John,\n      stonecutter,\n      h\n      174\n      Tillary"
+        },
+        {
+          "properties": {
+            "bbox": [
+              778,
+              2210,
+              1445,
+              2242
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      John\n      B.\n      drygds.\n      h\n      147\n      Hamilton\n      av",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      John\n      B.\n      drygds.\n      h\n      147\n      Hamilton\n      av"
+        },
+        {
+          "properties": {
+            "bbox": [
+              776,
+              2242,
+              1445,
+              2274
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      John\n      D.\n      stonecutter,\n      h\n      115\n      Bridge",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      John\n      D.\n      stonecutter,\n      h\n      115\n      Bridge"
+        },
+        {
+          "properties": {
+            "bbox": [
+              776,
+              2274,
+              1350,
+              2306
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      John\n      P.\n      pluinber,\n      b\n      39\n      Hall",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      John\n      P.\n      pluinber,\n      b\n      39\n      Hall"
+        },
+        {
+          "properties": {
+            "bbox": [
+              776,
+              2307,
+              1286,
+              2338
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 30,
+            "x_descenders": 7,
+            "x_ascenders": 7
+          },
+          "text": "McCarthy\n      Joseph,\n      h\n      11\n      Raymond",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      Joseph,\n      h\n      11\n      Raymond"
+        },
+        {
+          "properties": {
+            "bbox": [
+              776,
+              2338,
+              1306,
+              2369
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 31,
+            "x_descenders": 7,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Joseph,\n      lab.\n      h\n      133\n      Eagle",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      Joseph,\n      lab.\n      h\n      133\n      Eagle"
+        },
+        {
+          "properties": {
+            "bbox": [
+              776,
+              2370,
+              1389,
+              2402
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Joseph,\n      shoemkr.\n      h\n      434\n      8.\n      5th",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      Joseph,\n      shoemkr.\n      h\n      434\n      8.\n      5th"
+        },
+        {
+          "properties": {
+            "bbox": [
+              775,
+              2403,
+              1321,
+              2434
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 32,
+            "x_descenders": 8,
+            "x_ascenders": 8
+          },
+          "text": "McCarthy\n      Joseph\n      E.\n      clk.\n      h\n      192\n      8.\n      3d",
+          "columnIndex": 1,
+          "completeText": "McCarthy\n      Joseph\n      E.\n      clk.\n      h\n      192\n      8.\n      3d"
+        },
+        {
+          "properties": {
+            "bbox": [
+              88,
+              2447,
+              764,
+              2475
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 20,
+            "x_descenders": 5,
+            "x_ascenders": 5
+          },
+          "text": "~wewee\n      â€”\n      _â€”\n      2\n      meme\n      er\n      of\n      =e",
+          "columnIndex": 0,
+          "completeText": "~wewee\n      â€”\n      _â€”\n      2\n      meme\n      er\n      of\n      =e"
+        }
+      ],
+      "columns": [
+        86,
+        780
+      ],
+      "linesPerColumn": [
+        54,
+        61
+      ],
+      "minLinesPerColumn": true
+    }
+  ]
+}

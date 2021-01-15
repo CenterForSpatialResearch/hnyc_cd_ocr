@@ -1,0 +1,800 @@
+{
+  "config": {
+    "columnCount": 2,
+    "characterWidth": 25,
+    "minLinesPerColumn": 50
+  },
+  "pages": [
+    {
+      "number": 0,
+      "properties": {
+        "image": "saved.tif",
+        "bbox": [
+          0,
+          0,
+          1380,
+          2430
+        ],
+        "ppageno": 0
+      },
+      "lines": [
+        {
+          "properties": {
+            "bbox": [
+              249,
+              198,
+              1053,
+              234
+            ],
+            "baseline": [
+              0,
+              -2
+            ],
+            "x_size": 32.820515,
+            "x_descenders": 8.2051287,
+            "x_ascenders": 8.2051287
+          },
+          "text": "30\n      BROOKLYN\n      DIRECTORY."
+        },
+        {
+          "properties": {
+            "bbox": [
+              250,
+              289,
+              993,
+              334
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 46,
+            "x_descenders": 12,
+            "x_ascenders": 13
+          },
+          "text": "Barser\n      Wit\n      8,\n      bookbinder\n      22\n      High"
+        },
+        {
+          "properties": {
+            "bbox": [
+              249,
+              334,
+              1288,
+              376
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 42,
+            "x_descenders": 7,
+            "x_ascenders": 13
+          },
+          "text": "Bard\n      Brothers,\n      102\n      Front\n      c\n      Pearl\n      office\n      101\n      William\n      N\n      Y"
+        },
+        {
+          "properties": {
+            "bbox": [
+              249,
+              379,
+              1308,
+              426
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 44,
+            "x_descenders": 11,
+            "x_ascenders": 12
+          },
+          "text": "Bard\n      Edmund\n      H,\n      goldpen\n      manufacturer\n      101\n      William\n      N\n      Y"
+        },
+        {
+          "properties": {
+            "bbox": [
+              381,
+              427,
+              1012,
+              471
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 44,
+            "x_descenders": 11,
+            "x_ascenders": 12
+          },
+          "text": "factory\n      Pearl\n      c\n      Front\n      h\n      138\n      Fulton"
+        },
+        {
+          "properties": {
+            "bbox": [
+              249,
+              471,
+              1045,
+              516
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 44,
+            "x_descenders": 11,
+            "x_ascenders": 12
+          },
+          "text": "Bard\n      George\n      J,\n      gold\n      pen\n      maker\n      145\n      Sands"
+        },
+        {
+          "properties": {
+            "bbox": [
+              249,
+              513,
+              1309,
+              559
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 43,
+            "x_descenders": 10,
+            "x_ascenders": 12
+          },
+          "text": "Bard\n      James\n      D,\n      gold\n      pen\n      maker\n      101\n      William\n      N\n      Y\n      h\n      47\n      Sands"
+        },
+        {
+          "properties": {
+            "bbox": [
+              247,
+              562,
+              990,
+              604
+            ],
+            "baseline": [
+              0,
+              -12
+            ],
+            "x_size": 42,
+            "x_descenders": 10,
+            "x_ascenders": 12
+          },
+          "text": "Bardwell\n      Robert,\n      lamp\n      store\n      37\n      Huson\n      av"
+        },
+        {
+          "properties": {
+            "bbox": [
+              247,
+              604,
+              1308,
+              651
+            ],
+            "baseline": [
+              0,
+              -14
+            ],
+            "x_size": 44,
+            "x_descenders": 11,
+            "x_ascenders": 12
+          },
+          "text": "Bare\n      David,\n      superintendent\n      Brooklyn\n      City\n      Hospital\n      Hudson"
+        },
+        {
+          "properties": {
+            "bbox": [
+              381,
+              651,
+              915,
+              694
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 44,
+            "x_descenders": 11,
+            "x_ascenders": 12
+          },
+          "text": "av\n      b\n      Layfayette\n      and\n      Fulton\n      av"
+        },
+        {
+          "properties": {
+            "bbox": [
+              249,
+              694,
+              1269,
+              741
+            ],
+            "baseline": [
+              0,
+              -14
+            ],
+            "x_size": 47,
+            "x_descenders": 12,
+            "x_ascenders": 14
+          },
+          "text": "Barker\n      David\n      8,\n      merchant\n      22\n      Pine\n      N\n      Yh\n      32\n      Willoughby"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              741,
+              1002,
+              781
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 42,
+            "x_descenders": 9,
+            "x_ascenders": 12
+          },
+          "text": "Barker\n      Jacob,\n      milkman\n      Clove\n      rd\n      Bedford"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              786,
+              895,
+              828
+            ],
+            "baseline": [
+              0,
+              -12
+            ],
+            "x_size": 40,
+            "x_descenders": 9,
+            "x_ascenders": 12
+          },
+          "text": "Barker\n      John,\n      painter\n      228\n      Hudson\n      av"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              829,
+              1108,
+              873
+            ],
+            "baseline": [
+              0,
+              -12
+            ],
+            "x_size": 44,
+            "x_descenders": 11,
+            "x_ascenders": 13
+          },
+          "text": "Barker\n      John,\n      tailor\n      216\n      Fulton\n      c\n      Sprague\n      Place"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              873,
+              1008,
+              913
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 39,
+            "x_descenders": 6,
+            "x_ascenders": 12
+          },
+          "text": "Barker\n      Josiah\n      H,\n      Van\n      Brunt\n      st\n      Red\n      Hook"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              918,
+              1254,
+              961
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 44,
+            "x_descenders": 11,
+            "x_ascenders": 12
+          },
+          "text": "Barker\n      Owen,\n      rag\n      dealer\n      4\n      Howard\n      Place\n      Water\n      Â¢c\n      Main"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              964,
+              963,
+              1006
+            ],
+            "baseline": [
+              0,
+              -12
+            ],
+            "x_size": 42,
+            "x_descenders": 11,
+            "x_ascenders": 11
+          },
+          "text": "Barker\n      Richard,\n      accountant\n      110\n      Degraw"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              1006,
+              1164,
+              1050
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 43,
+            "x_descenders": 11,
+            "x_ascenders": 11
+          },
+          "text": "Barker\n      Sarah\n      J,\n      widow,\n      boarding\n      house\n      238\n      Fulton"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              1051,
+              952,
+              1093
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 42,
+            "x_descenders": 9,
+            "x_ascenders": 12
+          },
+          "text": "Barker\n      Stephen\n      W,\n      shoemaker\n      89\n      Main"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              1095,
+              939,
+              1140
+            ],
+            "baseline": [
+              0,
+              -14
+            ],
+            "x_size": 44,
+            "x_descenders": 12,
+            "x_ascenders": 12
+          },
+          "text": "Barker\n      Sylvester,\n      carpenter\n      206\n      Bridge"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              1140,
+              1141,
+              1186
+            ],
+            "baseline": [
+              0,
+              -13
+            ],
+            "x_size": 38,
+            "x_descenders": 5,
+            "x_ascenders": 13
+          },
+          "text": "Barker\n      William,\n      produce\n      dealer\n      N\n      Â¥\n      h\n      245\n      Bridge"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              1183,
+              960,
+              1227
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 43,
+            "x_descenders": 10,
+            "x_ascenders": 12
+          },
+          "text": "BSarkman\n      F\n      J\n      W,\n      shipmaster\n      73\n      Nassau"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              1228,
+              868,
+              1269
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 41,
+            "x_descenders": 8,
+            "x_ascenders": 13
+          },
+          "text": "Barkuloo\n      Abraham,\n      clerk\n      257\n      Gold"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              1272,
+              1162,
+              1320
+            ],
+            "baseline": [
+              0,
+              -15
+            ],
+            "x_size": 44,
+            "x_descenders": 11,
+            "x_ascenders": 12
+          },
+          "text": "Barkuloo\n      Elizabeth,\n      widow\n      of\n      Wynant,\n      225\n      Bridge"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              1317,
+              1120,
+              1360
+            ],
+            "baseline": [
+              0,
+              -12
+            ],
+            "x_size": 42,
+            "x_descenders": 10,
+            "x_ascenders": 11
+          },
+          "text": "Barkuloo\n      Henry,\n      carman\n      Shermerhoin\n      n\n      Powers"
+        },
+        {
+          "properties": {
+            "bbox": [
+              244,
+              1360,
+              973,
+              1410
+            ],
+            "baseline": [
+              0,
+              -17
+            ],
+            "x_size": 41,
+            "x_descenders": 8,
+            "x_ascenders": 12
+          },
+          "text": "Barkuloo\n      Maria,\n      widow\n      213\n      Washington"
+        },
+        {
+          "properties": {
+            "bbox": [
+              244,
+              1405,
+              910,
+              1446
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 40,
+            "x_descenders": 8,
+            "x_ascenders": 12
+          },
+          "text": "Barkuloo\n      Tunis,\n      3d\n      ayenue\n      Gowanus"
+        },
+        {
+          "properties": {
+            "bbox": [
+              244,
+              1450,
+              858,
+              1494
+            ],
+            "baseline": [
+              0,
+              -12
+            ],
+            "x_size": 44,
+            "x_descenders": 11,
+            "x_ascenders": 13
+          },
+          "text": "Barlow\n      Michael,\n      sawyer\n      201\n      High"
+        },
+        {
+          "properties": {
+            "bbox": [
+              244,
+              1494,
+              915,
+              1539
+            ],
+            "baseline": [
+              0,
+              -14
+            ],
+            "x_size": 40,
+            "x_descenders": 7,
+            "x_ascenders": 12
+          },
+          "text": "Barlow\n      William\n      K,\n      clerk\n      14\n      Douglas"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              1537,
+              1069,
+              1584
+            ],
+            "baseline": [
+              0,
+              -15
+            ],
+            "x_size": 44,
+            "x_descenders": 11,
+            "x_ascenders": 12
+          },
+          "text": "Barmon\n      Michael,\n      shoemaker\n      Bridge\n      Â¢\n      Tillary"
+        },
+        {
+          "properties": {
+            "bbox": [
+              244,
+              1582,
+              1219,
+              1630
+            ],
+            "baseline": [
+              0,
+              -16
+            ],
+            "x_size": 45,
+            "x_descenders": 12,
+            "x_ascenders": 13
+          },
+          "text": "Barmard\n      Charles\n      Tâ€™,\n      exchange\n      broker\n      NY\n      h\n      170\n      Henry"
+        },
+        {
+          "properties": {
+            "bbox": [
+              244,
+              1626,
+              1303,
+              1675
+            ],
+            "baseline": [
+              0,
+              -16
+            ],
+            "x_size": 44,
+            "x_descenders": 11,
+            "x_ascenders": 12
+          },
+          "text": "Barnard\n      D\n      P,\n      lawyer\n      N\n      Y\n      h\n      56\n      Court\n      (Bond"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              1671,
+              1303,
+              1711
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 41,
+            "x_descenders": 8,
+            "x_ascenders": 13
+          },
+          "text": "Barnard\n      J\n      W;\n      jobber\n      93\n      William\n      NY\n      h\n      Schermerhorn\n      n"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              1716,
+              1126,
+              1764
+            ],
+            "baseline": [
+              0,
+              -18
+            ],
+            "x_size": 44,
+            "x_descenders": 11,
+            "x_ascenders": 13
+          },
+          "text": "Barnard\n      Mary,\n      widow\n      129\n      Duffield\n      n\n      Willoughby"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              1759,
+              1075,
+              1800
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 40,
+            "x_descenders": 8,
+            "x_ascenders": 11
+          },
+          "text": "Barnes\n      Alfred\n      $,accountant\n      N\n      Â¥\n      h\n      22\n      Garden"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              1803,
+              1218,
+              1849
+            ],
+            "baseline": [
+              0,
+              -15
+            ],
+            "x_size": 43,
+            "x_descenders": 10,
+            "x_ascenders": 12
+          },
+          "text": "Barnes\n      C,\n      sailmaker\n      Schermerhorn\n      b\n      Hoyt\n      and\n      Smith"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              1848,
+              1303,
+              1888
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 40,
+            "x_descenders": 6,
+            "x_ascenders": 13
+          },
+          "text": "Barnes\n      Charles\n      L,\n      hardware\n      dealer\n      99\n      Maiden\n      Lane\n      N\n      Â¥\n      h"
+        },
+        {
+          "properties": {
+            "bbox": [
+              382,
+              1893,
+              663,
+              1935
+            ],
+            "baseline": [
+              0,
+              -12
+            ],
+            "x_size": 42,
+            "x_descenders": 11,
+            "x_ascenders": 10
+          },
+          "text": "100\n      Willoughby"
+        },
+        {
+          "properties": {
+            "bbox": [
+              247,
+              1936,
+              1017,
+              1978
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 42,
+            "x_descenders": 9,
+            "x_ascenders": 12
+          },
+          "text": "Barnes\n      Charles\n      T,\n      watchmaker\n      133\n      Nassau"
+        },
+        {
+          "properties": {
+            "bbox": [
+              247,
+              1980,
+              846,
+              2026
+            ],
+            "baseline": [
+              0,
+              -13
+            ],
+            "x_size": 45,
+            "x_descenders": 12,
+            "x_ascenders": 11
+          },
+          "text": "Barnes\n      Chauncey,\n      joiner\n      15\n      Nigh"
+        },
+        {
+          "properties": {
+            "bbox": [
+              247,
+              2025,
+              1069,
+              2065
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 40,
+            "x_descenders": 7,
+            "x_ascenders": 11
+          },
+          "text": "Barnes\n      David\n      A,\n      stevedore\n      98\n      Smith\n      n\n      Warren"
+        },
+        {
+          "properties": {
+            "bbox": [
+              247,
+              2068,
+              879,
+              2115
+            ],
+            "baseline": [
+              0,
+              -15
+            ],
+            "x_size": 43,
+            "x_descenders": 10,
+            "x_ascenders": 12
+          },
+          "text": "Barnes\n      Henry,\n      painter\n      16\n      Myrtle\n      ay"
+        },
+        {
+          "properties": {
+            "bbox": [
+              247,
+              2113,
+              1065,
+              2166
+            ],
+            "baseline": [
+              0,
+              -20
+            ],
+            "x_size": 47,
+            "x_descenders": 12,
+            "x_ascenders": 13
+          },
+          "text": "Barnes\n      Henry\n      W,\n      merchant\n      N\n      Â¥\n      h\n      113\n      Henry"
+        }
+      ],
+      "linesPerColumn": [],
+      "minLinesPerColumn": false
+    }
+  ]
+}

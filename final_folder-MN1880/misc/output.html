@@ -1,0 +1,2991 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Pages</title>
+  <style>
+    body {
+      font-family: monospace;
+      font-size: 19px;
+      background-color: #f5f5f5;
+      width: 100%;
+      padding: 1em;
+      margin: 0;
+      box-sizing: border-box;
+    }
+
+    body, a, a:visited {
+      color: #111;
+    }
+
+    h1, h2, .centered {
+      text-align: center;
+    }
+
+    .centered {
+      display: block;
+      padding-bottom: .5em;
+    }
+
+    ol {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    .toc {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+    }
+
+    .toc li {
+      display: inline;
+      padding: 5px;
+    }
+
+    .page {
+      position: relative;
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    .lines li {
+      position: absolute;
+      background-color: rgba(255, 255, 255, 0.8);
+      padding: 2px;
+      box-sizing: border-box;
+
+      border-style: dashed;
+      border-color: rgba(0, 0, 0, 0.4);
+      border-width: 1px;
+    }
+
+    .lines li.column {
+      background-color: rgba(200, 255, 200, 0.8);
+    }
+
+    .connections {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      pointer-events: none;
+    }
+
+    .connections line {
+      stroke: #ff4c04;
+      stroke-width: 4;
+      stroke-linecap: round;
+    }
+
+    .connections path {
+      fill: #ff4c04;
+    }
+
+    .columns {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    .columns rect {
+      stroke: rgba(0, 173, 255, 0.9);
+      fill: rgba(0, 173, 255, 0.3);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>hocr-detect-columns</h1>
+    <div class="centered">
+      Press <b>b</b> to toggle line boxes, <b>c</b> to toggle columns, and <b>l</b> to toggle line connections
+    </div>
+    <h1>Pages</h1>
+    <ol class="toc">
+    
+      <li><a href="#0">1</a></li>
+    
+    </ol>
+  </header>
+  <ol>
+  
+    <li>
+      <h2 id="1">Page 1</h2>
+      <div class="page" style="width: 1872px; height: 3089px;">
+        <img alt="Page 1" src="saved.tif" />
+        <svg class="columns">
+        
+          <rect x="121" y="0" width="50"
+            height="3089" />
+        
+          <rect x="941" y="0" width="50"
+            height="3089" />
+        
+        </svg>
+
+        <ol class="lines">
+        
+          <li style="left: 154px; top: 266px; width: 759px; height: 34px;"
+            class="column"
+            title="Ackley
+      Addison,
+      clerk,
+      47
+      Broadway,
+      h.
+      39
+      Pearl" >
+            Ackley
+      Addison,
+      clerk,
+      47
+      Broadway,
+      h.
+      39
+      Pearl
+          </li>
+        
+          <li style="left: 153px; top: 300px; width: 791px; height: 33px;"
+            class="column"
+            title="Adams
+      William,
+      weigher,
+      20
+      Washington
+      &#38;
+      13
+      West, h.
+      170
+      Clinton,
+      Brooklyn" >
+            Adams
+      William,
+      weigher,
+      20
+      Washington
+      &#38;
+      13
+      West,
+          </li>
+        
+          <li style="left: 218px; top: 333px; width: 359px; height: 30px;"
+            class=""
+            title="" >
+            h.
+      170
+      Clinton,
+      Brooklyn
+          </li>
+        
+          <li style="left: 152px; top: 364px; width: 696px; height: 33px;"
+            class="column"
+            title="Aitkin
+      Thomas,
+      stonecutter,
+      601
+      Washington" >
+            Aitkin
+      Thomas,
+      stonecutter,
+      601
+      Washington
+          </li>
+        
+          <li style="left: 152px; top: 396px; width: 506px; height: 33px;"
+            class="column"
+            title="Albro
+      Benjamin
+      sen.
+      328
+      Bowery" >
+            Albro
+      Benjamin
+      sen.
+      328
+      Bowery
+          </li>
+        
+          <li style="left: 151px; top: 428px; width: 518px; height: 33px;"
+            class="column"
+            title="Allen
+      E.
+      W.
+      publisher,
+      42
+      Orange" >
+            Allen
+      E.
+      W.
+      publisher,
+      42
+      Orange
+          </li>
+        
+          <li style="left: 151px; top: 460px; width: 792px; height: 30px;"
+            class="column"
+            title="Anderson
+      Frederick
+      R.
+      com.
+      mer.
+      13
+      Front,
+      h.
+      77 Barrow" >
+            Anderson
+      Frederick
+      R.
+      com.
+      mer.
+      13
+      Front,
+      h.
+      77
+          </li>
+        
+          <li style="left: 215px; top: 494px; width: 113px; height: 23px;"
+            class=""
+            title="" >
+            Barrow
+          </li>
+        
+          <li style="left: 151px; top: 525px; width: 570px; height: 30px;"
+            class="column"
+            title="Anderson
+      John
+      R.
+      seaman,
+      586
+      E.
+      4th" >
+            Anderson
+      John
+      R.
+      seaman,
+      586
+      E.
+      4th
+          </li>
+        
+          <li style="left: 151px; top: 558px; width: 468px; height: 34px;"
+            class="column"
+            title="Anthes
+      Peter,
+      barbey
+      34
+      Av.
+      C" >
+            Anthes
+      Peter,
+      barbey
+      34
+      Av.
+      C
+          </li>
+        
+          <li style="left: 150px; top: 590px; width: 569px; height: 29px;"
+            class="column"
+            title="Anthes
+      &#38;
+      Eckardt,
+      barbers,
+      34
+      Av.
+      C" >
+            Anthes
+      &#38;
+      Eckardt,
+      barbers,
+      34
+      Av.
+      C
+          </li>
+        
+          <li style="left: 149px; top: 622px; width: 443px; height: 31px;"
+            class="column"
+            title="Appell
+      John,
+      tailor,
+      40
+      Av.
+      C" >
+            Appell
+      John,
+      tailor,
+      40
+      Av.
+      C
+          </li>
+        
+          <li style="left: 149px; top: 654px; width: 504px; height: 25px;"
+            class="column"
+            title="Arcularius
+      Jacob
+      8.
+      h.
+      175
+      Canal" >
+            Arcularius
+      Jacob
+      8.
+      h.
+      175
+      Canal
+          </li>
+        
+          <li style="left: 149px; top: 686px; width: 459px; height: 32px;"
+            class="column"
+            title="Arenfred
+      George,
+      137
+      Norfolk" >
+            Arenfred
+      George,
+      137
+      Norfolk
+          </li>
+        
+          <li style="left: 151px; top: 719px; width: 627px; height: 32px;"
+            class="column"
+            title="Armstrong
+      George,
+      shoemaker,
+      53
+      Av.
+      D" >
+            Armstrong
+      George,
+      shoemaker,
+      53
+      Av.
+      D
+          </li>
+        
+          <li style="left: 152px; top: 751px; width: 658px; height: 32px;"
+            class="column"
+            title="Armstrong
+      John
+      D.
+      coachmaker,
+      5
+      Ludlow" >
+            Armstrong
+      John
+      D.
+      coachmaker,
+      5
+      Ludlow
+          </li>
+        
+          <li style="left: 150px; top: 783px; width: 727px; height: 32px;"
+            class="column"
+            title="Arnold
+      Henry,
+      drygoods,
+      1
+      Av.
+      D,
+      h.r.
+      1
+      Av.
+      D" >
+            Arnold
+      Henry,
+      drygoods,
+      1
+      Av.
+      D,
+      h.r.
+      1
+      Av.
+      D
+          </li>
+        
+          <li style="left: 149px; top: 816px; width: 754px; height: 32px;"
+            class="column"
+            title="Ash
+      William
+      A.
+      saloon,
+      413
+      B.way,
+      h.
+      Morrisania" >
+            Ash
+      William
+      A.
+      saloon,
+      413
+      B.way,
+      h.
+      Morrisania
+          </li>
+        
+          <li style="left: 149px; top: 848px; width: 790px; height: 30px;"
+            class="column"
+            title="Auchincloss
+      John
+      T.
+      com.
+      mer.
+      192
+      Fulton,
+      h.
+      7 Murray" >
+            Auchincloss
+      John
+      T.
+      com.
+      mer.
+      192
+      Fulton,
+      h.
+      7
+          </li>
+        
+          <li style="left: 213px; top: 881px; width: 115px; height: 30px;"
+            class=""
+            title="" >
+            Murray
+          </li>
+        
+          <li style="left: 148px; top: 913px; width: 701px; height: 29px;"
+            class="column"
+            title="Auchincloss
+      &#38;
+      Croxon,
+      com.
+      mers.
+      192
+      Fulton" >
+            Auchincloss
+      &#38;
+      Croxon,
+      com.
+      mers.
+      192
+      Fulton
+          </li>
+        
+          <li style="left: 149px; top: 945px; width: 788px; height: 32px;"
+            class="column"
+            title="Bagley
+      William,
+      clerk,
+      bank,
+      50
+      Wall,
+      h.
+      91
+      Henry, Brooklyn" >
+            Bagley
+      William,
+      clerk,
+      bank,
+      50
+      Wall,
+      h.
+      91
+      Henry,
+          </li>
+        
+          <li style="left: 212px; top: 978px; width: 128px; height: 29px;"
+            class=""
+            title="" >
+            Brooklyn
+          </li>
+        
+          <li style="left: 149px; top: 1009px; width: 534px; height: 34px;"
+            class="column"
+            title="BAIN
+      ALEXANDER,
+      telegraph inventor,
+      181" >
+            BAIN
+      ALEXANDER,
+      telegraph
+          </li>
+        
+          <li style="left: 213px; top: 1042px; width: 421px; height: 33px;"
+            class=""
+            title="" >
+            Broadway,
+      h.
+      Irving
+      house
+          </li>
+        
+          <li style="left: 149px; top: 1073px; width: 594px; height: 31px;"
+            class="column"
+            title="Baldwin
+      Ezekiel,
+      shoemaker,
+      79
+      Av.
+      B" >
+            Baldwin
+      Ezekiel,
+      shoemaker,
+      79
+      Av.
+      B
+          </li>
+        
+          <li style="left: 148px; top: 1105px; width: 450px; height: 34px;"
+            class="column"
+            title="Ball
+      Isaac,
+      pedler,
+      66
+      Mangin" >
+            Ball
+      Isaac,
+      pedler,
+      66
+      Mangin
+          </li>
+        
+          <li style="left: 147px; top: 1139px; width: 544px; height: 32px;"
+            class="column"
+            title="Bannon
+      Michael,
+      cooper,
+      304
+      Ninth" >
+            Bannon
+      Michael,
+      cooper,
+      304
+      Ninth
+          </li>
+        
+          <li style="left: 147px; top: 1171px; width: 695px; height: 31px;"
+            class="column"
+            title="Barmore
+      Christopher,
+      shoes,
+      E.
+      18th
+      n.
+      Av.
+      A" >
+            Barmore
+      Christopher,
+      shoes,
+      E.
+      18th
+      n.
+      Av.
+      A
+          </li>
+        
+          <li style="left: 147px; top: 1203px; width: 564px; height: 31px;"
+            class="column"
+            title="Barratt
+      Thomas,
+      carman,
+      605
+      Fourth" >
+            Barratt
+      Thomas,
+      carman,
+      605
+      Fourth
+          </li>
+        
+          <li style="left: 147px; top: 1235px; width: 590px; height: 32px;"
+            class="column"
+            title="Barrowclough
+      James,
+      E.
+      24th
+      c.
+      Av.
+      3" >
+            Barrowclough
+      James,
+      E.
+      24th
+      c.
+      Av.
+      3
+          </li>
+        
+          <li style="left: 146px; top: 1268px; width: 667px; height: 31px;"
+            class="column"
+            title="Barry
+      James,
+      marblepolisher,
+      294
+      Eleventh" >
+            Barry
+      James,
+      marblepolisher,
+      294
+      Eleventh
+          </li>
+        
+          <li style="left: 146px; top: 1300px; width: 492px; height: 31px;"
+            class="column"
+            title="Barry
+      John,
+      carpenter,
+      60
+      Av.
+      C" >
+            Barry
+      John,
+      carpenter,
+      60
+      Av.
+      C
+          </li>
+        
+          <li style="left: 146px; top: 1332px; width: 781px; height: 35px;"
+            class="column"
+            title="Bates
+      John
+      C.
+      sarsaparilla,
+      82
+      Nassau,
+      h.
+      Brooklyn" >
+            Bates
+      John
+      C.
+      sarsaparilla,
+      82
+      Nassau,
+      h.
+      Brooklyn
+          </li>
+        
+          <li style="left: 146px; top: 1365px; width: 683px; height: 32px;"
+            class="column"
+            title="Beach
+      John
+      T.
+      paper,
+      43
+      Fulton,
+      h.
+      22
+      Vesey" >
+            Beach
+      John
+      T.
+      paper,
+      43
+      Fulton,
+      h.
+      22
+      Vesey
+          </li>
+        
+          <li style="left: 146px; top: 1397px; width: 702px; height: 31px;"
+            class="column"
+            title="Bear
+      Isaac,
+      drygoods,
+      105
+      Av.
+      D,
+      h.
+      105
+      Av.
+      D" >
+            Bear
+      Isaac,
+      drygoods,
+      105
+      Av.
+      D,
+      h.
+      105
+      Av.
+      D
+          </li>
+        
+          <li style="left: 145px; top: 1429px; width: 567px; height: 32px;"
+            class="column"
+            title="Beard
+      William,
+      carpenter,
+      89
+      EB.
+      1ith" >
+            Beard
+      William,
+      carpenter,
+      89
+      EB.
+      1ith
+          </li>
+        
+          <li style="left: 146px; top: 1461px; width: 645px; height: 32px;"
+            class="column"
+            title="Becom
+      John
+      J.
+      sawyer,
+      Av.
+      C
+      n.
+      Eleventh" >
+            Becom
+      John
+      J.
+      sawyer,
+      Av.
+      C
+      n.
+      Eleventh
+          </li>
+        
+          <li style="left: 145px; top: 1493px; width: 533px; height: 33px;"
+            class="column"
+            title="Beebe
+      Joseph
+      D.
+      rigger,
+      350
+      Tenth" >
+            Beebe
+      Joseph
+      D.
+      rigger,
+      350
+      Tenth
+          </li>
+        
+          <li style="left: 146px; top: 1526px; width: 618px; height: 27px;"
+            class="column"
+            title="Beebe
+      &#38;
+      Co.
+      builders,
+      W.
+      24th
+      n.
+      Av.
+      10" >
+            Beebe
+      &#38;
+      Co.
+      builders,
+      W.
+      24th
+      n.
+      Av.
+      10
+          </li>
+        
+          <li style="left: 145px; top: 1558px; width: 770px; height: 34px;"
+            class="column"
+            title="Beers
+      William
+      P.
+      butcher,
+      69
+      Orange,
+      h.
+      77
+      Third" >
+            Beers
+      William
+      P.
+      butcher,
+      69
+      Orange,
+      h.
+      77
+      Third
+          </li>
+        
+          <li style="left: 146px; top: 1590px; width: 542px; height: 32px;"
+            class="column"
+            title="Bender
+      George
+      W.
+      tailor,
+      27
+      Av.
+      A" >
+            Bender
+      George
+      W.
+      tailor,
+      27
+      Av.
+      A
+          </li>
+        
+          <li style="left: 145px; top: 1622px; width: 582px; height: 30px;"
+            class="column"
+            title="Bennett
+      Cornelius,
+      carman,
+      400
+      Tenth" >
+            Bennett
+      Cornelius,
+      carman,
+      400
+      Tenth
+          </li>
+        
+          <li style="left: 146px; top: 1655px; width: 596px; height: 32px;"
+            class="column"
+            title="Bennett
+      George,
+      shoemaker,
+      131
+      Ay.
+      C" >
+            Bennett
+      George,
+      shoemaker,
+      131
+      Ay.
+      C
+          </li>
+        
+          <li style="left: 146px; top: 1687px; width: 580px; height: 29px;"
+            class="column"
+            title="Bennett
+      William,
+      carman,
+      245
+      BE.
+      13th" >
+            Bennett
+      William,
+      carman,
+      245
+      BE.
+      13th
+          </li>
+        
+          <li style="left: 146px; top: 1719px; width: 585px; height: 30px;"
+            class="column"
+            title="Bernhard
+      Gustavus,
+      teacher,
+      18
+      Av.
+      C" >
+            Bernhard
+      Gustavus,
+      teacher,
+      18
+      Av.
+      C
+          </li>
+        
+          <li style="left: 146px; top: 1751px; width: 434px; height: 30px;"
+            class="column"
+            title="Bernz
+      John,
+      tailor,
+      306
+      Avy.
+      1" >
+            Bernz
+      John,
+      tailor,
+      306
+      Avy.
+      1
+          </li>
+        
+          <li style="left: 146px; top: 1783px; width: 390px; height: 30px;"
+            class="column"
+            title="Berrian
+      Burr,
+      fish,
+      89
+      Pitt" >
+            Berrian
+      Burr,
+      fish,
+      89
+      Pitt
+          </li>
+        
+          <li style="left: 146px; top: 1816px; width: 510px; height: 31px;"
+            class="column"
+            title="Bird
+      George
+      L.
+      clerk,
+      45
+      Norfolk" >
+            Bird
+      George
+      L.
+      clerk,
+      45
+      Norfolk
+          </li>
+        
+          <li style="left: 146px; top: 1847px; width: 480px; height: 31px;"
+            class="column"
+            title="Bill
+      Hannah,
+      tailoress,
+      46
+      Amos" >
+            Bill
+      Hannah,
+      tailoress,
+      46
+      Amos
+          </li>
+        
+          <li style="left: 146px; top: 1880px; width: 680px; height: 34px;"
+            class="column"
+            title="Birmingham
+      David,
+      police,
+      W.
+      26th
+      n.
+      Av.7" >
+            Birmingham
+      David,
+      police,
+      W.
+      26th
+      n.
+      Av.7
+          </li>
+        
+          <li style="left: 146px; top: 1911px; width: 418px; height: 27px;"
+            class="column"
+            title="Boole
+      Thomas
+      B.
+      107
+      Av.
+      B" >
+            Boole
+      Thomas
+      B.
+      107
+      Av.
+      B
+          </li>
+        
+          <li style="left: 147px; top: 1944px; width: 501px; height: 31px;"
+            class="column"
+            title="Borman
+      Eckhard,
+      tailor,
+      5
+      Av.
+      B" >
+            Borman
+      Eckhard,
+      tailor,
+      5
+      Av.
+      B
+          </li>
+        
+          <li style="left: 146px; top: 1976px; width: 422px; height: 29px;"
+            class="column"
+            title="Bott
+      John,
+      tailor,
+      299
+      Av.
+      A" >
+            Bott
+      John,
+      tailor,
+      299
+      Av.
+      A
+          </li>
+        
+          <li style="left: 146px; top: 2009px; width: 423px; height: 30px;"
+            class="column"
+            title="Botz
+      Louis,
+      pedler,
+      43
+      Av.
+      1" >
+            Botz
+      Louis,
+      pedler,
+      43
+      Av.
+      1
+          </li>
+        
+          <li style="left: 146px; top: 2040px; width: 548px; height: 28px;"
+            class="column"
+            title="Bouton
+      Gilbert,
+      carman,
+      51
+      Norfolk" >
+            Bouton
+      Gilbert,
+      carman,
+      51
+      Norfolk
+          </li>
+        
+          <li style="left: 146px; top: 2073px; width: 524px; height: 31px;"
+            class="column"
+            title="Bowen
+      John,
+      plumber,
+      268
+      EF.
+      13th" >
+            Bowen
+      John,
+      plumber,
+      268
+      EF.
+      13th
+          </li>
+        
+          <li style="left: 146px; top: 2105px; width: 773px; height: 31px;"
+            class="column"
+            title="Boyd
+      John
+      jr.
+      mer.
+      149
+      &#38;
+      151
+      Front,
+      h.
+      92
+      Madison" >
+            Boyd
+      John
+      jr.
+      mer.
+      149
+      &#38;
+      151
+      Front,
+      h.
+      92
+      Madison
+          </li>
+        
+          <li style="left: 147px; top: 2137px; width: 583px; height: 32px;"
+            class="column"
+            title="Boyle
+      John,
+      liquors,
+      W.
+      25th
+      n.
+      Ay.
+      10" >
+            Boyle
+      John,
+      liquors,
+      W.
+      25th
+      n.
+      Ay.
+      10
+          </li>
+        
+          <li style="left: 147px; top: 2170px; width: 786px; height: 32px;"
+            class="column"
+            title="Boynton
+      Ray,
+      com.
+      mer.
+      51
+      Exch.
+      pl.
+      h.
+      31
+      W.
+      15th" >
+            Boynton
+      Ray,
+      com.
+      mer.
+      51
+      Exch.
+      pl.
+      h.
+      31
+      W.
+      15th
+          </li>
+        
+          <li style="left: 147px; top: 2202px; width: 709px; height: 31px;"
+            class="column"
+            title="Brady
+      John,
+      school,
+      219
+      E.
+      18th,
+      h.
+      217
+      E.
+      13th" >
+            Brady
+      John,
+      school,
+      219
+      E.
+      18th,
+      h.
+      217
+      E.
+      13th
+          </li>
+        
+          <li style="left: 147px; top: 2234px; width: 631px; height: 31px;"
+            class="column"
+            title="Bramley
+      Patrick,
+      boilermaker,
+      319
+      Ninth" >
+            Bramley
+      Patrick,
+      boilermaker,
+      319
+      Ninth
+          </li>
+        
+          <li style="left: 147px; top: 2266px; width: 708px; height: 32px;"
+            class="column"
+            title="Bramwell
+      Joseph,
+      mer.
+      h.
+      101
+      Henry,
+      Brooklyn" >
+            Bramwell
+      Joseph,
+      mer.
+      h.
+      101
+      Henry,
+      Brooklyn
+          </li>
+        
+          <li style="left: 148px; top: 2299px; width: 707px; height: 31px;"
+            class="column"
+            title="Brant
+      Theophilus,
+      shipjoiner,
+      Av.
+      Dc.
+      Fourth" >
+            Brant
+      Theophilus,
+      shipjoiner,
+      Av.
+      Dc.
+      Fourth
+          </li>
+        
+          <li style="left: 148px; top: 2331px; width: 630px; height: 32px;"
+            class="column"
+            title="Breasted
+      John,
+      allaire
+      works,
+      464
+      Cherry" >
+            Breasted
+      John,
+      allaire
+      works,
+      464
+      Cherry
+          </li>
+        
+          <li style="left: 148px; top: 2364px; width: 519px; height: 30px;"
+            class="column"
+            title="Brennan
+      Joseph,
+      mason,
+      312
+      Av.
+      1" >
+            Brennan
+      Joseph,
+      mason,
+      312
+      Av.
+      1
+          </li>
+        
+          <li style="left: 148px; top: 2396px; width: 690px; height: 29px;"
+            class="column"
+            title="Brennen
+      James
+      H.
+      hatter,
+      7
+      Av.
+      D,h.7
+      Av.
+      D" >
+            Brennen
+      James
+      H.
+      hatter,
+      7
+      Av.
+      D,h.7
+      Av.
+      D
+          </li>
+        
+          <li style="left: 148px; top: 2428px; width: 540px; height: 32px;"
+            class="column"
+            title="Breuninger
+      Henry,
+      tailor,
+      25
+      Av.
+      A" >
+            Breuninger
+      Henry,
+      tailor,
+      25
+      Av.
+      A
+          </li>
+        
+          <li style="left: 148px; top: 2460px; width: 578px; height: 32px;"
+            class="column"
+            title="Brice
+      Henry,
+      silkweaver,
+      143
+      W.
+      28th" >
+            Brice
+      Henry,
+      silkweaver,
+      143
+      W.
+      28th
+          </li>
+        
+          <li style="left: 148px; top: 2492px; width: 693px; height: 32px;"
+            class="column"
+            title="Brincker
+      William,
+      carpenter,
+      Third
+      n.
+      Av.
+      A" >
+            Brincker
+      William,
+      carpenter,
+      Third
+      n.
+      Av.
+      A
+          </li>
+        
+          <li style="left: 147px; top: 2525px; width: 410px; height: 24px;"
+            class="column"
+            title="Brodhead
+      John
+      R.
+      32
+      Bond" >
+            Brodhead
+      John
+      R.
+      32
+      Bond
+          </li>
+        
+          <li style="left: 148px; top: 2556px; width: 678px; height: 35px;"
+            class="column"
+            title="Brooks
+      Brothers,
+      clothing,
+      116
+      &#38;
+      118
+      Cherry" >
+            Brooks
+      Brothers,
+      clothing,
+      116
+      &#38;
+      118
+      Cherry
+          </li>
+        
+          <li style="left: 148px; top: 2589px; width: 613px; height: 31px;"
+            class="column"
+            title="Brouard
+      Peter,
+      83
+      Leonard,
+      h.
+      143
+      Reade" >
+            Brouard
+      Peter,
+      83
+      Leonard,
+      h.
+      143
+      Reade
+          </li>
+        
+          <li style="left: 720px; top: 1011px; width: 216px; height: 26px;"
+            class=""
+            title="" >
+            inventor,
+      181
+          </li>
+        
+          <li style="left: 974px; top: 267px; width: 627px; height: 34px;"
+            class="column"
+            title="Brough
+      William,
+      117
+      Fulton,
+      h.
+      4
+      Beach," >
+            Brough
+      William,
+      117
+      Fulton,
+      h.
+      4
+      Beach,
+          </li>
+        
+          <li style="left: 974px; top: 300px; width: 797px; height: 33px;"
+            class="column"
+            title="Brouner
+      Joseph
+      P.
+      drygoods,
+      707
+      Greenwich,
+      h.
+      529 Hudson" >
+            Brouner
+      Joseph
+      P.
+      drygoods,
+      707
+      Greenwich,
+      h.
+      529
+          </li>
+        
+          <li style="left: 1037px; top: 334px; width: 116px; height: 23px;"
+            class=""
+            title="" >
+            Hudson
+          </li>
+        
+          <li style="left: 973px; top: 364px; width: 799px; height: 32px;"
+            class="column"
+            title="Brouwer
+      Saml.
+      crockery,
+      72
+      Vesey,
+      h.
+      173
+      Wooster" >
+            Brouwer
+      Saml.
+      crockery,
+      72
+      Vesey,
+      h.
+      173
+      Wooster
+          </li>
+        
+          <li style="left: 972px; top: 397px; width: 647px; height: 27px;"
+            class="column"
+            title="Brown
+      Charles
+      P.
+      290
+      West,
+      h.
+      95
+      W.
+      13th" >
+            Brown
+      Charles
+      P.
+      290
+      West,
+      h.
+      95
+      W.
+      13th
+          </li>
+        
+          <li style="left: 972px; top: 429px; width: 624px; height: 32px;"
+            class="column"
+            title="Brown
+      Robert,
+      physician,
+      174
+      Chambers" >
+            Brown
+      Robert,
+      physician,
+      174
+      Chambers
+          </li>
+        
+          <li style="left: 972px; top: 461px; width: 590px; height: 32px;"
+            class="column"
+            title="Brown
+      Thomas
+      H.
+      hosiery,
+      34
+      Liberty" >
+            Brown
+      Thomas
+      H.
+      hosiery,
+      34
+      Liberty
+          </li>
+        
+          <li style="left: 971px; top: 493px; width: 797px; height: 33px;"
+            class="column"
+            title="Brown
+      &#38;
+      Englis,
+      shipwrights,
+      Twelfth
+      ce.
+      Dry
+      Dock" >
+            Brown
+      &#38;
+      Englis,
+      shipwrights,
+      Twelfth
+      ce.
+      Dry
+      Dock
+          </li>
+        
+          <li style="left: 971px; top: 527px; width: 600px; height: 28px;"
+            class="column"
+            title="Brownrs
+      Jolin
+      8.
+      carver,
+      h.
+      53
+      Monroe" >
+            Brownrs
+      Jolin
+      8.
+      carver,
+      h.
+      53
+      Monroe
+          </li>
+        
+          <li style="left: 971px; top: 558px; width: 670px; height: 32px;"
+            class="column"
+            title="Bruggemann
+      Diedrich,
+      grocer,
+      h.
+      72
+      Lewis" >
+            Bruggemann
+      Diedrich,
+      grocer,
+      h.
+      72
+      Lewis
+          </li>
+        
+          <li style="left: 972px; top: 590px; width: 762px; height: 31px;"
+            class="column"
+            title="Brummell
+      Adonijah,
+      confectioner,
+      h.
+      141
+      Norfolk" >
+            Brummell
+      Adonijah,
+      confectioner,
+      h.
+      141
+      Norfolk
+          </li>
+        
+          <li style="left: 971px; top: 623px; width: 621px; height: 31px;"
+            class="column"
+            title="Budd
+      Thomas
+      S.
+      shipmaster,
+      166
+      E.
+      20th" >
+            Budd
+      Thomas
+      S.
+      shipmaster,
+      166
+      E.
+      20th
+          </li>
+        
+          <li style="left: 971px; top: 655px; width: 566px; height: 30px;"
+            class="column"
+            title="Bunce
+      William
+      C.
+      carman,
+      201
+      Ay.
+      8" >
+            Bunce
+      William
+      C.
+      carman,
+      201
+      Ay.
+      8
+          </li>
+        
+          <li style="left: 970px; top: 688px; width: 629px; height: 33px;"
+            class="column"
+            title="Bunzel
+      Gottlieb,
+      whitewasher,
+      93
+      Ridge" >
+            Bunzel
+      Gottlieb,
+      whitewasher,
+      93
+      Ridge
+          </li>
+        
+          <li style="left: 970px; top: 720px; width: 633px; height: 31px;"
+            class="column"
+            title="Burket
+      James
+      E.
+      porterhouse,
+      433
+      Tenth" >
+            Burket
+      James
+      E.
+      porterhouse,
+      433
+      Tenth
+          </li>
+        
+          <li style="left: 970px; top: 753px; width: 558px; height: 31px;"
+            class="column"
+            title="Camp
+      Benjamin
+      F.
+      builder,
+      86
+      Av.
+      2" >
+            Camp
+      Benjamin
+      F.
+      builder,
+      86
+      Av.
+      2
+          </li>
+        
+          <li style="left: 970px; top: 785px; width: 591px; height: 31px;"
+            class="column"
+            title="Campbell
+      John,
+      blacksmith,
+      180
+      Av.
+      C" >
+            Campbell
+      John,
+      blacksmith,
+      180
+      Av.
+      C
+          </li>
+        
+          <li style="left: 970px; top: 818px; width: 600px; height: 31px;"
+            class="column"
+            title="Campbell
+      Peter,
+      boatman,
+      128
+      Charlton" >
+            Campbell
+      Peter,
+      boatman,
+      128
+      Charlton
+          </li>
+        
+          <li style="left: 969px; top: 850px; width: 620px; height: 32px;"
+            class="column"
+            title="Campbell
+      William
+      S.
+      printer,
+      180
+      Grand" >
+            Campbell
+      William
+      S.
+      printer,
+      180
+      Grand
+          </li>
+        
+          <li style="left: 969px; top: 883px; width: 794px; height: 31px;"
+            class="column"
+            title="Campbell
+      &#38;
+      Moody,
+      lumber,
+      7
+      Broad,
+      steam
+      saw mill,
+      foot
+      36th,
+      n.
+      r." >
+            Campbell
+      &#38;
+      Moody,
+      lumber,
+      7
+      Broad,
+      steam
+      saw
+          </li>
+        
+          <li style="left: 1034px; top: 915px; width: 299px; height: 30px;"
+            class=""
+            title="" >
+            mill,
+      foot
+      36th,
+      n.
+      r.
+          </li>
+        
+          <li style="left: 968px; top: 947px; width: 795px; height: 32px;"
+            class="column"
+            title="Cunham
+      Wm.
+      carpnter.
+      16
+      Clarkson,
+      h.
+      14
+      Clarkson" >
+            Cunham
+      Wm.
+      carpnter.
+      16
+      Clarkson,
+      h.
+      14
+      Clarkson
+          </li>
+        
+          <li style="left: 969px; top: 980px; width: 794px; height: 35px;"
+            class="column"
+            title="Cannon
+      Cornelius,
+      tinner,
+      176
+      Wooster,
+      h.
+      2
+      Congress" >
+            Cannon
+      Cornelius,
+      tinner,
+      176
+      Wooster,
+      h.
+      2
+      Congress
+          </li>
+        
+          <li style="left: 969px; top: 1013px; width: 585px; height: 31px;"
+            class="column"
+            title="Carey
+      Thomas,
+      carpenter,
+      104
+      E.
+      11th" >
+            Carey
+      Thomas,
+      carpenter,
+      104
+      E.
+      11th
+          </li>
+        
+          <li style="left: 968px; top: 1044px; width: 751px; height: 33px;"
+            class="column"
+            title="Carlisle
+      George,
+      mer.
+      165
+      Pearl,
+      h.
+      Cincinnati,
+      O" >
+            Carlisle
+      George,
+      mer.
+      165
+      Pearl,
+      h.
+      Cincinnati,
+      O
+          </li>
+        
+          <li style="left: 968px; top: 1077px; width: 548px; height: 29px;"
+            class="column"
+            title="Carlisle
+      &#38;
+      Stedman,
+      mers.
+      165
+      Pearl" >
+            Carlisle
+      &#38;
+      Stedman,
+      mers.
+      165
+      Pearl
+          </li>
+        
+          <li style="left: 968px; top: 1109px; width: 791px; height: 33px;"
+            class="column"
+            title="Carrington
+      Z.
+      E.
+      salesman,
+      13
+      William,
+      h.
+      Court
+      n. Degraw,
+      Brooklyn" >
+            Carrington
+      Z.
+      E.
+      salesman,
+      13
+      William,
+      h.
+      Court
+      n.
+          </li>
+        
+          <li style="left: 1032px; top: 1143px; width: 272px; height: 30px;"
+            class=""
+            title="" >
+            Degraw,
+      Brooklyn
+          </li>
+        
+          <li style="left: 967px; top: 1174px; width: 591px; height: 34px;"
+            class="column"
+            title="Carroll
+      D.
+      J.
+      physician.
+      400
+      Broadway" >
+            Carroll
+      D.
+      J.
+      physician.
+      400
+      Broadway
+          </li>
+        
+          <li style="left: 967px; top: 1207px; width: 785px; height: 33px;"
+            class="column"
+            title="Case
+      George,
+      sashmaker,
+      W.
+      25th
+      n.
+      Av.
+      8,
+      h.
+      W 25th
+      n.
+      Av.
+      8" >
+            Case
+      George,
+      sashmaker,
+      W.
+      25th
+      n.
+      Av.
+      8,
+      h.
+      W
+          </li>
+        
+          <li style="left: 1032px; top: 1240px; width: 196px; height: 23px;"
+            class=""
+            title="" >
+            25th
+      n.
+      Av.
+      8
+          </li>
+        
+          <li style="left: 967px; top: 1271px; width: 582px; height: 27px;"
+            class="column"
+            title="Castle
+      Charles
+      H.
+      com.
+      mer.
+      12!
+      Pearl" >
+            Castle
+      Charles
+      H.
+      com.
+      mer.
+      12!
+      Pearl
+          </li>
+        
+          <li style="left: 967px; top: 1303px; width: 671px; height: 36px;"
+            class="column"
+            title="Carlough
+      George,
+      carman,
+      746
+      Washington" >
+            Carlough
+      George,
+      carman,
+      746
+      Washington
+          </li>
+        
+          <li style="left: 967px; top: 1336px; width: 626px; height: 32px;"
+            class="column"
+            title="Channing
+      William,
+      physician,
+      88
+      White" >
+            Channing
+      William,
+      physician,
+      88
+      White
+          </li>
+        
+          <li style="left: 966px; top: 1369px; width: 628px; height: 31px;"
+            class="column"
+            title="Chapin
+      R.
+      Spencer,
+      physician,
+      305
+      Third" >
+            Chapin
+      R.
+      Spencer,
+      physician,
+      305
+      Third
+          </li>
+        
+          <li style="left: 966px; top: 1401px; width: 654px; height: 30px;"
+            class="column"
+            title="Charcin
+      John,
+      carpenter,
+      W.
+      28th
+      n.
+      Av.
+      7" >
+            Charcin
+      John,
+      carpenter,
+      W.
+      28th
+      n.
+      Av.
+      7
+          </li>
+        
+          <li style="left: 966px; top: 1433px; width: 632px; height: 30px;"
+            class="column"
+            title="Clarke
+      William,
+      brassfounder,
+      41
+      Sheriff" >
+            Clarke
+      William,
+      brassfounder,
+      41
+      Sheriff
+          </li>
+        
+          <li style="left: 966px; top: 1465px; width: 618px; height: 35px;"
+            class="column"
+            title="Clarke
+      &#38;
+      Dougherty,
+      morocco,
+      29
+      Ferry" >
+            Clarke
+      &#38;
+      Dougherty,
+      morocco,
+      29
+      Ferry
+          </li>
+        
+          <li style="left: 966px; top: 1498px; width: 592px; height: 31px;"
+            class="column"
+            title="Clary
+      Philip,
+      livery
+      stables,
+      193
+      Ninth" >
+            Clary
+      Philip,
+      livery
+      stables,
+      193
+      Ninth
+          </li>
+        
+          <li style="left: 966px; top: 1530px; width: 702px; height: 34px;"
+            class="column"
+            title="Clausen
+      &#38;
+      Suhr,
+      boarding,
+      Peck
+      slip,
+      c.
+      Pearl" >
+            Clausen
+      &#38;
+      Suhr,
+      boarding,
+      Peck
+      slip,
+      c.
+      Pearl
+          </li>
+        
+          <li style="left: 966px; top: 1562px; width: 530px; height: 32px;"
+            class="column"
+            title="Claussen
+      John,
+      grocer,
+      160
+      Church" >
+            Claussen
+      John,
+      grocer,
+      160
+      Church
+          </li>
+        
+          <li style="left: 966px; top: 1594px; width: 560px; height: 34px;"
+            class="column"
+            title="Clayton
+      John,
+      carpenter,
+      63
+      Factory" >
+            Clayton
+      John,
+      carpenter,
+      63
+      Factory
+          </li>
+        
+          <li style="left: 966px; top: 1626px; width: 703px; height: 30px;"
+            class="column"
+            title="Clear
+      Edward,
+      boxes,
+      73
+      Maiden
+      la.
+      h.
+      43
+      Elm" >
+            Clear
+      Edward,
+      boxes,
+      73
+      Maiden
+      la.
+      h.
+      43
+      Elm
+          </li>
+        
+          <li style="left: 966px; top: 1659px; width: 789px; height: 35px;"
+            class="column"
+            title="Collins
+      Joseph
+      B.
+      pres.
+      m.1.
+      ins.
+      co.
+      35
+      Wall,
+      bh.
+      415 Broome" >
+            Collins
+      Joseph
+      B.
+      pres.
+      m.1.
+      ins.
+      co.
+      35
+      Wall,
+      bh.
+      415
+          </li>
+        
+          <li style="left: 1029px; top: 1693px; width: 116px; height: 23px;"
+            class=""
+            title="" >
+            Broome
+          </li>
+        
+          <li style="left: 965px; top: 1724px; width: 789px; height: 32px;"
+            class="column"
+            title="Cooper
+      Thos.
+      8.
+      grocer,
+      104
+      Broad,
+      h.
+      23
+      Whitehall" >
+            Cooper
+      Thos.
+      8.
+      grocer,
+      104
+      Broad,
+      h.
+      23
+      Whitehall
+          </li>
+        
+          <li style="left: 965px; top: 1756px; width: 657px; height: 32px;"
+            class="column"
+            title="Cooper,
+      Storm
+      &#38;
+      Smith,
+      grocers,
+      104
+      Broad" >
+            Cooper,
+      Storm
+      &#38;
+      Smith,
+      grocers,
+      104
+      Broad
+          </li>
+        
+          <li style="left: 965px; top: 1788px; width: 505px; height: 32px;"
+            class="column"
+            title="Corell
+      Peter,
+      20
+      Hamersley
+      place" >
+            Corell
+      Peter,
+      20
+      Hamersley
+      place
+          </li>
+        
+          <li style="left: 965px; top: 1821px; width: 467px; height: 31px;"
+            class="column"
+            title="Cosgrove
+      Henry,
+      h.
+      7
+      Chrystie" >
+            Cosgrove
+      Henry,
+      h.
+      7
+      Chrystie
+          </li>
+        
+          <li style="left: 964px; top: 1853px; width: 633px; height: 32px;"
+            class="column"
+            title="Crawford
+      George
+      W.
+      carman,
+      650
+      Fourth" >
+            Crawford
+      George
+      W.
+      carman,
+      650
+      Fourth
+          </li>
+        
+          <li style="left: 964px; top: 1885px; width: 754px; height: 32px;"
+            class="column"
+            title="Crawford
+      Susannah,
+      widow
+      of
+      David.
+      650
+      Fourth" >
+            Crawford
+      Susannah,
+      widow
+      of
+      David.
+      650
+      Fourth
+          </li>
+        
+          <li style="left: 963px; top: 1918px; width: 647px; height: 33px;"
+            class="column"
+            title="Croxon
+      H.
+      Thomas,
+      com.
+      mer.
+      192
+      Fulton," >
+            Croxon
+      H.
+      Thomas,
+      com.
+      mer.
+      192
+      Fulton,
+          </li>
+        
+          <li style="left: 963px; top: 1950px; width: 659px; height: 32px;"
+            class="column"
+            title="Cunningham
+      Thomas,
+      rigger,
+      r.
+      14
+      Pelham" >
+            Cunningham
+      Thomas,
+      rigger,
+      r.
+      14
+      Pelham
+          </li>
+        
+          <li style="left: 963px; top: 1981px; width: 649px; height: 37px;"
+            class="column"
+            title="Curtis
+      Joseph
+      T.
+      physician,
+      609
+      Broadway" >
+            Curtis
+      Joseph
+      T.
+      physician,
+      609
+      Broadway
+          </li>
+        
+          <li style="left: 962px; top: 2013px; width: 665px; height: 32px;"
+            class="column"
+            title="Cushman
+      J.
+      Newland,
+      lawyer,
+      118
+      William" >
+            Cushman
+      J.
+      Newland,
+      lawyer,
+      118
+      William
+          </li>
+        
+          <li style="left: 962px; top: 2046px; width: 787px; height: 33px;"
+            class="column"
+            title="Daniel
+      Joseph
+      P.
+      sodawater,
+      118
+      Fulton,
+      h.
+      76
+      Mott" >
+            Daniel
+      Joseph
+      P.
+      sodawater,
+      118
+      Fulton,
+      h.
+      76
+      Mott
+          </li>
+        
+          <li style="left: 962px; top: 2077px; width: 789px; height: 34px;"
+            class="column"
+            title="Darling
+      Wm.
+      physician.
+      645
+      Bway,
+      h.
+      226
+      Wooster" >
+            Darling
+      Wm.
+      physician.
+      645
+      Bway,
+      h.
+      226
+      Wooster
+          </li>
+        
+          <li style="left: 962px; top: 2108px; width: 788px; height: 49px;"
+            class="column"
+            title="Davis
+      Edwin,
+      com.
+      mer.
+      16
+      Burling
+      slip.
+      h.
+      Brookln" >
+            Davis
+      Edwin,
+      com.
+      mer.
+      16
+      Burling
+      slip.
+      h.
+      Brookln
+          </li>
+        
+          <li style="left: 962px; top: 2142px; width: 615px; height: 31px;"
+            class="column"
+            title="Deafenbuck
+      Henry,
+      butcher,
+      465
+      Fourth" >
+            Deafenbuck
+      Henry,
+      butcher,
+      465
+      Fourth
+          </li>
+        
+          <li style="left: 962px; top: 2174px; width: 744px; height: 39px;"
+            class="column"
+            title="Decry
+      Dennis,
+      late
+      porterhouse,
+      623
+      Washington" >
+            Decry
+      Dennis,
+      late
+      porterhouse,
+      623
+      Washington
+          </li>
+        
+          <li style="left: 962px; top: 2206px; width: 559px; height: 31px;"
+            class="column"
+            title="Delavan
+      James,
+      secretary,
+      25
+      Nassau" >
+            Delavan
+      James,
+      secretary,
+      25
+      Nassau
+          </li>
+        
+          <li style="left: 962px; top: 2238px; width: 786px; height: 40px;"
+            class="column"
+            title="Denison
+      Charles
+      8.
+      liquors,
+      267
+      Washington,
+      h.
+      5 Charlton" >
+            Denison
+      Charles
+      8.
+      liquors,
+      267
+      Washington,
+      h.
+      5
+          </li>
+        
+          <li style="left: 1026px; top: 2271px; width: 135px; height: 24px;"
+            class=""
+            title="" >
+            Charlton
+          </li>
+        
+          <li style="left: 962px; top: 2302px; width: 785px; height: 39px;"
+            class="column"
+            title="Derickson
+      Kinlock
+      S.
+      com.
+      mer,
+      87
+      Beaver,
+      h.
+      2 College
+      pl" >
+            Derickson
+      Kinlock
+      S.
+      com.
+      mer,
+      87
+      Beaver,
+      h.
+      2
+          </li>
+        
+          <li style="left: 1026px; top: 2335px; width: 157px; height: 33px;"
+            class=""
+            title="" >
+            College
+      pl
+          </li>
+        
+          <li style="left: 962px; top: 2367px; width: 785px; height: 39px;"
+            class="column"
+            title="Devermaun
+      Hammond,
+      grocer,
+      45
+      Ridge,
+      h.
+      Clinton c.
+      Delancy" >
+            Devermaun
+      Hammond,
+      grocer,
+      45
+      Ridge,
+      h.
+      Clinton
+          </li>
+        
+          <li style="left: 1027px; top: 2400px; width: 159px; height: 31px;"
+            class=""
+            title="" >
+            c.
+      Delancy
+          </li>
+        
+          <li style="left: 962px; top: 2430px; width: 578px; height: 32px;"
+            class="column"
+            title="Devoe
+      John
+      C.
+      saddler,
+      h.
+      184
+      Ludlow" >
+            Devoe
+      John
+      C.
+      saddler,
+      h.
+      184
+      Ludlow
+          </li>
+        
+          <li style="left: 962px; top: 2464px; width: 652px; height: 31px;"
+            class="column"
+            title="Diederich
+      Charles,
+      coppersmith,
+      101
+      Ay.
+      C" >
+            Diederich
+      Charles,
+      coppersmith,
+      101
+      Ay.
+      C
+          </li>
+        
+          <li style="left: 962px; top: 2496px; width: 784px; height: 35px;"
+            class="column"
+            title="Donnely
+      Edward
+      C.
+      mer.7S.
+      William,
+      h.
+      102
+      Av.
+      2" >
+            Donnely
+      Edward
+      C.
+      mer.7S.
+      William,
+      h.
+      102
+      Av.
+      2
+          </li>
+        
+          <li style="left: 962px; top: 2528px; width: 528px; height: 31px;"
+            class="column"
+            title="Duffey
+      James,
+      carpenter,
+      200
+      Ay.
+      1" >
+            Duffey
+      James,
+      carpenter,
+      200
+      Ay.
+      1
+          </li>
+        
+          <li style="left: 961px; top: 2560px; width: 696px; height: 32px;"
+            class="column"
+            title="Duffy
+      John,
+      surgeon,
+      12
+      Sixth,
+      h.
+      30
+      Bleecker" >
+            Duffy
+      John,
+      surgeon,
+      12
+      Sixth,
+      h.
+      30
+      Bleecker
+          </li>
+        
+          <li style="left: 964px; top: 2592px; width: 782px; height: 35px;"
+            class="column"
+            title="Duffy
+      Bernard
+      G.
+      grocer,
+      560
+      Fourth,
+      h.
+      660
+      Fourth" >
+            Duffy
+      Bernard
+      G.
+      grocer,
+      560
+      Fourth,
+      h.
+      660
+      Fourth
+          </li>
+        
+        </ol>
+
+        <svg class="connections">
+          <defs>
+            <marker id="arrow" markerWidth="5" markerHeight="5" refx="6" refy="3" orient="auto" markerUnits="strokeWidth" viewBox="0 0 9 6">
+              <path d="M0,0 L0,6 L9,3 z" />
+            </marker>
+          </defs>
+          
+            
+          
+            
+              <line x1="153" y1="333"
+                x2="218" y2="348"
+                stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              <line x1="151" y1="490"
+                x2="215" y2="505.5"
+                stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              <line x1="149" y1="878"
+                x2="213" y2="896"
+                stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+            
+          
+            
+          
+            
+          
+            
+              <line x1="149" y1="977"
+                x2="212" y2="992.5"
+                stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+            
+          
+            
+          
+            
+              <line x1="149" y1="1043"
+                x2="720" y2="1024"
+                stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              <line x1="974" y1="333"
+                x2="1037" y2="345.5"
+                stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              <line x1="969" y1="914"
+                x2="1034" y2="930"
+                stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              <line x1="968" y1="1142"
+                x2="1032" y2="1158"
+                stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+            
+          
+            
+          
+            
+          
+            
+              <line x1="967" y1="1240"
+                x2="1032" y2="1251.5"
+                stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              <line x1="966" y1="1694"
+                x2="1029" y2="1704.5"
+                stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              <line x1="962" y1="2278"
+                x2="1026" y2="2283"
+                stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+            
+          
+            
+          
+            
+              <line x1="962" y1="2341"
+                x2="1026" y2="2351.5"
+                stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+            
+          
+            
+          
+            
+              <line x1="962" y1="2406"
+                x2="1027" y2="2415.5"
+                stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+        </svg>
+      </div>
+    </li>
+  
+  </ol>
+  <script>
+    var columnsHidden = false
+    var linesHidden = false
+    var connectionsHidden = false
+
+    function toggleClass (element, cls, toggled) {
+      if (toggled) {
+        element.classList.add(cls)
+      } else {
+        element.classList.remove(cls)
+      }
+    }
+
+    function toggleClassAll (list, cls, toggled) {
+      for (var element of list) {
+        toggleClass(element, cls, toggled)
+      }
+    }
+
+    document.addEventListener('keypress', function (event) {
+      if (event.key === 'b') {
+        linesHidden = !linesHidden
+        var lines = document.querySelectorAll('.lines')
+        toggleClassAll(lines, 'hidden', linesHidden)
+      } else if (event.key === 'c') {
+        columnsHidden = !columnsHidden
+        var columns = document.querySelectorAll('.columns')
+        toggleClassAll(columns, 'hidden', columnsHidden)
+      } else if (event.key === 'l') {
+        connectionsHidden = !connectionsHidden
+        var connections = document.querySelectorAll('.connections')
+        toggleClassAll(connections, 'hidden', connectionsHidden)
+      }
+    })
+  </script>
+</body>
+</html>

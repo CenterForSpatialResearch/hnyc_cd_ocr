@@ -1,0 +1,800 @@
+{
+  "config": {
+    "columnCount": 2,
+    "characterWidth": 25,
+    "minLinesPerColumn": 50
+  },
+  "pages": [
+    {
+      "number": 0,
+      "properties": {
+        "image": "saved.tif",
+        "bbox": [
+          0,
+          0,
+          1380,
+          2500
+        ],
+        "ppageno": 0
+      },
+      "lines": [
+        {
+          "properties": {
+            "bbox": [
+              246,
+              199,
+              1063,
+              249
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 41.396225,
+            "x_descenders": 5.3962264,
+            "x_ascenders": 10
+          },
+          "text": "42\n      BROOKLYN\n      DIRECTORY,"
+        },
+        {
+          "properties": {
+            "bbox": [
+              244,
+              290,
+              1018,
+              343
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 47,
+            "x_descenders": 13,
+            "x_ascenders": 12
+          },
+          "text": "Birmingham\n      John,\n      lahorer\n      6\n      Tiffany\n      place"
+        },
+        {
+          "properties": {
+            "bbox": [
+              244,
+              337,
+              1104,
+              388
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 47,
+            "x_descenders": 13,
+            "x_ascenders": 12
+          },
+          "text": "Birmingham\n      Thomas,\n      grocer\n      Carll\n      n\n      Myrtle\n      av"
+        },
+        {
+          "properties": {
+            "bbox": [
+              244,
+              380,
+              1281,
+              434
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 45,
+            "x_descenders": 11,
+            "x_ascenders": 12
+          },
+          "text": "Birmingham\n      Thomas,\n      oil\n      cloth\n      manâ€™r\n      Navy\n      n\n      DeKalb\n      ay"
+        },
+        {
+          "properties": {
+            "bbox": [
+              244,
+              427,
+              1266,
+              481
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 44,
+            "x_descenders": 11,
+            "x_ascenders": 12
+          },
+          "text": "Birney\n      Arthur,\n      coal\n      dealer\n      60\n      Cherry\n      N\n      Â¥h'76\n      Lawrence"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              473,
+              1317,
+              526
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 43,
+            "x_descenders": 9,
+            "x_ascenders": 13
+          },
+          "text": "Birney\n      Charles\n      H,\n      Sec.\n      East\n      River\n      Ins\n      Co\n      61\n      Wall\n      st\n      NY"
+        },
+        {
+          "properties": {
+            "bbox": [
+              382,
+              524,
+              783,
+              568
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 45,
+            "x_descenders": 12,
+            "x_ascenders": 12
+          },
+          "text": "h\n      Clinton\n      n\n      Myrtle\n      av"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              563,
+              1239,
+              614
+            ],
+            "baseline": [
+              0,
+              -6
+            ],
+            "x_size": 45,
+            "x_descenders": 10,
+            "x_ascenders": 13
+          },
+          "text": "Bisbee\n      Eliza,\n      boarding\n      house\n      3d\n      av\n      n\n      18th\n      st\n      Gowanus"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              613,
+              1093,
+              658
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 41,
+            "x_descenders": 7,
+            "x_ascenders": 13
+          },
+          "text": "Bisbee\n      1,\n      Sec.\n      U\n      8\n      Life\n      Ins\n      Co\n      65\n      Lawrence"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              661,
+              967,
+              707
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 44,
+            "x_descenders": 11,
+            "x_ascenders": 12
+          },
+          "text": "Bisseck\n      George,\n      teamster\n      40\n      Carlton\n      av"
+        },
+        {
+          "properties": {
+            "bbox": [
+              247,
+              706,
+              835,
+              755
+            ],
+            "baseline": [
+              0,
+              -12
+            ],
+            "x_size": 40,
+            "x_descenders": 7,
+            "x_ascenders": 12
+          },
+          "text": "Bishop\n      A\n      D,\n      builder\n      121\n      Adams"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              749,
+              1105,
+              800
+            ],
+            "baseline": [
+              0,
+              -12
+            ],
+            "x_size": 41,
+            "x_descenders": 7,
+            "x_ascenders": 13
+          },
+          "text": "Bishop\n      Alfred,\n      carpenter\n      Pacific\n      n\n      Underhill\n      ay"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              797,
+              1122,
+              845
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 45,
+            "x_descenders": 11,
+            "x_ascenders": 13
+          },
+          "text": "Bishop\n      Charles\n      W,\n      accountant\n      Fulton\n      av\n      c\n      Hoyt"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              845,
+              774,
+              890
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 45,
+            "x_descenders": 11,
+            "x_ascenders": 13
+          },
+          "text": "Bishop\n      Henry,\n      clerk\n      78\n      York"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              887,
+              1098,
+              937
+            ],
+            "baseline": [
+              0,
+              -12
+            ],
+            "x_size": 45,
+            "x_descenders": 11,
+            "x_ascenders": 13
+          },
+          "text": "Bishop\n      James\n      F,\n      painter\n      4\n      Linden\n      row\n      Fulton"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              935,
+              867,
+              982
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 46,
+            "x_descenders": 12,
+            "x_ascenders": 13
+          },
+          "text": "Bishop\n      John,\n      mason\n      187\n      Concord"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              982,
+              937,
+              1028
+            ],
+            "baseline": [
+              0,
+              -12
+            ],
+            "x_size": 44,
+            "x_descenders": 11,
+            "x_ascenders": 12
+          },
+          "text": "Bishop\n      John\n      E,\n      Classon\n      av\n      Â¢\n      Hickory"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              1027,
+              775,
+              1072
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 43,
+            "x_descenders": 10,
+            "x_ascenders": 12
+          },
+          "text": "Bishop\n      John\n      8,\n      89\n      Pineapple"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              1073,
+              933,
+              1117
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 42,
+            "x_descenders": 11,
+            "x_ascenders": 10
+          },
+          "text": "Bishop\n      Richard,\n      clerk\n      Navy\n      n\n      Nassau"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              1115,
+              1170,
+              1163
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 45,
+            "x_descenders": 11,
+            "x_ascenders": 13
+          },
+          "text": "Bishop\n      Robert,\n      sexton\n      Trinity\n      Chureh\n      250\n      Adams"
+        },
+        {
+          "properties": {
+            "bbox": [
+              244,
+              1162,
+              1321,
+              1208
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 44,
+            "x_descenders": 11,
+            "x_ascenders": 12
+          },
+          "text": "Bishop\n      Samuel,\n      marketinan\n      cor\n      Sands\n      &\n      Pearl\n      h\n      101\n      Pearl"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              1208,
+              1279,
+              1253
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 44,
+            "x_descenders": 11,
+            "x_ascenders": 12
+          },
+          "text": "Bisbop\n      Thomas,\n      clerk\n      Phoenix\n      Bank\n      N\n      Â¥\n      h\n      175\n      Adams"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              1253,
+              1261,
+              1300
+            ],
+            "baseline": [
+              0,
+              -12
+            ],
+            "x_size": 45,
+            "x_descenders": 11,
+            "x_ascenders": 13
+          },
+          "text": "Bishop\n      William\n      B,\n      livery\n      stable\n      Doughty\n      st\n      h\n      25\n      Fulton"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              1300,
+              1323,
+              1345
+            ],
+            "baseline": [
+              0,
+              -12
+            ],
+            "x_size": 40,
+            "x_descenders": 7,
+            "x_ascenders": 12
+          },
+          "text": "Bissell\n      Edward,\n      merchant\n      106\n      Murray\n      N'Y\n      h\n      Hoytn\n      Dean"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              1346,
+              679,
+              1387
+            ],
+            "baseline": [
+              0,
+              -8
+            ],
+            "x_size": 41,
+            "x_descenders": 8,
+            "x_ascenders": 12
+          },
+          "text": "Bissett\n      Sarah,\n      5\n      Prince"
+        },
+        {
+          "properties": {
+            "bbox": [
+              244,
+              1393,
+              886,
+              1435
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 43,
+            "x_descenders": 11,
+            "x_ascenders": 11
+          },
+          "text": "Bithell\n      Charles,\n      baker\n      Water\n      n\n      Jay"
+        },
+        {
+          "properties": {
+            "bbox": [
+              244,
+              1436,
+              921,
+              1480
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 44,
+            "x_descenders": 10,
+            "x_ascenders": 13
+          },
+          "text": "Bitman\n      Godfrey,\n      clerk\n      Sands\n      Â¢\n      Pearl"
+        },
+        {
+          "properties": {
+            "bbox": [
+              244,
+              1481,
+              1203,
+              1526
+            ],
+            "baseline": [
+              0,
+              -10
+            ],
+            "x_size": 39,
+            "x_descenders": 7,
+            "x_ascenders": 14
+          },
+          "text": "Bittelle\n      Michael,\n      Emerald\n      House\n      Columbia\n      n\n      Amity"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              1526,
+              1251,
+              1568
+            ],
+            "baseline": [
+              0,
+              -7
+            ],
+            "x_size": 41,
+            "x_descenders": 8,
+            "x_ascenders": 12
+          },
+          "text": "Bivens\n      Granville,\n      sexton\n      &\n      undertaker\n      Court\n      n\n      Pacific"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              1573,
+              768,
+              1615
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 44,
+            "x_descenders": 11,
+            "x_ascenders": 13
+          },
+          "text": "Blachley\n      Jacob\n      C,\n      136\n      High"
+        },
+        {
+          "properties": {
+            "bbox": [
+              247,
+              1618,
+              723,
+              1660
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 42,
+            "x_descenders": 10,
+            "x_ascenders": 12
+          },
+          "text": "Biack\n      Edward,\n      214\n      Front"
+        },
+        {
+          "properties": {
+            "bbox": [
+              247,
+              1661,
+              1239,
+              1702
+            ],
+            "baseline": [
+              0,
+              -5
+            ],
+            "x_size": 41,
+            "x_descenders": 6,
+            "x_ascenders": 14
+          },
+          "text": "Black\n      G\n      C,\n      watebmaker\n      42\n      Fulton\n      N\n      Â¥Yh134\n      Adams"
+        },
+        {
+          "properties": {
+            "bbox": [
+              247,
+              1708,
+              1113,
+              1750
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 42,
+            "x_descenders": 9,
+            "x_ascenders": 12
+          },
+          "text": "Black\n      John,\n      masterâ€™s\n      mate\n      v\n      sn\n      54\n      Hudson\n      av"
+        },
+        {
+          "properties": {
+            "bbox": [
+              246,
+              1753,
+              1084,
+              1795
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 41,
+            "x_descenders": 8,
+            "x_ascenders": 12
+          },
+          "text": "Black\n      James,\n      shoemaker\n      Dufeld\n      c\n      Fulton\n      av"
+        },
+        {
+          "properties": {
+            "bbox": [
+              247,
+              1799,
+              1257,
+              1844
+            ],
+            "baseline": [
+              0,
+              -13
+            ],
+            "x_size": 36,
+            "x_descenders": 6,
+            "x_ascenders": 13
+          },
+          "text": "Black\n      P\n      C,\n      widow\n      of\n      William,\n      Old\n      Bridee\n      rd\n      Gowanus"
+        },
+        {
+          "properties": {
+            "bbox": [
+              249,
+              1844,
+              847,
+              1888
+            ],
+            "baseline": [
+              0,
+              -11
+            ],
+            "x_size": 41,
+            "x_descenders": 8,
+            "x_ascenders": 13
+          },
+          "text": "Black\n      Rebecca,\n      tailoress\n      110\n      Jay"
+        },
+        {
+          "properties": {
+            "bbox": [
+              247,
+              1889,
+              1083,
+              1933
+            ],
+            "baseline": [
+              0,
+              -12
+            ],
+            "x_size": 43,
+            "x_descenders": 10,
+            "x_ascenders": 12
+          },
+          "text": "Black\n      William,\n      bootmaker\n      Navy\n      a\n      Myrtle\n      av"
+        },
+        {
+          "properties": {
+            "bbox": [
+              249,
+              1934,
+              1081,
+              1979
+            ],
+            "baseline": [
+              0,
+              -12
+            ],
+            "x_size": 39,
+            "x_descenders": 5,
+            "x_ascenders": 13
+          },
+          "text": "Blackbourne\n      Sophia,\n      widow\n      of\n      R\n      OC,\n      70\n      Sands"
+        },
+        {
+          "properties": {
+            "bbox": [
+              249,
+              1979,
+              1219,
+              2020
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 39,
+            "x_descenders": 6,
+            "x_ascenders": 12
+          },
+          "text": "Blackburn\n      John,\n      coffee\n      roaster\n      Hudson\n      ave\n      Concord"
+        },
+        {
+          "properties": {
+            "bbox": [
+              249,
+              2024,
+              943,
+              2065
+            ],
+            "baseline": [
+              0,
+              -9
+            ],
+            "x_size": 39,
+            "x_descenders": 6,
+            "x_ascenders": 13
+          },
+          "text": "Blackett\n      William,\n      clerk\n      44\n      Hudson\n      ay"
+        },
+        {
+          "properties": {
+            "bbox": [
+              249,
+              2069,
+              1326,
+              2120
+            ],
+            "baseline": [
+              0,
+              -18
+            ],
+            "x_size": 41,
+            "x_descenders": 8,
+            "x_ascenders": 12
+          },
+          "text": "Blackman\n      Homer,\n      cutter\n      90\n      Main\n      [Degraw"
+        },
+        {
+          "properties": {
+            "bbox": [
+              249,
+              2114,
+              1327,
+              2164
+            ],
+            "baseline": [
+              0,
+              -18
+            ],
+            "x_size": 47,
+            "x_descenders": 12,
+            "x_ascenders": 14
+          },
+          "text": "Blackmore\n      John,\n      physician\n      5\n      Cottage\n      place\n      Columbia\n      n"
+        },
+        {
+          "properties": {
+            "bbox": [
+              250,
+              2159,
+              946,
+              2206
+            ],
+            "baseline": [
+              0,
+              -12
+            ],
+            "x_size": 45,
+            "x_descenders": 10,
+            "x_ascenders": 12
+          },
+          "text": "Blackwell\n      Isaac,\n      silversmith\n      52\n      Prince"
+        }
+      ],
+      "linesPerColumn": [],
+      "minLinesPerColumn": false
+    }
+  ]
+}
